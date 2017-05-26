@@ -1,6 +1,6 @@
 # Welcome to BUDA's documentation
 
-For information about the BUDA project visit [tbrc.org](https://tbrc.org).
+For general information on BUDA project, please visit [tbrc.org](https://tbrc.org).
 
 ## Commands
 
