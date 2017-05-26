@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome to BUDA's documentation
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+For information about the BUDA project visit [tbrc.org](https://tbrc.org).
 
 ## Commands
 

@@ -1,1 +1,7 @@
 site_name: My Docs
+theme: readthedocs
+
+pages:
+    - What is BUDA?: index.md
+    - Open Linked Data: LD.md
+    - BUDA Ontology: OWL.md
