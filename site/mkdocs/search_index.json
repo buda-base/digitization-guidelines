@@ -22,13 +22,18 @@
         },
         {
             "location": "/LD/",
-            "text": "Open Linked Data in BUDA\n\n\nStuff about linked data",
+            "text": "Open Linked Data in BUDA\n\n\nStuff about linked data\n\n\nMore stuff",
             "title": "Open Linked Data"
         },
         {
             "location": "/LD/#open-linked-data-in-buda",
             "text": "Stuff about linked data",
             "title": "Open Linked Data in BUDA"
+        },
+        {
+            "location": "/LD/#more-stuff",
+            "text": "",
+            "title": "More stuff"
         },
         {
             "location": "/OWL/",
