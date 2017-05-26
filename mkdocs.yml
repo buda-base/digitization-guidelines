@@ -1,5 +1,5 @@
 site_name: Technical BUDA
-theme: readthedocs
+theme: 'material'
 
 pages:
     - What is BUDA?: index.md
