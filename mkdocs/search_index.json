@@ -2,13 +2,13 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Home"
+            "text": "Welcome to BUDA's documentation\n\n\nFor information about the BUDA project visit \ntbrc.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "What is BUDA?"
         },
         {
-            "location": "/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/#welcome-to-budas-documentation",
+            "text": "For information about the BUDA project visit  tbrc.org .",
+            "title": "Welcome to BUDA's documentation"
         },
         {
             "location": "/#commands",
@@ -19,6 +19,26 @@
             "location": "/#project-layout",
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
             "title": "Project layout"
+        },
+        {
+            "location": "/LD/",
+            "text": "Open Linked Data in BUDA\n\n\nStuff about linked data",
+            "title": "Open Linked Data"
+        },
+        {
+            "location": "/LD/#open-linked-data-in-buda",
+            "text": "Stuff about linked data",
+            "title": "Open Linked Data in BUDA"
+        },
+        {
+            "location": "/OWL/",
+            "text": "BUDA OWL\n\n\nStuff about OWL",
+            "title": "BUDA Ontology"
+        },
+        {
+            "location": "/OWL/#buda-owl",
+            "text": "Stuff about OWL",
+            "title": "BUDA OWL"
         }
     ]
 }
