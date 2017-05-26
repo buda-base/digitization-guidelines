@@ -7,4 +7,4 @@ To edit the documentation:
 * edit the .md files in the /docs/ folder
 * if you create new pages, don't forget to add them to the .yml file
 * build and publish the documentation site with the ``mkdocs gh-deploy`` command
-* push your changes on the master branch
+* push your changes to this repository
