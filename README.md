@@ -1,5 +1,5 @@
 # buda-technical-doc
-Technical documentation on a mkdocs static site [hosted here for now](https://BuddhistDigitalResourceCenter.github.io/buda-technical-doc/).
+Technical documentation on a mkdocs static site [hosted here](https://BuddhistDigitalResourceCenter.github.io/buda-technical-doc/) for now.
 
 To edit the documentation:
 * install mkdocs following [these instructions](http://www.mkdocs.org/#installation)
