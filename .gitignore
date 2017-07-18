@@ -2,3 +2,4 @@
 dist/
 mkdocs_basic_theme.egg-info/
 .DS_Store
+site/
