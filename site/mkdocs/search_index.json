@@ -1,0 +1,49 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Introduction\n\n\nThis is the latest version of the Digitization Guidelines for the BUDA project.\n\n\nThe definition of good data int for false \ndsdsfsdf\n\n\n\ndsssd\n\n\nDefinition of good data\n\n\n\nDefinition of good data\n\n\n\n\n\n\n\n\n\n\nFeature\n\n\nStandard\n\n\n\n\n\n\n\n\n\n\nFormat\n\n\narchive images:\n JPEG 2000 (\n.j2k\n); \nweb images:\n TIFF G4 (\n.tif\n) for text, JPEG (\n.jpg\n) for color images\n\n\n\n\n\n\nResolution\n\n\n600 dpi/ppi\n\n\n\n\n\n\nSize\n\n\narchive images:\n > 5 MB; \nweb images:\n > 400 KB\n\n\n\n\n\n\nBits\n\n\n24-bits\n\n\n\n\n\n\nCompression\n\n\nuncompressed, highest data size\n\n\n\n\n\n\nDimensions\n\n\nconsistent width and height\n\n\n\n\n\n\nImage quality\n\n\nclean image without: \n \u2022 border\n \u2022 scan line\n \u2022 flare\n \u2022 double page\n \u2022 missing text\n\n\n\n\n\n\nOrganization\n\n\naccession number / archive / volume / images\n\n\n\n\n\n\nMetadata\n\n\nduly completed \nBiblio Info Sheet\n\n\n\n\n\n\n\n\n\u6570\u5b57\u5316\u5de5\u4f5c\u6d41\u7a0b Digitization Workflow\n\n\nStarting from July 2017, the workflow is divided into 5 broad processes:\n\n\n\n\n\n\nFinding Opportunities\n - The DPE looks for acquisition opportunities.\n\n\n\n\n\n\nSelection and Digitization\n - The DPE identifies potential acquisitions, confirms it ;is needed by 1) consulting the mobile app, 2) consulting the FR. He then digitizes them, does the QC1 (1st Quality Control) and submits the images to the FR.\n\n\n\n\n\n\nQuality Control and Processing\n - The FR does the QC2 (2nd Quality Control), post-processes them, to then\u00a0submits the Access Files (web images) with a metada report to the DPM.\n\n\n\n\n\n\nQuality Assurance\n - The DPM performs a QA (Quality Assurance) assessment, submits the files to the DAM and confirms that the DPE can be paid for the work.\n\n\n\n\n\n\nArchiving and Publishing\n - The DAM reviews the Access files,  catalogued by the librarians publishes them. The librarians can now create metadata such as structural or semantic outlines. Every quarter, the DPM collects Master Files (archive images) and submits them to the DAM for archival.\n\n\n\n\n\n\n\u4ece2017\u5e747\u6708\u5f00\u59cb,\u5de5\u4f5c\u6d41\u7a0b\u5206\u4e3a5\u5927\u6d41\u7a0b:\n\n\n\n\n\n\n\u5bfb\u627e\u673a\u4f1a\n - \u9996\u5148DPE\u6216\u8005\u6709\u65f6FR\u5bfb\u627e\u83b7\u53d6\u626b\u63cf\u673a\u4f1a\u3002\n\n\n\n\n\n\n\u9009\u62e9\u548c\u6570\u5b57\u5316\n\u2014\u2014DPE\u4f7f\u7528\u79fb\u52a8\u5e94\u7528\u68c0\u67e5\uff0c\u5ba1\u6838\u53ef\u83b7\u53d6\u7684\u626b\u63cf\u8d44\u6599\uff0c\u901a\u8fc7\u540e\u6570\u5b57\u5316\u5b83\u4eec,\u7136\u540e\u8fdb\u884cQC1(1\u8d28\u91cf\u63a7\u5236)\u5e76\u63d0\u4ea4\u56fe\u7247\u7ed9FR\u3002\n\n\n\n\n\n\n\u8d28\u91cf\u63a7\u5236\u548c\u5904\u7406\n - FR\u8fdb\u884cQC2(\u7b2c2\u8d28\u91cf\u63a7\u5236)\uff0c\u53d1\u73b0\u95ee\u9898\u65f6\u8fdb\u884c\u5904\u7406,\u7136\u540e\u5c06\u6587\u6863(\u7f51\u7edc\u56fe\u7247\u6587\u6863)\u548c\u5143\u6570\u636e\u53d1\u9001\u7ed9DPM\u3002\n\n\n\n\n\n\n\u8d28\u91cf\u4fdd\u8bc1\n - DPM\u6267\u884cQA(\u8d28\u91cf\u4fdd\u8bc1)\u8bc4\u4f30,\u7136\u540e\u63d0\u4ea4\u6587\u6863\u7ed9DAM\u5e76\u786e\u8ba4\u53ef\u4ee5\u652f\u4ed8DPE\u3002\n\n\n\n\n\n\n\u5b58\u6863\u548c\u53d1\u5e03\n\u2014\u2014DAM\u6d4f\u89c8\u6587\u6863,\u7136\u540e\u7531\u56fe\u4e66\u7ba1\u7406\u5458\u7f16\u76ee\uff0c\u7531DAM\u53d1\u5e03\u3002\u4e4b\u540e\uff0c\u56fe\u4e66\u7ba1\u7406\u5458\u521b\u5efa\u5143\u6570\u636e,\u5982\u76ee\u5f55\u548c\u63d0\u7eb2\u3002\u6bcf\u4e2a\u5b63\u5ea6,DPM\u6536\u96c6\u539f\u59cb\u56fe\u7247\u6587\u6863(\u5b58\u6863\u56fe\u7247)\u5e76\u63d0\u4ea4\u7ed9DAM\u5b58\u6863\u3002\n\n\n\n\n\n\ns\n\n\nThe Python-Markdown documentation provides a [list of extensions][exts]\nwhich are available out-of-the-box. For a list of configuration options\navailable for a given extension, see the documentation for that extension.\n\n\n\nYou may also install and use various [third party extensions][3rd]. Consult\nthe documentation for provided by those extensions for installation instructions\nand available configuration options. data int definition\n\n\n\n\n\n\n\n\n\nOld Variable Name\n\n\nNew Variable Name or Expression\n\n\n\n\n\n\n\n\n\n\ncurrent_page\n\n\npage\n\n\n\n\n\n\ninclude_nav\n\n\nnav|length>1\n\n\n\n\n\n\ninclude_next_prev\n\n\n(page.next_page or page.previous_page)\n\n\n\n\n\n\nsite_name\n\n\nconfig.site_name\n\n\n\n\n\n\nsite_author\n\n\nconfig.site_author\n\n\n\n\n\n\npage_description\n\n\nconfig.site_description\n\n\n\n\n\n\nrepo_url\n\n\nconfig.repo_url\n\n\n\n\n\n\nrepo_name\n\n\nconfig.repo_name\n\n\n\n\n\n\nsite_url\n\n\nconfig.site_url\n\n\n\n\n\n\ncopyright\n\n\nconfig.copyright\n\n\n\n\n\n\ngoogle_analytics\n\n\nconfig.google_analytics\n\n\n\n\n\n\nhomepage_url\n\n\nnav.homepage.url\n\n\n\n\n\n\nfavicon\n\n\n{{ base_url }}/img/favicon.ico",
+            "title": "\u4ecb\u7ecd \u0f44\u0f7c\u0f0b\u0f66\u0fa4\u0fb2\u0f7c\u0f51\u0f0d Intro"
+        },
+        {
+            "location": "/workflow/workflow-cn/",
+            "text": "\u0f56\u0f40\u0fb2\u0f0b\u0f64\u0f72\u0f66\u0f0b\u0f56\u0f51\u0f7a\u0f0b\u0f63\u0f7a\u0f42\u0f66\u0f0d",
+            "title": "\u5de5\u4f5c\u6d41\u7a0b"
+        },
+        {
+            "location": "/workflow/workflow-bo/",
+            "text": "",
+            "title": "\u0f63\u0f66\u0f0b\u0f60\u0f46\u0f62\u0f0d"
+        },
+        {
+            "location": "/workflow/workflow-en/",
+            "text": "",
+            "title": "Workflow"
+        },
+        {
+            "location": "/resources/",
+            "text": "Resources:\n\n\nSoftware\n\n\n\n\n,...\n\n\n....\n\n\n\n\nEquipment\n\n\n\n\n,...\n\n\n....\n\n\n\n\nReadings\n\n\n\n\nFADGI Federal Agencies Digital Guidelines Initiative-2016\n\n\n...",
+            "title": "Resources \u8d44\u6e90"
+        },
+        {
+            "location": "/resources/#resources",
+            "text": "",
+            "title": "Resources:"
+        },
+        {
+            "location": "/resources/#software",
+            "text": ",...  ....",
+            "title": "Software"
+        },
+        {
+            "location": "/resources/#equipment",
+            "text": ",...  ....",
+            "title": "Equipment"
+        },
+        {
+            "location": "/resources/#readings",
+            "text": "FADGI Federal Agencies Digital Guidelines Initiative-2016  ...",
+            "title": "Readings"
+        }
+    ]
+}

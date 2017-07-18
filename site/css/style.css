@@ -1,0 +1,16 @@
+
+/* Table Styles */
+
+th {
+    background-color:#D9DDE0;
+    color: #3C586D
+}
+
+tbody {
+    background: white;
+}
+
+td.col
+{ 
+   border-left:0px;
+}
