@@ -14,3 +14,6 @@ pages:
 
 - Resources 资源 : resources.md
 
+extra:
+    # history_buttons: true
+    logo: 'img/bdrc-logo.png'
