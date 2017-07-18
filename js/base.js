@@ -252,8 +252,7 @@ function initMainWindow() {
 
   // Load the iframe now, and whenever we navigate the top frame.
   setTimeout(function() { updateIframe(false); }, 0);
-  // For our usage, 'popstate' or 'hashchange' would work, but only 'hashchange' work on IE.
-  $(window).on('hashchange', function() { updateIframe(true); });
+  $(window).on('popstate', function() { updateIframe(true); });
 }
 
 function onIframeBeforeLoad(url) {
@@ -356,7 +355,7 @@ if (is_top_frame) {
 
   // Other initialization of iframe contents.
   hljs.initHighlightingOnLoad();
-  $(document).ready(function() {
+  $(document).ready(() => {
     $('table').addClass('table table-striped table-hover table-bordered table-condensed');
   });
 }

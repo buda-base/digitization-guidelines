@@ -1,0 +1,26 @@
+body {
+    font-family: 'Noto Sans Tibetan';
+}
+
+/* h1 {
+	font-family: 'Noto Sans Tibetan';
+	font-weight: bold;
+} */
+
+
+@font-face {
+	font-family: 'Noto Sans Tibetan';
+	src: url('../fonts/NotoSansTibetan.eot');
+	src: url('../fonts/NotoSansTibetan.woff');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'Noto Sans Tibetan';
+	src: url('../fonts/NotoSansTibetan-Bold.eot');
+	src: url('../fonts/NotoSansTibetan-Bold.woff');
+	font-weight: bold;
+	font-style: normal;
+}
