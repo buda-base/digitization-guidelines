@@ -1,10 +1,10 @@
-site_name: '数字化指南 ཨང་བསྒྱུར་ལམ་སྟོན། BUDA Digitization Guidelines'
+site_name: ' 数字化 ཨང་བསྒྱུར། Digitization'
 site_description: '数字化指南 ཨང་བསྒྱུར་ལམ་སྟོན། Digitization Guidelines'
 
 theme: windmill
 
 pages:
-- Introduction 介绍 ངོ་སྤྲོད།: index.md
+- 介绍 ངོ་སྤྲོད། Intro: index.md
 - Workflow:
   - 工作流程: workflow/workflow-cn.md
   - ལས་འཆར།: workflow/workflow-bo.md
@@ -14,6 +14,10 @@ pages:
 
 - Resources 资源 : resources.md
 
+extra_css:
+    - css/fonts.css
+    - css/style.css
+
 extra:
     # history_buttons: true
-    logo: 'img/bdrc-logo.png'
+    logo: 'img/bdrc-white.png'

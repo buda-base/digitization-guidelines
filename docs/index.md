@@ -1,22 +1,30 @@
-# Introduction
+Introduction
 
 This is the latest version of the Digitization Guidelines for the BUDA project.
 
-## Definition of good data
+    The definition of good data int for false 
+    dsdsfsdf
 
+dsssd
+
+    Definition of good data
+
+```
+Definition of good data
+```
 | Feature | Standard | 
 | ------------ | ------------- | 
-| Format | *archive images:* JPEG 2000 (**.j2k**); *web images:* TIFF G4 (**.tif**) for text, JPEG (**.jpg**) for color images | 
+| Format | *archive images:* JPEG 2000 (**.j2k**); <br>*web images:* TIFF G4 (**.tif**) for text, JPEG (**.jpg**) for color images | 
 | Resolution | 600 dpi/ppi | 
 | Size | *archive images:* > 5 MB; *web images:* > 400 KB | 
 | Bits | 24-bits |
 | Compression | uncompressed, highest data size |
 | Dimensions | consistent width and height |
-| Image quality | clean image without: border, scan line, flare, double page, missing text
+| Image quality | clean image without: <br> • border<br> • scan line<br> • flare<br> • double page<br> • missing text
 | Organization | accession number / archive / volume / images |
 | Metadata | duly completed *Biblio Info Sheet* |
 
-## 数字化工作流程 Digitization Workflow
+**数字化工作流程 Digitization Workflow**
 
 Starting from July 2017, the workflow is divided into 5 broad processes:
 
@@ -41,3 +49,33 @@ Starting from July 2017, the workflow is divided into 5 broad processes:
 4. **质量保证** - DPM执行QA(质量保证)评估,然后提交文档给DAM并确认可以支付DPE。
 
 5. **存档和发布**——DAM浏览文档,然后由图书管理员编目，由DAM发布。之后，图书管理员创建元数据,如目录和提纲。每个季度,DPM收集原始图片文档(存档图片)并提交给DAM存档。
+
+s
+
+    The Python-Markdown documentation provides a [list of extensions][exts]
+    which are available out-of-the-box. For a list of configuration options
+    available for a given extension, see the documentation for that extension.
+
+
+
+    You may also install and use various [third party extensions][3rd]. Consult
+    the documentation for provided by those extensions for installation instructions
+    and available configuration options. data int definition
+
+
+
+| Old Variable Name | New Variable Name or Expression        |
+| ----------------- | -------------------------------------- |
+| current_page      | page                                   |
+| include_nav       | nav&#124;length&gt;1                   |
+| include_next_prev | (page.next_page or page.previous_page) |
+| site_name         | config.site_name                       |
+| site_author       | config.site_author                     |
+| page_description  | config.site_description                |
+| repo_url          | config.repo_url                        |
+| repo_name         | config.repo_name                       |
+| site_url          | config.site_url                        |
+| copyright         | config.copyright                       |
+| google_analytics  | config.google_analytics                |
+| homepage_url      | nav.homepage.url                       |
+| favicon           | {{ base_url }}/img/favicon.ico         |
