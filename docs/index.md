@@ -1,17 +1,43 @@
-# Welcome to BUDA's documentation
+# Introduction
 
-For general information on BUDA project, please visit [tbrc.org](https://tbrc.org).
+This is the latest version of the Digitization Guidelines for the BUDA project.
 
-## Commands
+## Definition of good data
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+| Feature | Standard | 
+| ------------ | ------------- | 
+| Format | *archive images:* JPEG 2000 (**.j2k**); *web images:* TIFF G4 (**.tif**) for text, JPEG (**.jpg**) for color images | 
+| Resolution | 600 dpi/ppi | 
+| Size | *archive images:* > 5 MB; *web images:* > 400 KB | 
+| Bits | 24-bits |
+| Compression | uncompressed, highest data size |
+| Dimensions | consistent width and height |
+| Image quality | clean image without: border, scan line, flare, double page, missing text
+| Organization | accession number / archive / volume / images |
+| Metadata | duly completed *Biblio Info Sheet* |
 
-## Project layout
+## 数字化工作流程 Digitization Workflow
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Starting from July 2017, the workflow is divided into 5 broad processes:
+
+1. **Finding Opportunities** - The DPE looks for acquisition opportunities.
+
+2. **Selection and Digitization** - The DPE identifies potential acquisitions, confirms it ;is needed by 1) consulting the mobile app, 2) consulting the FR. He then digitizes them, does the QC1 (1st Quality Control) and submits the images to the FR.
+
+3. **Quality Control and Processing** - The FR does the QC2 (2nd Quality Control), post-processes them, to then submits the Access Files (web images) with a metada report to the DPM.
+
+4. **Quality Assurance** - The DPM performs a QA (Quality Assurance) assessment, submits the files to the DAM and confirms that the DPE can be paid for the work.
+
+5. **Archiving and Publishing** - The DAM reviews the Access files,  catalogued by the librarians publishes them. The librarians can now create metadata such as structural or semantic outlines. Every quarter, the DPM collects Master Files (archive images) and submits them to the DAM for archival.
+
+从2017年7月开始,工作流程分为5大流程:
+
+1. **寻找机会** - 首先DPE或者有时FR寻找获取扫描机会。
+
+2. **选择和数字化**——DPE使用移动应用检查，审核可获取的扫描资料，通过后数字化它们,然后进行QC1(1质量控制)并提交图片给FR。
+
+3. **质量控制和处理** - FR进行QC2(第2质量控制)，发现问题时进行处理,然后将文档(网络图片文档)和元数据发送给DPM。
+
+4. **质量保证** - DPM执行QA(质量保证)评估,然后提交文档给DAM并确认可以支付DPE。
+
+5. **存档和发布**——DAM浏览文档,然后由图书管理员编目，由DAM发布。之后，图书管理员创建元数据,如目录和提纲。每个季度,DPM收集原始图片文档(存档图片)并提交给DAM存档。

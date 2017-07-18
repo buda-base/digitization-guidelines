@@ -1,8 +1,16 @@
-site_name: Technical BUDA
-# theme: 'material'
-theme: readthedocs
+site_name: '数字化指南 ཨང་བསྒྱུར་ལམ་སྟོན། BUDA Digitization Guidelines'
+site_description: '数字化指南 ཨང་བསྒྱུར་ལམ་སྟོན། Digitization Guidelines'
+
+theme: windmill
 
 pages:
-    - What is BUDA?: index.md
-    - Open Linked Data: LD.md
-    - BUDA Ontology: OWL.md
+- Introduction 介绍 ངོ་སྤྲོད།: index.md
+- Workflow:
+  - 工作流程: workflow/workflow-cn.md
+  - ལས་འཆར།: workflow/workflow-bo.md
+  - Workflow: workflow/workflow-en.md
+# - Theory:
+  # - theory/images.md
+
+- Resources 资源 : resources.md
+

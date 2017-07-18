@@ -1,0 +1,16 @@
+# Resources:
+
+## Software
+* ,...
+* ....
+
+## Equipment
+* ,...
+* ....
+
+## Readings
+
+* [FADGI Federal Agencies Digital Guidelines Initiative-2016](http://www.digitizationguidelines.gov/guidelines/FADGI%20Federal%20%20Agencies%20Digital%20Guidelines%20Initiative-2016%20Final_rev1.pdf)
+* ...
+
+
