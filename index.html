@@ -1,173 +1,257 @@
 <!DOCTYPE html>
-<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="None">
   
-  <link rel="shortcut icon" href="./img/favicon.ico">
-  <title>What is BUDA? - Technical BUDA</title>
-  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="数字化指南 ཨང་བསྒྱུར་ལམ་སྟོན། Digitization Guidelines">
+    
+    
+    <link rel="shortcut icon" href="./img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>数字化指南 ཨང་བསྒྱུར་ལམ་སྟོན། BUDA Digitization Guidelines</title>
+    <link href="./css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="./css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="./css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="./css/highlight.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
 
-  <link rel="stylesheet" href="./css/theme.css" type="text/css" />
-  <link rel="stylesheet" href="./css/theme_extra.css" type="text/css" />
-  <link rel="stylesheet" href="./css/highlight.css">
-  
-  <script>
-    // Current page data
-    var mkdocs_page_name = "What is BUDA?";
-    var mkdocs_page_input_path = "index.md";
-    var mkdocs_page_url = "/";
-  </script>
-  
-  <script src="./js/jquery-2.1.1.min.js"></script>
-  <script src="./js/modernizr-2.8.3.min.js"></script>
-  <script type="text/javascript" src="./js/highlight.pack.js"></script> 
-  
+    <script src="./js/jquery-3.2.1.min.js"></script>
+    <script src="./js/bootstrap-3.3.7.min.js"></script>
+    <script src="./js/highlight.pack.js"></script>
+    
+      <script src="./js/elasticlunr.min.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '.';
+      var is_top_frame = (window === window.parent);
+        
+        var pageToc = [
+          {title: "Introduction", url: "#introduction", children: [
+              {title: "Definition of good data", url: "#definition-of-good-data" },
+              {title: "\u6570\u5b57\u5316\u5de5\u4f5c\u6d41\u7a0b Digitization Workflow", url: "#digitization-workflow" },
+          ]},
+        ];
+
+    </script>
+    <script src="./js/base.js"></script> 
 </head>
 
-<body class="wy-body-for-nav" role="document">
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
 
-  <div class="wy-grid-for-nav">
-
+<nav class="navbar wm-page-top-frame">
+  <div class="container-fluid wm-top-container">
     
-    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
-      <div class="wy-side-nav-search">
-        <a href="." class="icon icon-home"> Technical BUDA</a>
-        <div role="search">
-  <form id ="rtd-search-form" class="wy-form" action="./search.html" method="get">
-    <input type="text" name="q" placeholder="Search docs" />
-  </form>
-</div>
-      </div>
+    <div class="wm-top-tool pull-right wm-vcenter">
+      <form class="dropdown wm-vcentered" id="wm-search-form" action="./search.html">
+        
+        <button id="wm-search-show" class="btn btn-sm btn-default" type="submit"
+          ><i class="fa fa-search" aria-hidden="true"></i></button>
 
-      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
-	<ul class="current">
-	  
-          
-            <li class="toctree-l1 current">
-		
-    <a class="current" href=".">What is BUDA?</a>
-    <ul class="subnav">
+        <div class="input-group input-group-sm wm-top-search">
+          <input type="text" name="q" class="form-control" id="mkdocs-search-query" placeholder="Search">
+          <span class="input-group-btn" role="search">
             
-    <li class="toctree-l2"><a href="#welcome-to-budas-documentation">Welcome to BUDA's documentation</a></li>
-    
-        <ul>
-        
-            <li><a class="toctree-l3" href="#commands">Commands</a></li>
-        
-            <li><a class="toctree-l3" href="#project-layout">Project layout</a></li>
-        
-        </ul>
-    
-
-    </ul>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="LD/">Open Linked Data</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="OWL/">BUDA Ontology</a>
-	    </li>
-          
-        </ul>
-      </div>
-      &nbsp;
-    </nav>
-
-    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
-
-      
-      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
-        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-        <a href=".">Technical BUDA</a>
-      </nav>
-
-      
-      <div class="wy-nav-content">
-        <div class="rst-content">
-          <div role="navigation" aria-label="breadcrumbs navigation">
-  <ul class="wy-breadcrumbs">
-    <li><a href=".">Docs</a> &raquo;</li>
-    
-      
-    
-    <li>What is BUDA?</li>
-    <li class="wy-breadcrumbs-aside">
-      
-    </li>
-  </ul>
-  <hr/>
-</div>
-          <div role="main">
-            <div class="section">
-              
-                <h1 id="welcome-to-budas-documentation">Welcome to BUDA's documentation</h1>
-<p>For general information on BUDA project, please visit <a href="https://tbrc.org">tbrc.org</a>.</p>
-<h2 id="commands">Commands</h2>
-<ul>
-<li><code>mkdocs new [dir-name]</code> - Create a new project.</li>
-<li><code>mkdocs serve</code> - Start the live-reloading docs server.</li>
-<li><code>mkdocs build</code> - Build the documentation site.</li>
-<li><code>mkdocs help</code> - Print this help message.</li>
-</ul>
-<h2 id="project-layout">Project layout</h2>
-<pre><code>mkdocs.yml    # The configuration file.
-docs/
-    index.md  # The documentation homepage.
-    ...       # Other markdown pages, images and other files.
-</code></pre>
-              
-            </div>
-          </div>
-          <footer>
-  
-    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-      
-        <a href="LD/" class="btn btn-neutral float-right" title="Open Linked Data">Next <span class="icon icon-circle-arrow-right"></span></a>
-      
-      
-    </div>
-  
-
-  <hr/>
-
-  <div role="contentinfo">
-    <!-- Copyright etc -->
-    
-  </div>
-
-  Built with <a href="http://www.mkdocs.org">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
-</footer>
-	  
+            <button class="btn btn-default dropdown-toggle collapse" data-toggle="dropdown" type="button"><span class="caret"></span></button>
+            <ul id="mkdocs-search-results" class="dropdown-menu dropdown-menu-right"></ul>
+            <button id="wm-search-go" class="btn btn-default" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+          </span>
         </div>
-      </div>
+      </form>
+    </div>
 
-    </section>
+    
+    <div class="wm-top-tool wm-vcenter pull-right wm-small-left">
+      <button id="wm-toc-button" type="button" class="btn btn-sm btn-default wm-vcentered"><i class="fa fa-th-list" aria-hidden="true"></i></button>
+    </div>
+
+    
+    
+
+    
+    <a href="" class="wm-top-brand wm-top-link wm-vcenter">
+      
+      <div class="wm-top-title">
+        数字化指南 ཨང་བསྒྱུར་ལམ་སྟོན། BUDA Digitization Guidelines<br>
+        
+      </div>
+    </a>
+  </div>
+</nav>
+
+  <div id="main-content" class="wm-page-top-frame">
+    
+<nav class="wm-toc-pane">
+  
+  <ul class="wm-toctree">
+        <li class="wm-toc-li wm-toc-lev1 "><a href="." class="wm-article-link wm-toc-text">Introduction 介绍 ངོ་སྤྲོད།</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Workflow</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="workflow/workflow-cn/" class="wm-article-link wm-toc-text">工作流程</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="workflow/workflow-bo/" class="wm-article-link wm-toc-text">ལས་འཆར།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="workflow/workflow-en/" class="wm-article-link wm-toc-text">Workflow</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 "><a href="resources/" class="wm-article-link wm-toc-text">Resources 资源</a>
+</li>
+  </ul>
+</nav>
+
+    <div class="wm-content-pane">
+      <iframe class="wm-article" name="article"></iframe>
+    </div>
+  </div>
+
+<div class="container-fluid wm-page-content">
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="workflow/workflow-cn/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="workflow/workflow-cn/" class="btn btn-xs btn-link">
+        工作流程
+      </a>
+    </div>
     
   </div>
 
-  <div class="rst-versions" role="note" style="cursor: pointer">
-    <span class="rst-current-version" data-toggle="rst-current-version">
-      
-      
-      
-        <span style="margin-left: 15px"><a href="LD/" style="color: #fcfcfc">Next &raquo;</a></span>
-      
-    </span>
+    
+
+    <h1 id="introduction">Introduction</h1>
+<p>This is the latest version of the Digitization Guidelines for the BUDA project.</p>
+<h2 id="definition-of-good-data">Definition of good data</h2>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Standard</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Format</td>
+<td><em>archive images:</em> JPEG 2000 (<strong>.j2k</strong>); <em>web images:</em> TIFF G4 (<strong>.tif</strong>) for text, JPEG (<strong>.jpg</strong>) for color images</td>
+</tr>
+<tr>
+<td>Resolution</td>
+<td>600 dpi/ppi</td>
+</tr>
+<tr>
+<td>Size</td>
+<td><em>archive images:</em> &gt; 5 MB; <em>web images:</em> &gt; 400 KB</td>
+</tr>
+<tr>
+<td>Bits</td>
+<td>24-bits</td>
+</tr>
+<tr>
+<td>Compression</td>
+<td>uncompressed, highest data size</td>
+</tr>
+<tr>
+<td>Dimensions</td>
+<td>consistent width and height</td>
+</tr>
+<tr>
+<td>Image quality</td>
+<td>clean image without: border, scan line, flare, double page, missing text</td>
+</tr>
+<tr>
+<td>Organization</td>
+<td>accession number / archive / volume / images</td>
+</tr>
+<tr>
+<td>Metadata</td>
+<td>duly completed <em>Biblio Info Sheet</em></td>
+</tr>
+</tbody>
+</table>
+<h2 id="digitization-workflow">数字化工作流程 Digitization Workflow</h2>
+<p>Starting from July 2017, the workflow is divided into 5 broad processes:</p>
+<ol>
+<li>
+<p><strong>Finding Opportunities</strong> - The DPE looks for acquisition opportunities.</p>
+</li>
+<li>
+<p><strong>Selection and Digitization</strong> - The DPE identifies potential acquisitions, confirms it ;is needed by 1) consulting the mobile app, 2) consulting the FR. He then digitizes them, does the QC1 (1st Quality Control) and submits the images to the FR.</p>
+</li>
+<li>
+<p><strong>Quality Control and Processing</strong> - The FR does the QC2 (2nd Quality Control), post-processes them, to then submits the Access Files (web images) with a metada report to the DPM.</p>
+</li>
+<li>
+<p><strong>Quality Assurance</strong> - The DPM performs a QA (Quality Assurance) assessment, submits the files to the DAM and confirms that the DPE can be paid for the work.</p>
+</li>
+<li>
+<p><strong>Archiving and Publishing</strong> - The DAM reviews the Access files,  catalogued by the librarians publishes them. The librarians can now create metadata such as structural or semantic outlines. Every quarter, the DPM collects Master Files (archive images) and submits them to the DAM for archival.</p>
+</li>
+</ol>
+<p>从2017年7月开始,工作流程分为5大流程:</p>
+<ol>
+<li>
+<p><strong>寻找机会</strong> - 首先DPE或者有时FR寻找获取扫描机会。</p>
+</li>
+<li>
+<p><strong>选择和数字化</strong>——DPE使用移动应用检查，审核可获取的扫描资料，通过后数字化它们,然后进行QC1(1质量控制)并提交图片给FR。</p>
+</li>
+<li>
+<p><strong>质量控制和处理</strong> - FR进行QC2(第2质量控制)，发现问题时进行处理,然后将文档(网络图片文档)和元数据发送给DPM。</p>
+</li>
+<li>
+<p><strong>质量保证</strong> - DPM执行QA(质量保证)评估,然后提交文档给DAM并确认可以支付DPE。</p>
+</li>
+<li>
+<p><strong>存档和发布</strong>——DAM浏览文档,然后由图书管理员编目，由DAM发布。之后，图书管理员创建元数据,如目录和提纲。每个季度,DPM收集原始图片文档(存档图片)并提交给DAM存档。</p>
+</li>
+</ol>
+
+  <br>
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="workflow/workflow-cn/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="workflow/workflow-cn/" class="btn btn-xs btn-link">
+        工作流程
+      </a>
+    </div>
+    
+  </div>
+
+    <br>
 </div>
-    <script src="./js/theme.js"></script>
+
+<footer class="col-md-12 wm-page-content">
+  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
 
 </body>
 </html>
-
 <!--
 MkDocs version : 0.16.3
-Build Date UTC : 2017-05-26 09:56:39
+Build Date UTC : 2017-07-18 03:46:14
 -->
