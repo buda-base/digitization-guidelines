@@ -36,7 +36,11 @@
       var is_top_frame = (window === window.parent);
         
         var pageToc = [
-          {title: "\u0f44\u0f7c\u0f0b\u0f66\u0fa4\u0fb2\u0f7c\u0f51\u0f0d Introduction", url: "#introduction", children: [
+          {title: "\u6570\u5b57\u5316", url: "#_1", children: [
+          ]},
+          {title: "Suggested Digitization Workflow for BUDA", url: "#suggested-digitization-workflow-for-buda", children: [
+          ]},
+          {title: "\u6570\u5b57\u5316 \u0f44\u0f7c\u0f0b\u0f66\u0fa4\u0fb2\u0f7c\u0f51\u0f0d Introduction", url: "#introduction", children: [
           ]},
         ];
 
@@ -140,7 +144,216 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 
     
 
-    <h1 id="introduction">ངོ་སྤྲོད། Introduction</h1>
+    <h1 id="_1">数字化</h1>
+<p>The BUDA project currently purchases Buddhist digital texts meeting the following requirements:</p>
+<p><strong>File Organization:</strong> </p>
+<p>📁 📂
+📄
+📕 📖 📗 📘 📙 📚
+🗂 🗃 </p>
+<ul>
+<li>
+<p>📁 <strong>AB0001</strong> <em>- work folder named with the Accession Number for the current text</em></p>
+</li>
+<li>
+<p>📁 <strong>AB0001 - Bibliographic Info Sheet.xlsx</strong> <em>- descriptive and administrative metadata</em></p>
+</li>
+<li>
+<p>🖼</li> <strong>archive</strong> <em>- folder containing large size images for long term archival</em></p>
+<ul>
+<li>🗒 <strong>01</strong> <em>- volume folder. One folder per volume</em><ul>
+<li><strong>0001.j2k</strong> <em>- archive images in .j2k wavelt compression format</em></li>
+<li><strong>0002.j2k</strong> <em>- page 2, ...</em></li>
+</ul>
+</li>
+<li><strong>02</strong> <em>- volume folder.</em><ul>
+<li><strong>0001.j2k</strong> <em>- archive images in .j2k wavelt compression format</em></li>
+<li><strong>0002.j2k</strong> <em>- page 2, ...</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>images</strong> <em>- folder containing large size images for long term archival</em></p>
+<ul>
+<li><strong>01</strong> <em>- volume folder. One folder per volume</em><ul>
+<li><strong>0001.j2k</strong> <em>- archive images in .j2k wavelt compression format</em></li>
+<li><strong>0002.j2k</strong> <em>- page 2, ...</em></li>
+</ul>
+</li>
+<li><strong>02</strong> <em>- volume folder.</em><ul>
+<li><strong>0001.j2k</strong> <em>- archive images in .j2k wavelt compression format</em></li>
+<li><strong>0002.j2k</strong> <em>- page 2, ...</em></li>
+</ul>
+</li>
+</ul>
+<p>a "biblio-info-sheet.xlsx", 2. an "archive" folder containing the largearchive images
+3. an "images" folder containing a folder per volume with the web images</p>
+</li>
+</ul>
+<p>xdds</p>
+<pre><code>Metadata:
+
+   1. descriptive metadata
+   2. administrative metadata
+   3. technical metadata
+
+Archive Images:
+   Format: JPEG 2000 (.j2k)
+   Compression: uncompressed, large data size
+   Resolution: 600 DPI
+   Color profile: RGB
+   Dimensions: consistent width (in pixels)
+   Image quality: 1 page per image, no borders, no scan lines, no artifacts
+
+Web Images - the standards for large images are
+   Format: TIFF (.tif) for text only images, JPEG (.jpg) for covers and color content
+   Compression: CCITT G4 "Fax Compression" for TIFFs
+   Resolution: 300 DPI
+   Color profile: RGB for JPEGs, 
+   Dimensions: consistent pixel width across image set
+   Image quality: 1 page per image, no borders, no scan lines, no artifacts
+
+
+
+You may also install and use various [third party extensions][3rd]. Consult
+the documentation for provided by those extensions for installation instructions
+and available configuration options. data int definition
+</code></pre>
+<p>dd</p>
+<pre><code>Folder Structure - the main folder is named with the Accession Number, and contains: 
+    1. the biblio-info-sheet spreadsheet 
+    2. the "archive" folder with large size archive images (master format) 
+    3. the "images" folder containing light weight web images (access format)
+
+Metadata - the metadata is recorded in the Biblio-info-sheet spreadsheet, it covers:
+    1. descriptive metadata
+    2. administrative metadata
+    3. technical metadata
+
+Archive Images - the standards for large images are:
+    Format: JPEG 2000 (.j2k)
+    Compression: uncompressed, large data size
+    Resolution: 600 DPI
+    Color profile: RGB
+    Dimensions: consistent width (in pixels)
+    Image quality: 1 page per image, no borders, no scan lines, no artifacts
+
+Web Images - the standards for large images are
+    Format: TIFF (.tif) for text only images, JPEG (.jpg) for covers and color content
+    Compression: CCITT G4 "Fax Compression" for TIFFs
+    Resolution: 300 DPI
+    Color profile: RGB for JPEGs, 
+    Dimensions: consistent pixel width across image set
+    Image quality: 1 page per image, no borders, no scan lines, no artifacts
+</code></pre>
+<p>Download <a href="./haha.jpg">this</a></p>
+<ul>
+<li>AB0004<ul>
+<li>biblio-info-sheet.xlsx</li>
+<li>archive<ul>
+<li>01<ul>
+<li>image0001.j2k</li>
+<li>...</li>
+</ul>
+</li>
+<li>02<ul>
+<li>image0001.j2k</li>
+<li>...</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>images<ul>
+<li>01<ul>
+<li>image0001.tif</li>
+<li>...</li>
+</ul>
+</li>
+<li>02<ul>
+<li>image0001.tif</li>
+<li>...</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Metadata</strong>
+The <em>Biblio Info Sheet</em> has to be fully filled-out. </p>
+<p><strong>Archive Images</strong></p>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Standard</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Format</td>
+<td>JPEG 2000 (<strong>.j2k</strong>)</td>
+</tr>
+<tr>
+<td>Resolution</td>
+<td>600 dpi/ppi</td>
+</tr>
+<tr>
+<td>Size</td>
+<td>smaller than 5 MB</td>
+</tr>
+<tr>
+<td>Compression</td>
+<td>uncompressed, highest data size</td>
+</tr>
+<tr>
+<td>Dimensions</td>
+<td>consistent width across image set</td>
+</tr>
+<tr>
+<td>Image quality</td>
+<td>single page per image without borders, scan lines, flare, missing text</td>
+</tr>
+<tr>
+<td>Organization</td>
+<td>correctly named (accession number / archive / volume / images)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Archive Images</strong></p>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Standard</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+<p>The Buddhist Universal Digital Archive project (
+| Format | JPEG 2000 (<strong>.j2k</strong>); <br><em>web images:</em> TIFF G4 (<strong>.tif</strong>) for text, JPEG (<strong>.jpg</strong>) for color images | 
+| Resolution | 600 dpi/ppi | 
+| Size | <em>archive images:</em> &gt; 5 MB; <em>web images:</em> &gt; 400 KB | 
+| Bits | 24-bits |
+| Compression | uncompressed, highest data size |
+| Dimensions | consistent width and height |
+| Image quality | clean image without: <br> • border<br> • scan line<br> • flare<br> • double page<br> • missing text
+| Organization | accession number / archive / volume / images |
+| Metadata | duly completed <em>Biblio Info Sheet</em> |</p>
+<p>对BUDA的扫描（数字化）工作流程的建议
+BUDA的西藏资料的扫描（数字化）工作是通过4类员工:
+<em> DPE - 扫描工作人员
+</em> the FRs (代表)
+<em> the DPM (数字化项目经理)
+</em> the DAM (数字归档管理人)</p>
+<h1 id="suggested-digitization-workflow-for-buda">Suggested Digitization Workflow for BUDA</h1>
+<p>The digitization of Tibetan material for BUDA is done by 4 types of staff:
+<em> the DPEs (Digital Preservation Entrepreneurs) 
+</em> the FRs (Field Representatives)
+<em> the DPM (Digitization Project Manager)
+</em> the DAM (Digital Archive Manager)</p>
+<h1 id="introduction">数字化 ངོ་སྤྲོད། Introduction</h1>
 <p>This is the latest version of the Digitization Guidelines for the BUDA project.</p>
 <pre><code>The definition of good data int for false 
 dsdsfsdf
@@ -336,5 +549,5 @@ and available configuration options. data int definition
 </html>
 <!--
 MkDocs version : 0.16.3
-Build Date UTC : 2017-07-19 05:22:09
+Build Date UTC : 2017-07-23 03:46:31
 -->
