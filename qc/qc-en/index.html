@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    
+    <link rel="shortcut icon" href="../../img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>Quality Control - 数字化 · ཨང་བསྒྱུར། · Digitization</title>
+    <link href="../../css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="../../css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="../../css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../css/highlight.css">
+    <link href="../../css/font-profile.css" rel="stylesheet">
+    <link href="../../css/style.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="../../js/jquery-3.2.1.min.js"></script>
+    <script src="../../js/bootstrap-3.3.7.min.js"></script>
+    <script src="../../js/highlight.pack.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '../..';
+      var is_top_frame = false;
+        
+        var pageToc = [
+          {title: "Quality Control", url: "#quality-control", children: [
+              {title: "Original/Document Related", url: "#originaldocument-related" },
+              {title: "File Related", url: "#file-related" },
+              {title: "Metadata Related", url: "#metadata-related" },
+              {title: "Image Quality Related", url: "#image-quality-related" },
+          ]},
+        ];
+
+    </script>
+    <script src="../../js/base.js"></script> 
+</head>
+
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
+
+
+
+<div class="container-fluid wm-page-content">
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../../assessment/assessment-cn/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../../assessment/assessment-cn/" class="btn btn-xs btn-link">
+        工作流程
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../qc-bo/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../qc-bo/" class="btn btn-xs btn-link">
+        སྤུད་ཚད་བལྟ་འདོམས།
+      </a>
+    </div>
+    
+  </div>
+
+    
+
+    <h1 id="quality-control">Quality Control</h1>
+<p>The inspection of image files is done in the same way for QC1, QC2, and QA (Quality Assurance). It involves two processes:</p>
+<ol>
+<li>The first is a technical inspection of the file assuring correct imaging parameters were used when imaging, and that the file is valid. The BDRC auditing tool should be used for this purpose.</li>
+<li>Image quality must then be visually inspected by a trained technician, using the following procedure:</li>
+</ol>
+<p>A visual review of thumbnails of all images should be done to assure completeness and consistency of the imaging. The initial review is followed by a detailed examination of a subset of the project. This visual evaluation of the images shall be conducted while viewing the images at a 1 to 1 pixel ratio or 100% magnification on the monitor.</p>
+<p>We recommend, at a minimum, 10 images or 10 % of each batch of digital images, whichever quantity is larger, should be inspected for compliance with the digital imaging specifications and for defects in the following areas:</p>
+<h2 id="originaldocument-related">Original/Document Related</h2>
+<ul>
+<li>Correct dimensions<ul>
+<li>Correct units (mm)</li>
+</ul>
+</li>
+<li>Orientation<ul>
+<li>Modern Book- portrait/vertical</li>
+</ul>
+</li>
+<li>
+<p>Pecha format- landscape/horizontal</p>
+</li>
+<li>
+<p>Proportions/Distortion</p>
+<ul>
+<li>Distortion of the aspect ratio</li>
+</ul>
+</li>
+<li>Image skew</li>
+<li>Cropping<ul>
+<li>Image completeness</li>
+</ul>
+</li>
+<li>Missing pages or images<ul>
+<li>pages missing in original are replaced by dummy pages</li>
+<li>dummy pages can be added physicaly or digitally</li>
+</ul>
+</li>
+<li>Number of page per image</li>
+<li>only 1 page per image</li>
+</ul>
+<h2 id="file-related">File Related</h2>
+<ul>
+<li>Files open and display</li>
+<li>Files are not combined in a PDF or a multiple pages TIF</li>
+<li>Proper format<ul>
+<li>archive images - JPEG 2000 (.j2k) </li>
+</ul>
+</li>
+<li>web images - TIFF for text (.tif), JPEG for color images (.jpg)</li>
+<li>Compression<ul>
+<li>Wavelets for JPEG 2000</li>
+<li>G4 for TIF</li>
+</ul>
+</li>
+<li>Color mode<ul>
+<li>archive images - RGB</li>
+</ul>
+</li>
+<li>web images - Bitonal/B&amp;W for text, RGB for color images</li>
+<li>Bit depth<ul>
+<li>24-bits for RGB</li>
+<li>1-bit for bitonal</li>
+</ul>
+</li>
+<li>File size<ul>
+<li>web images - maximum 400 KB per image</li>
+</ul>
+</li>
+<li>Image dimension</li>
+<li>consistent width throughout the work </li>
+</ul>
+<h2 id="metadata-related">Metadata Related</h2>
+<ul>
+<li>Folder and images are named properly</li>
+<li>Data in Biblio Info Sheet is complete, including<ul>
+<li>Descriptive metadata (complete and accurate)</li>
+<li>Technical metadata (complete and accurate)</li>
+<li>Administrative metadata (complete and accurate)</li>
+</ul>
+</li>
+</ul>
+<h2 id="image-quality-related">Image Quality Related</h2>
+<ul>
+<li>Artifacts<ul>
+<li>Defects</li>
+</ul>
+</li>
+<li>Missing scan lines, discontinuities, or dropped-out pixels</li>
+</ul>
+<p><strong>For images taken with a camera:</strong>
+<em> Artifacts
+    * Defects
+    * Dust
+    * Newton’s rings
+</em> Aimpoint variability
+<em> Detail
+    * Loss of fine detail
+</em> Loss of texture</p>
+<ul>
+<li>Sharpness</li>
+<li>Flare</li>
+<li>Tone<ul>
+<li>Brightness</li>
+</ul>
+</li>
+<li>Contrast</li>
+</ul>
+
+  <br>
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../../assessment/assessment-cn/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../../assessment/assessment-cn/" class="btn btn-xs btn-link">
+        工作流程
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../qc-bo/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../qc-bo/" class="btn btn-xs btn-link">
+        སྤུད་ཚད་བལྟ་འདོམས།
+      </a>
+    </div>
+    
+  </div>
+
+    <br>
+</div>
+
+<footer class="col-md-12 wm-page-content">
+  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
+
+</body>
+</html>
