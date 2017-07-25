@@ -36,11 +36,11 @@
       var is_top_frame = (window === window.parent);
         
         var pageToc = [
-          {title: "\u6570\u5b57\u5316", url: "#_1", children: [
+          {title: "\u6570\u5b57\u5316\u6807\u51c6", url: "#_1", children: [
           ]},
-          {title: "Suggested Digitization Workflow for BUDA", url: "#suggested-digitization-workflow-for-buda", children: [
+          {title: "\u0f68\u0f44\u0f0b\u0f56\u0f66\u0f92\u0fb1\u0f74\u0f62\u0f0b\u0f5a\u0f51\u0f0b\u0f42\u0f5e\u0f72\u0f0d", url: "#_2", children: [
           ]},
-          {title: "\u6570\u5b57\u5316 \u0f44\u0f7c\u0f0b\u0f66\u0fa4\u0fb2\u0f7c\u0f51\u0f0d Introduction", url: "#introduction", children: [
+          {title: "Digitization Standards", url: "#digitization-standards", children: [
           ]},
         ];
 
@@ -100,9 +100,9 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <nav class="wm-toc-pane">
   
   <ul class="wm-toctree">
-        <li class="wm-toc-li wm-toc-lev1 "><a href="." class="wm-article-link wm-toc-text">介绍 ངོ་སྤྲོད། Intro</a>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="." class="wm-article-link wm-toc-text">介绍 ཚད་གཞི། Standards</a>
 </li>
-        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Workflow</span>
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">介绍 ལས་འཆར། Workflow</span>
 </li>
 <li class="wm-toc-li-nested collapse">
   <ul class="wm-toctree">
@@ -111,6 +111,32 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
       <li class="wm-toc-li wm-toc-lev2 "><a href="workflow/workflow-bo/" class="wm-article-link wm-toc-text">ལས་འཆར།</a>
 </li>
       <li class="wm-toc-li wm-toc-lev2 "><a href="workflow/workflow-en/" class="wm-article-link wm-toc-text">Workflow</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">介绍 བརྟག་དཔྱད། QC</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="assessment/assessment-cn/" class="wm-article-link wm-toc-text">工作流程</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="assessment/assessment-bo/" class="wm-article-link wm-toc-text">འབྲེལ་མཐུད་པའི་བརྟག་དཔྱད་དྲི་གཞི།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="assessment/assessment-en/" class="wm-article-link wm-toc-text">FR Assessment</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">介绍 དྲི་གཞི། Assessment</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="assessment/assessment-cn/" class="wm-article-link wm-toc-text">工作流程</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="assessment/assessment-bo/" class="wm-article-link wm-toc-text">འབྲེལ་མཐུད་པའི་བརྟག་དཔྱད་དྲི་གཞི།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="assessment/assessment-en/" class="wm-article-link wm-toc-text">FR Assessment</a>
 </li>
   </ul>
 </li>
@@ -144,145 +170,225 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 
     
 
-    <h1 id="_1">数字化</h1>
-<p>The BUDA project currently purchases Buddhist digital texts meeting the following requirements:</p>
-<p><strong>File Organization:</strong> </p>
-<p>📁 📂
-📄
-📕 📖 📗 📘 📙 📚
-🗂 🗃 </p>
+    <h2 id="_1">数字化标准</h2>
+<p>目前，BUDA项目正在采购符合以下要求的佛教数字文本：</p>
+<p>作品的图像以两种格式呈现：存档图像和网络图像。网页图像是从档案图像派生的，两组图像都保存在“工作文件夹”中。图像名称，裁剪和方向应在两个图像集中匹配;整个文件大小，格式，颜色深度，DPI和压缩可能不同。在这里查看示例文件:<a href="./haha.jpg">单卷</a>, <a href="./haha.jpg">多卷</a>。</p>
+<p><strong>档案图片要求</strong></p>
+<table>
+<thead>
+<tr>
+<th>功能</th>
+<th>标准</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>文件格式</td>
+<td>JPEG 2000（<strong>.j2k</strong>），小波压缩，最高数据大小</td>
+</tr>
+<tr>
+<td>分辨率</td>
+<td>600 ppi / dpi</td>
+</tr>
+<tr>
+<td>颜色简介</td>
+<td>RGB，24位</td>
+</tr>
+<tr>
+<td>像素尺寸</td>
+<td>一致的宽度</td>
+</tr>
+<tr>
+<td>质量</td>
+<td>每张图片1页，无边框，无扫描线，无工件</td>
+</tr>
+</tbody>
+</table>
+<p><strong>网页图片要求</strong></p>
+<table>
+<thead>
+<tr>
+<th>功能</th>
+<th>标准</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>文件格式</td>
+<td>用于彩色页面的JPEG（<strong>.jpg</strong>），仅用于文本页面的TIFF G4压缩（<strong>.tif</strong>）</td>
+</tr>
+<tr>
+<td>分辨率</td>
+<td>一致的ppi / dpi</td>
+</tr>
+<tr>
+<td>颜色轮廓</td>
+<td>RGB 24位用于JPEG，BW 1位用于TIFF</td>
+</tr>
+<tr>
+<td>像素尺寸</td>
+<td>一致的宽度</td>
+</tr>
+<tr>
+<td>文件大小</td>
+<td>小于400 KB</td>
+</tr>
+</tbody>
+</table>
+<p><strong>文件夹结构</strong></p>
+<p>📂 <strong>AB0001</strong> <em>- 以当前文本的登录号 命名的工作文件夹</em></p>
 <ul>
+<li>📄 <strong>AB0001.xlsx</strong> <em>-  Excel格式的“Bibbliographic Info Sheet”</em></li>
 <li>
-<p>📁 <strong>AB0001</strong> <em>- work folder named with the Accession Number for the current text</em></p>
-</li>
-<li>
-<p>📁 <strong>AB0001 - Bibliographic Info Sheet.xlsx</strong> <em>- descriptive and administrative metadata</em></p>
-</li>
-<li>
-<p>🖼</li> <strong>archive</strong> <em>- folder containing large size images for long term archival</em></p>
+<p>📂 <strong>案</strong> <em>-大型图像长期档案</em></p>
 <ul>
-<li>🗒 <strong>01</strong> <em>- volume folder. One folder per volume</em><ul>
-<li><strong>0001.j2k</strong> <em>- archive images in .j2k wavelt compression format</em></li>
-<li><strong>0002.j2k</strong> <em>- page 2, ...</em></li>
+<li>📂 <strong>01</strong> <em>- 第1卷文件夹。每卷一个文件夹</em><ul>
+<li>🖼 <strong>0001.j2k</strong> <em>- 封面图像JPEG2000，RGB，小波压缩</em></li>
+<li>🖼 <strong>0002.j2k</strong> <em>-  JPEG2000中的文本图像，RGB，小波压缩</em></li>
+<li>🖼 <strong>0003.j2k</strong> <em>-  ...</em></li>
 </ul>
 </li>
-<li><strong>02</strong> <em>- volume folder.</em><ul>
-<li><strong>0001.j2k</strong> <em>- archive images in .j2k wavelt compression format</em></li>
-<li><strong>0002.j2k</strong> <em>- page 2, ...</em></li>
+<li>📂 <strong>02</strong> <em>- 第2卷文件夹</em><ul>
+<li>🖼 <strong>0001.j2k</strong></li>
+<li>🖼 <strong>0002.j2k</strong></li>
 </ul>
 </li>
+<li>📁 <strong>03</strong> * -  ... *</li>
 </ul>
 </li>
 <li>
-<p><strong>images</strong> <em>- folder containing large size images for long term archival</em></p>
+<p>📂 <strong>像</strong> <em>-网站和应用程序的小尺寸网络图像</em></p>
 <ul>
-<li><strong>01</strong> <em>- volume folder. One folder per volume</em><ul>
-<li><strong>0001.j2k</strong> <em>- archive images in .j2k wavelt compression format</em></li>
-<li><strong>0002.j2k</strong> <em>- page 2, ...</em></li>
+<li>📂 <strong>01</strong></li>
+<li>🖼 <strong>0001.jpg</strong> <em>- 以JPEG，RGB，JPEG压缩格式覆盖图像</em><ul>
+<li>🖼 <strong>0002.tif</strong> <em>- 文字图像在TIFF，BW，G4压缩</em></li>
+<li>🖼 <strong>0003.tif</strong> <em>-  ...</em></li>
 </ul>
 </li>
-<li><strong>02</strong> <em>- volume folder.</em><ul>
-<li><strong>0001.j2k</strong> <em>- archive images in .j2k wavelt compression format</em></li>
-<li><strong>0002.j2k</strong> <em>- page 2, ...</em></li>
+<li>📁 <strong>02</strong></li>
 </ul>
 </li>
+<li>📁 <strong>03</strong></li>
 </ul>
-<p>a "biblio-info-sheet.xlsx", 2. an "archive" folder containing the largearchive images
-3. an "images" folder containing a folder per volume with the web images</p>
-</li>
-</ul>
-<p>xdds</p>
-<pre><code>Metadata:
-
-   1. descriptive metadata
-   2. administrative metadata
-   3. technical metadata
-
-Archive Images:
-   Format: JPEG 2000 (.j2k)
-   Compression: uncompressed, large data size
-   Resolution: 600 DPI
-   Color profile: RGB
-   Dimensions: consistent width (in pixels)
-   Image quality: 1 page per image, no borders, no scan lines, no artifacts
-
-Web Images - the standards for large images are
-   Format: TIFF (.tif) for text only images, JPEG (.jpg) for covers and color content
-   Compression: CCITT G4 "Fax Compression" for TIFFs
-   Resolution: 300 DPI
-   Color profile: RGB for JPEGs, 
-   Dimensions: consistent pixel width across image set
-   Image quality: 1 page per image, no borders, no scan lines, no artifacts
-
-
-
-You may also install and use various [third party extensions][3rd]. Consult
-the documentation for provided by those extensions for installation instructions
-and available configuration options. data int definition
-</code></pre>
-<p>dd</p>
-<pre><code>Folder Structure - the main folder is named with the Accession Number, and contains: 
-    1. the biblio-info-sheet spreadsheet 
-    2. the "archive" folder with large size archive images (master format) 
-    3. the "images" folder containing light weight web images (access format)
-
-Metadata - the metadata is recorded in the Biblio-info-sheet spreadsheet, it covers:
-    1. descriptive metadata
-    2. administrative metadata
-    3. technical metadata
-
-Archive Images - the standards for large images are:
-    Format: JPEG 2000 (.j2k)
-    Compression: uncompressed, large data size
-    Resolution: 600 DPI
-    Color profile: RGB
-    Dimensions: consistent width (in pixels)
-    Image quality: 1 page per image, no borders, no scan lines, no artifacts
-
-Web Images - the standards for large images are
-    Format: TIFF (.tif) for text only images, JPEG (.jpg) for covers and color content
-    Compression: CCITT G4 "Fax Compression" for TIFFs
-    Resolution: 300 DPI
-    Color profile: RGB for JPEGs, 
-    Dimensions: consistent pixel width across image set
-    Image quality: 1 page per image, no borders, no scan lines, no artifacts
-</code></pre>
-<p>Download <a href="./haha.jpg">this</a></p>
+<hr />
+<h2 id="_2">ཨང་བསྒྱུར་ཚད་གཞི།</h2>
+<p>ངེད་ཚོགས་པས་བུདྡྷ་ལས་གཞི་ལྟར་ཁྱེད་ཀྱི་ཨང་ཅན་དཔེ་པར་ཁག་ལ་གཤམ་བཀོད་ཀྱི་ཆརྐྱེན་ནམ་མཚན་ཉིད་རྣམས་ལེགས་པར་ཚང་ན་བླུ་ངེས་ཡིན།
+བཤེར་པར་རྣམས་རིགས་གཉིས་ལ་ཉར་དགོས་ཏེ། རིགས་གཅིག་ནི་དྲ་སྤེལ་གྱི་ཆེད་དང་། གཉིས་པ་ཉར་ཚགས་ཀྱི་ཆེད་ཡིན། ཉར་ཚགས་ཀྱི་དཔེ་ཕར་བཟོས་རྗེས། དེ་ལས་དྲ་སྤེལ་གྱི་དཔེ་པར་རྣམས་བཟོ་དགོས། དཔེ་པར་རིགས་གཉིས་དེ་པར་སྣོད་གཅིག་གི་ནང་བླུག་དགོས། དཔེ་པར་རིགས་དེ་གཉིས་ཀྱི་མིང་འདོགས་སྟངས་གཅིག་གྱུར་དང་། པར་མཐའ་གཏུབ་སྟངས། ཡོ་འཁྱོག་མེད་པ་བཅས་ཆ རྐྱེན་དེ་གསུམ་ངེས་པར་གཅིག་གྱུར་ཡིན་དགོས། འོན་ཀྱང་། དཔེ་པར་རིགས་དེ་གཉིས་ཀྱི་ཆེ་ཆུང་དང་རིགས། ཚོན་མདོག བསྡུས་ཚད་(DPI)བཅས་ལ་མི་འདྲ་བ་ཡོད་ཀྱང་ཆོག དཔེ་མཚོན་དགོས་ན་འདི་ནས་ (<a href="./haha.jpg">པོད་གཅིག་ཅན་གྱི་བརྩམས་ཆོས།</a> <a href="./haha.jpg">པོད་མང་ཅན་གྱི་བརྩམས་ཆོས།</a>) གཟིགས་ཐུབ། </p>
+<p><strong>ཉར་ཚགས་དཔེ་པར་གྱི་དགོས་ངེས་ཆ་རྐྱེན་ཁག</strong></p>
+<table>
+<thead>
+<tr>
+<th>རིགས།</th>
+<th>ཚད་གཞི།</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ཡིག་ཆའི་རིགས།</td>
+<td>JPEG 2000 (<strong>.j2k</strong>), wavelets བསྡུས་ཚད། དན་གྲངས་ཚད་གཞི་མཐོ་ཤོས།</td>
+</tr>
+<tr>
+<td>གསལ་ཆ།</td>
+<td>600 ppi/dpi</td>
+</tr>
+<tr>
+<td>མདོག་རིགས།</td>
+<td>RGB ཚོད་གཞི་ཅན། 24-bits</td>
+</tr>
+<tr>
+<td>པར་གྱི་ཚད།</td>
+<td>པོད་གཅིག་གི་པར་ཚང་མ་ཞེང་ཁ་གཅིག་མཚུངས།</td>
+</tr>
+<tr>
+<td>སྤུས་ཚད།</td>
+<td>ཤོག་ངོས་གཅིག་ལ་པར་གཅིག པར་མཐའ་མེད་པ། བཤེར་ཐིག་རིགས་མེད་པ། དྲི་མ་ནག་ནོག་མེད་པ།</td>
+</tr>
+</tbody>
+</table>
+<p><strong>དྲ་སྤེལ་དཔེ་པར་ཁག་གི་དགོས་ངེས་ཀྱི་ཆ་རྐྱེན་ཁག</strong> </p>
+<table>
+<thead>
+<tr>
+<th>རིགས།</th>
+<th>ཚད་གཞི།</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ཡིག་ཆའི་རིགས།</td>
+<td>ཚོན་ལྡན་དཔེ་པར་ཁག་ལ་JPEG (<strong>.jpg</strong>)རིགས་འདི་ཡིན་དགོས།, TIFF G4 བསྡུས་ཚད་ སྐྱ་པར་ཁོ་ན་ཡིན་ན(<strong>.tif</strong>)རིགས་ཡིན་དགོས།</td>
+</tr>
+<tr>
+<td>པར་གྱི་གསལ་ཆ།</td>
+<td>ཚང་མ་གཅིག་གྱུར་ཡིན་དགོས། ppi/dpi</td>
+</tr>
+<tr>
+<td>ཚོན་མདོག་ཚད་མཚོན།</td>
+<td>ཚོན་ལྡན་དཔེ་པར་རིགས་ཡིན་ན RGB 24-bits for JPEG, སྐྱ་པར་རིགས་ཡིན་ན་ 1-bit for TIFF</td>
+</tr>
+<tr>
+<td>Pixel dimensions</td>
+<td>པོད་གཅིག་གི་པར་ཚང་མ་ཞེང་ཁ་གཅིག་མཚུངས།</td>
+</tr>
+<tr>
+<td>པར་གྱི་ཆེ་ཆུང་།</td>
+<td>པར་རེ་རེ 400 KB ལས་ཆུང་བ་ཡིན་དགོས།</td>
+</tr>
+</tbody>
+</table>
+<p><strong>པར་སྣོད་ཀྱི་ཚད་གཞི།</strong> </p>
+<p>📂 <strong>AB0001</strong> <em>- བརྩམས་ཆོས་ཡིག་སྣོད། དེའི་མིང་ལ་་འདོགས་དགོས།Accession Number</em></p>
 <ul>
-<li>AB0004<ul>
-<li>biblio-info-sheet.xlsx</li>
-<li>archive<ul>
-<li>01<ul>
-<li>image0001.j2k</li>
-<li>...</li>
+<li>📄 <strong>AB0001.xlsx</strong> <em>- "Bibbliographic Info Sheet" in Excel format</em></li>
+<li>པར་རིགས་གང་ཡིན་གནས་ཚུལ་མཚོན་བྱེད།</li>
+<li>📂 <strong>archive</strong> <em>- large size images for long term archival</em></li>
+<li>
+<p>རྒྱུན་རིང་ཉར་ཚགས་ཐུབ་ཆེད་དཔེ་པར་ཆེ་པོ་བཟོ་བ།</p>
+<ul>
+<li>📂 <strong>01</strong> <em>- volume 1 folder. One folder per volume</em></li>
+<li>པོ་ཏི་རེ་ལ་པར་སྣོད་རེ་ཡོད་དགོས།<ul>
+<li>🖼 <strong>0001.j2k</strong> <em>- cover image in JPEG2000, RGB, wavelets compression</em></li>
+<li>དཔེ་ཆའི་རྒྱབ་ཤ ་JPEG2000, RGB, wavelets བསྡུས་ཚད་ཡིན་དགོས།</li>
+<li>🖼 <strong>0002.j2k</strong> <em>- text image in JPEG2000, RGB, wavelets compression</em></li>
+<li>འདྲ་པར་མེད་པར་ཡིག་རྐྱང་གི་དཔེ་པར་རྣམས་JPEG2000, RGB, wavelets བསྡུས་ཚད་ཡིན་དགོས།</li>
+<li>🖼 <strong>0003.j2k</strong> <em>- ...</em></li>
+<li></li>
 </ul>
 </li>
-<li>02<ul>
-<li>image0001.j2k</li>
-<li>...</li>
+<li>📂 <strong>02</strong> <em>- volume 2 folder</em></li>
+<li>📂 <strong>02</strong> པོ་ཏི་གཉིས་ལ་པར་སྣོད་གཉིས་ཡོད་དགོས།<ul>
+<li>🖼 <strong>0001.j2k</strong></li>
+<li></li>
+<li>🖼 <strong>0002.j2k</strong></li>
+</ul>
+</li>
+<li>📁 <strong>03</strong> <em>- ...</em></li>
+</ul>
+</li>
+<li>
+<p>📂 <strong>images</strong> <em>- small size web images for the website and the apps</em></p>
+</li>
+<li>📂 <strong>དྲ་སྤེལ་དཔེཔར་</strong> *- དྲ་སྤེལ་བྱེ་ད་ཀྱི་ཆེད་པར་ཆུང་བའི་རིགས་དང་མནེན་ཆས་ཁག<ul>
+<li>📂 <strong>01</strong></li>
+<li>
+<ul>
+<li>🖼 <strong>0001.jpg</strong> <em>- cover image in JPEG, RGB, JPEG compression</em></li>
+<li>🖼 <strong>0001.jpg</strong> *- དེབ་ཀྱི་རྒྱབ་ཤ་JPEG, RGB, JPEG བསྡུས་ཚད་།</li>
+<li>🖼 <strong>0002.tif</strong> <em>- text image in TIFF, BW, G4 compression</em></li>
+<li>🖼 <strong>0002.tif</strong> <em>- འདྲ་པར་མེད་སའི་ཡིག་རྐྱང་སྐྱ་པར་རྣམས་ G4 བསྡུས་ཚད།</em></li>
+<li>🖼 <strong>0003.tif</strong> <em>- ...</em></li>
+</ul>
+</li>
+<li>📁 <strong>02</strong></li>
+<li>📁 <strong>03</strong></li>
 </ul>
 </li>
 </ul>
-</li>
-<li>images<ul>
-<li>01<ul>
-<li>image0001.tif</li>
-<li>...</li>
-</ul>
-</li>
-<li>02<ul>
-<li>image0001.tif</li>
-<li>...</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p><strong>Metadata</strong>
-The <em>Biblio Info Sheet</em> has to be fully filled-out. </p>
-<p><strong>Archive Images</strong></p>
+<hr />
+<h2 id="digitization-standards">Digitization Standards</h2>
+<p>The BUDA project currently purchases Buddhist digital texts meeting the following requirements: </p>
+<p>The images of a work are presented in two format: the archive images and the web images. The web images are derivated from the archive images and both sets of images are kept within a "work folder". Image names, cropping, and orientation should match in both image sets; whole file size, format, color depth, DPI and compression may be different. Check out the sample files here: <a href="./haha.jpg">single volume</a>, <a href="./haha.jpg">multiple volume</a>).</p>
+<p><strong>Archive Image Requirements</strong></p>
 <table>
 <thead>
 <tr>
@@ -292,78 +398,28 @@ The <em>Biblio Info Sheet</em> has to be fully filled-out. </p>
 </thead>
 <tbody>
 <tr>
-<td>Format</td>
-<td>JPEG 2000 (<strong>.j2k</strong>)</td>
+<td>File format</td>
+<td>JPEG 2000 (<strong>.j2k</strong>), wavelets compression, highest data size</td>
 </tr>
 <tr>
 <td>Resolution</td>
-<td>600 dpi/ppi</td>
+<td>600 ppi/dpi</td>
 </tr>
 <tr>
-<td>Size</td>
-<td>smaller than 5 MB</td>
+<td>Color profile</td>
+<td>RGB, 24-bits</td>
 </tr>
 <tr>
-<td>Compression</td>
-<td>uncompressed, highest data size</td>
+<td>Pixel dimensions</td>
+<td>consistent width</td>
 </tr>
 <tr>
-<td>Dimensions</td>
-<td>consistent width across image set</td>
-</tr>
-<tr>
-<td>Image quality</td>
-<td>single page per image without borders, scan lines, flare, missing text</td>
-</tr>
-<tr>
-<td>Organization</td>
-<td>correctly named (accession number / archive / volume / images)</td>
+<td>Quality</td>
+<td>1 page per image, no borders, no scan lines, no artifacts</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Archive Images</strong></p>
-<table>
-<thead>
-<tr>
-<th>Feature</th>
-<th>Standard</th>
-</tr>
-</thead>
-<tbody></tbody>
-</table>
-<p>The Buddhist Universal Digital Archive project (
-| Format | JPEG 2000 (<strong>.j2k</strong>); <br><em>web images:</em> TIFF G4 (<strong>.tif</strong>) for text, JPEG (<strong>.jpg</strong>) for color images | 
-| Resolution | 600 dpi/ppi | 
-| Size | <em>archive images:</em> &gt; 5 MB; <em>web images:</em> &gt; 400 KB | 
-| Bits | 24-bits |
-| Compression | uncompressed, highest data size |
-| Dimensions | consistent width and height |
-| Image quality | clean image without: <br> • border<br> • scan line<br> • flare<br> • double page<br> • missing text
-| Organization | accession number / archive / volume / images |
-| Metadata | duly completed <em>Biblio Info Sheet</em> |</p>
-<p>对BUDA的扫描（数字化）工作流程的建议
-BUDA的西藏资料的扫描（数字化）工作是通过4类员工:
-<em> DPE - 扫描工作人员
-</em> the FRs (代表)
-<em> the DPM (数字化项目经理)
-</em> the DAM (数字归档管理人)</p>
-<h1 id="suggested-digitization-workflow-for-buda">Suggested Digitization Workflow for BUDA</h1>
-<p>The digitization of Tibetan material for BUDA is done by 4 types of staff:
-<em> the DPEs (Digital Preservation Entrepreneurs) 
-</em> the FRs (Field Representatives)
-<em> the DPM (Digitization Project Manager)
-</em> the DAM (Digital Archive Manager)</p>
-<h1 id="introduction">数字化 ངོ་སྤྲོད། Introduction</h1>
-<p>This is the latest version of the Digitization Guidelines for the BUDA project.</p>
-<pre><code>The definition of good data int for false 
-dsdsfsdf
-</code></pre>
-<p>dsssd</p>
-<pre><code>Definition of good data
-</code></pre>
-<pre><code>Definition of good data
-</code></pre>
-
+<p><strong>Web Images Requirements</strong></p>
 <table>
 <thead>
 <tr>
@@ -373,153 +429,62 @@ dsdsfsdf
 </thead>
 <tbody>
 <tr>
-<td>Format</td>
-<td><em>archive images:</em> JPEG 2000 (<strong>.j2k</strong>); <br><em>web images:</em> TIFF G4 (<strong>.tif</strong>) for text, JPEG (<strong>.jpg</strong>) for color images</td>
+<td>File Format</td>
+<td>JPEG (<strong>.jpg</strong>) for color pages, TIFF G4 compression (<strong>.tif</strong>) for text only pages</td>
 </tr>
 <tr>
 <td>Resolution</td>
-<td>600 dpi/ppi</td>
+<td>consistent ppi/dpi</td>
 </tr>
 <tr>
-<td>Size</td>
-<td><em>archive images:</em> &gt; 5 MB; <em>web images:</em> &gt; 400 KB</td>
+<td>Color Profile</td>
+<td>RGB 24-bits for JPEG, BW 1-bit for TIFF</td>
 </tr>
 <tr>
-<td>Bits</td>
-<td>24-bits</td>
+<td>Pixel dimensions</td>
+<td>consistent width</td>
 </tr>
 <tr>
-<td>Compression</td>
-<td>uncompressed, highest data size</td>
-</tr>
-<tr>
-<td>Dimensions</td>
-<td>consistent width and height</td>
-</tr>
-<tr>
-<td>Image quality</td>
-<td>clean image without: <br> • border<br> • scan line<br> • flare<br> • double page<br> • missing text</td>
-</tr>
-<tr>
-<td>Organization</td>
-<td>accession number / archive / volume / images</td>
-</tr>
-<tr>
-<td>Metadata</td>
-<td>duly completed <em>Biblio Info Sheet</em></td>
+<td>File size</td>
+<td>smaller than 400 KB</td>
 </tr>
 </tbody>
 </table>
-<p><strong>数字化工作流程 Digitization Workflow བཀྲ་ཤིས་བདེ་ལེགས།</strong></p>
-<p>Starting from July 2017, the workflow is divided into 5 broad processes:</p>
-<ol>
+<p><strong>Folder Structure</strong> </p>
+<p>📂 <strong>AB0001</strong> <em>- work folder named with the current text's Accession Number</em></p>
+<ul>
+<li>📄 <strong>AB0001.xlsx</strong> <em>- "Bibbliographic Info Sheet" in Excel format</em></li>
 <li>
-<p><strong>Finding Opportunities</strong> - The DPE looks for acquisition opportunities.</p>
+<p>📂 <strong>archive</strong> <em>- large size images for long term archival</em></p>
+<ul>
+<li>📂 <strong>01</strong> <em>- volume 1 folder. One folder per volume</em><ul>
+<li>🖼 <strong>0001.j2k</strong> <em>- cover image in JPEG2000, RGB, wavelets compression</em></li>
+<li>🖼 <strong>0002.j2k</strong> <em>- text image in JPEG2000, RGB, wavelets compression</em></li>
+<li>🖼 <strong>0003.j2k</strong> <em>- ...</em></li>
+</ul>
+</li>
+<li>📂 <strong>02</strong> <em>- volume 2 folder</em><ul>
+<li>🖼 <strong>0001.j2k</strong></li>
+<li>🖼 <strong>0002.j2k</strong></li>
+</ul>
+</li>
+<li>📁 <strong>03</strong> <em>- ...</em></li>
+</ul>
 </li>
 <li>
-<p><strong>Selection and Digitization</strong> - The DPE identifies potential acquisitions, confirms it ;is needed by 1) consulting the mobile app, 2) consulting the FR. He then digitizes them, does the QC1 (1st Quality Control) and submits the images to the FR.</p>
+<p>📂 <strong>images</strong> <em>- small size web images for the website and the apps</em></p>
+<ul>
+<li>📂 <strong>01</strong><ul>
+<li>🖼 <strong>0001.jpg</strong> <em>- cover image in JPEG, RGB, JPEG compression</em></li>
+<li>🖼 <strong>0002.tif</strong> <em>- text image in TIFF, BW, G4 compression</em></li>
+<li>🖼 <strong>0003.tif</strong> <em>- ...</em></li>
+</ul>
 </li>
-<li>
-<p><strong>Quality Control and Processing</strong> - The FR does the QC2 (2nd Quality Control), post-processes them, to then submits the Access Files (web images) with a metada report to the DPM.</p>
+<li>📁 <strong>02</strong></li>
+<li>📁 <strong>03</strong></li>
+</ul>
 </li>
-<li>
-<p><strong>Quality Assurance</strong> - The DPM performs a QA (Quality Assurance) assessment, submits the files to the DAM and confirms that the DPE can be paid for the work.</p>
-</li>
-<li>
-<p><strong>Archiving and Publishing</strong> - The DAM reviews the Access files,  catalogued by the librarians publishes them. The librarians can now create metadata such as structural or semantic outlines. Every quarter, the DPM collects Master Files (archive images) and submits them to the DAM for archival.</p>
-</li>
-</ol>
-<p>从2017年7月开始,工作流程分为5大流程:</p>
-<ol>
-<li>
-<p><strong>寻找机会</strong> - 首先DPE或者有时FR寻找获取扫描机会。</p>
-</li>
-<li>
-<p><strong>选择和数字化</strong>——DPE使用移动应用检查，审核可获取的扫描资料，通过后数字化它们,然后进行QC1(1质量控制)并提交图片给FR。</p>
-</li>
-<li>
-<p><strong>质量控制和处理</strong> - FR进行QC2(第2质量控制)，发现问题时进行处理,然后将文档(网络图片文档)和元数据发送给DPM。</p>
-</li>
-<li>
-<p><strong>质量保证</strong> - DPM执行QA(质量保证)评估,然后提交文档给DAM并确认可以支付DPE。</p>
-</li>
-<li>
-<p><strong>存档和发布</strong>——DAM浏览文档,然后由图书管理员编目，由DAM发布。之后，图书管理员创建元数据,如目录和提纲。每个季度,DPM收集原始图片文档(存档图片)并提交给DAM存档。</p>
-</li>
-</ol>
-<p>s</p>
-<pre><code>The Python-Markdown documentation provides a [list of extensions][exts]
-which are available out-of-the-box. For a list of configuration options
-available for a given extension, see the documentation for that extension.
-
-
-
-You may also install and use various [third party extensions][3rd]. Consult
-the documentation for provided by those extensions for installation instructions
-and available configuration options. data int definition
-</code></pre>
-<table>
-<thead>
-<tr>
-<th>Old Variable Name</th>
-<th>New Variable Name or Expression</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>current_page</td>
-<td>page</td>
-</tr>
-<tr>
-<td>include_nav</td>
-<td>nav&#124;length&gt;1</td>
-</tr>
-<tr>
-<td>include_next_prev</td>
-<td>(page.next_page or page.previous_page)</td>
-</tr>
-<tr>
-<td>site_name</td>
-<td>config.site_name</td>
-</tr>
-<tr>
-<td>site_author</td>
-<td>config.site_author</td>
-</tr>
-<tr>
-<td>page_description</td>
-<td>config.site_description</td>
-</tr>
-<tr>
-<td>repo_url</td>
-<td>config.repo_url</td>
-</tr>
-<tr>
-<td>repo_name</td>
-<td>config.repo_name</td>
-</tr>
-<tr>
-<td>site_url</td>
-<td>config.site_url</td>
-</tr>
-<tr>
-<td>copyright</td>
-<td>config.copyright</td>
-</tr>
-<tr>
-<td>google_analytics</td>
-<td>config.google_analytics</td>
-</tr>
-<tr>
-<td>homepage_url</td>
-<td>nav.homepage.url</td>
-</tr>
-<tr>
-<td>favicon</td>
-<td>{{ base_url }}/img/favicon.ico</td>
-</tr>
-</tbody>
-</table>
+</ul>
 
   <br>
     
@@ -549,5 +514,5 @@ and available configuration options. data int definition
 </html>
 <!--
 MkDocs version : 0.16.3
-Build Date UTC : 2017-07-23 03:46:31
+Build Date UTC : 2017-07-25 13:35:09
 -->
