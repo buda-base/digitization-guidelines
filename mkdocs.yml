@@ -19,5 +19,5 @@ extra_css:
     - css/style.css
 
 extra:
-    # history_buttons: true
+    history_buttons: true
     logo: 'img/bdrc-white.png'
