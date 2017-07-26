@@ -76,49 +76,63 @@ ___
 https://collab.its.virginia.edu/access/content/group/1005c23a-5025-481c-b726-135aa8deca5d/Tutorials%20-%20Videos/Sections/Tutorial-Sections.html
 
 
-*   [介绍 ངོ་སྤྲོད། Introduction](.)
-*   <span class="wm-toc-text">数字化 ཨང་བསྒྱུར། Digitization</span>
-*   *   [数字化](digitization/digitization-cn/)
-    *   [ཨང་བསྒྱུར།](digitization/digitization-bo/)
-    *   [Digitization](digitization/digitization-en/)
-*   <span class="wm-toc-text">标准 ཚད་གཞི། Standards</span>
-*   *   [标准](standards/standards-cn/)
-    *   [ཚད་གཞི།](standards/standards-bo/)
-    *   [Standards](standards/standards-en/)
-*   <span class="wm-toc-text">工作流程 ལས་རིམ། Workflow</span>
-*   *   [工作流程](workflow/workflow-cn/)
-    *   [ལས་རིམ་ངོ་སྤྲོད།](workflow/workflow-bo/)
-    *   [Workflow](workflow/workflow-en/)
-*   <span class="wm-toc-text">选择 གདམ་གསེས། Selection</span>
-*   *   [选择](selection/selection-cn/)
-    *   [གདམ་གསེས།](selection/selection-bo/)
-    *   [Selection](selection/selection-en/)
-*   <span class="wm-toc-text">质量控制 སྤུད་ཚད་དཔྱད་ཞིབ། QC</span>
-*   *   [质量控制](qc/qc-cn/)
-    *   [སྤུད་ཚད་དཔྱད་ཞིབ།](qc/qc-bo/)
-    *   [Quality Control](qc/qc-en/)
-*   <span class="wm-toc-text">BDRC Lib</span>
-*   *   [BDRC Lib 手册](bdrcapp/bdrcapp-cn/)
-    *   [BDRC Lib བཀོལ་སྟངས།](bdrcapp/bdrcapp-bo/)
-    *   [BDRC Lib Manual](bdrcapp/bdrcapp-en/)
-*   <span class="wm-toc-text">Fujitsu fi-7160</span>
-*   *   [用户手册](fi7160/fi7160-cn/)
-    *   [བཀོལ་སྟངས།](fi7160/fi7160-bo/)
-    *   [Manual](fi7160/fi7160-en/)
-*   <span class="wm-toc-text">ScanSnap SV600</span>
-*   *   [ScanSnap SV600 手册](sv600/sv600-cn/)
-    *   [ScanSnap SV600 བཀོལ་སྟངས།](sv600/sv600-bo/)
-    *   [ScanSnap SV600 Manual](sv600/sv600-en/)
-*   <span class="wm-toc-text">XNView MP</span>
-*   *   [XNView MP 用户手册](xnviewmp/xnviewmp-cn/)
-    *   [XNView MP བཀོལ་སྟངས།](xnviewmp/xnviewmp-bo/)
-    *   [XNView MP Manual](xnviewmp/xnviewmp-en/)
-*   <span class="wm-toc-text">ScanTailor</span>
-*   *   [ScanTailor 用户手册](scantailor/scantailor-cn/)
-    *   [ScanTailor བཀོལ་སྟངས།](scantailor/scantailor-bo/)
-    *   [ScanTailor Manual](scantailor/scantailor-en/)
-*   <span class="wm-toc-text">评鉴 དྲི་གཞི། Assessment</span>
-*   *   [评鉴](assessment/assessment-cn/)
-    *   [གོ་རྟོགས་བརྟག་དཔྱད་དྲི་གཞི།](assessment/assessment-bo/)
-    *   [Assessment](assessment/assessment-en/)
-*   [Resources 资源](resources/)
+pages:
+- 介绍 ངོ་སྤྲོད། Introduction: index.md
+
+- 数字化 ཨང་བསྒྱུར། Digitization:
+  - 数字化: digitization/digitization-cn.md
+  - ཨང་བསྒྱུར།: digitization/digitization-bo.md
+  - Digitization: digitization/digitization-en.md
+
+- 标准 ཚད་གཞི། Standards:
+  - 标准: standards/standards-cn.md
+  - ཚད་གཞི།: standards/standards-bo.md
+  - Standards: standards/standards-en.md
+
+- 工作流程 ལས་རིམ། Workflow:
+  - 工作流程: workflow/workflow-cn.md
+  - ལས་རིམ་ངོ་སྤྲོད།: workflow/workflow-bo.md
+  - Workflow: workflow/workflow-en.md
+
+- 选择 གདམ་གསེས། Selection:
+  - 选择: selection/selection-cn.md
+  - གདམ་གསེས།: selection/selection-bo.md
+  - Selection: selection/selection-en.md
+
+- 质量控制 སྤུད་ཚད་དཔྱད་ཞིབ། QC:
+  - 质量控制: qc/qc-cn.md
+  - སྤུད་ཚད་དཔྱད་ཞིབ།: qc/qc-bo.md
+  - Quality Control: qc/qc-en.md
+
+- BDRC Lib:
+  - BDRC Lib 手册: bdrcapp/bdrcapp-cn.md
+  - BDRC Lib བཀོལ་སྟངས།: bdrcapp/bdrcapp-bo.md
+  - BDRC Lib Manual: bdrcapp/bdrcapp-en.md
+
+- Fujitsu fi-7160:
+  - 用户手册: fi7160/fi7160-cn.md
+  - བཀོལ་སྟངས།: fi7160/fi7160-bo.md
+  - Manual: fi7160/fi7160-en.md
+
+- ScanSnap SV600:
+  - ScanSnap SV600 手册: sv600/sv600-cn.md
+  - ScanSnap SV600 བཀོལ་སྟངས།: sv600/sv600-bo.md
+  - ScanSnap SV600 Manual: sv600/sv600-en.md
+
+- XNView MP:
+  - XNView MP 用户手册: xnviewmp/xnviewmp-cn.md
+  - XNView MP བཀོལ་སྟངས།: xnviewmp/xnviewmp-bo.md
+  - XNView MP Manual: xnviewmp/xnviewmp-en.md
+
+- ScanTailor:
+  - ScanTailor 用户手册: scantailor/scantailor-cn.md
+  - ScanTailor བཀོལ་སྟངས།: scantailor/scantailor-bo.md
+  - ScanTailor Manual: scantailor/scantailor-en.md
+
+- 评鉴 དྲི་གཞི། Assessment:
+  - 评鉴: assessment/assessment-cn.md
+  - གོ་རྟོགས་བརྟག་དཔྱད་དྲི་གཞི།: assessment/assessment-bo.md
+  - Assessment: assessment/assessment-en.md
+
+- 资源 ཉེར་མཁོ། Resources: resources.md
+- 词汇表 མིང་མཛོད། Glossary: glossary.md

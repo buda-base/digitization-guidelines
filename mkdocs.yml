@@ -4,18 +4,69 @@ site_description: '数字化指南 ཨང་བསྒྱུར་ལམ་སྟ
 theme: windmill
 
 pages:
-- 介绍 ངོ་སྤྲོད། Intro: index.md
-- Workflow:
-  - 工作流程: workflow/workflow-cn.md
-  - ལས་འཆར།: workflow/workflow-bo.md
-  - Workflow: workflow/workflow-en.md
-# - Theory:
-  # - theory/images.md
+- 介绍 ངོ་སྤྲོད། Introduction: index.md
 
-- Resources 资源 : resources.md
+- 数字化 ཨང་བསྒྱུར། Digitization:
+  - 数字化: digitization/digitization-cn.md
+  - ཨང་བསྒྱུར།: digitization/digitization-bo.md
+  - Digitization: digitization/digitization-en.md
+
+- 标准 ཚད་གཞི། Standards:
+  - 标准: standards/standards-cn.md
+  - ཚད་གཞི།: standards/standards-bo.md
+  - Standards: standards/standards-en.md
+
+- 工作流程 ལས་རིམ། Workflow:
+  - 工作流程: workflow/workflow-cn.md
+  - ལས་རིམ་ངོ་སྤྲོད།: workflow/workflow-bo.md
+  - Workflow: workflow/workflow-en.md
+
+- 选择 གདམ་གསེས། Selection:
+  - 选择: selection/selection-cn.md
+  - གདམ་གསེས།: selection/selection-bo.md
+  - Selection: selection/selection-en.md
+
+- 质量控制 སྤུད་ཚད་བལྟ་འདོམས། QC:
+  - 质量控制: qc/qc-cn.md
+  - སྤུད་ཚད་བལྟ་འདོམས།: qc/qc-bo.md
+  - Quality Control: qc/qc-en.md
+
+- BDRC Lib:
+  - BDRC Lib 手册: bdrcapp/bdrcapp-cn.md
+  - BDRC Lib བཀོལ་སྟངས།: bdrcapp/bdrcapp-bo.md
+  - BDRC Lib Manual: bdrcapp/bdrcapp-en.md
+
+- Fujitsu fi-7160:
+  - 用户手册: fi7160/fi7160-cn.md
+  - བཀོལ་སྟངས།: fi7160/fi7160-bo.md
+  - Manual: fi7160/fi7160-en.md
+
+- ScanSnap SV600:
+  - ScanSnap SV600 手册: sv600/sv600-cn.md
+  - ScanSnap SV600 བཀོལ་སྟངས།: sv600/sv600-bo.md
+  - ScanSnap SV600 Manual: sv600/sv600-en.md
+
+- XNView MP:
+  - XNView MP 用户手册: xnviewmp/xnviewmp-cn.md
+  - XNView MP བཀོལ་སྟངས།: xnviewmp/xnviewmp-bo.md
+  - XNView MP Manual: xnviewmp/xnviewmp-en.md
+
+- ScanTailor:
+  - ScanTailor 用户手册: scantailor/scantailor-cn.md
+  - ScanTailor བཀོལ་སྟངས།: scantailor/scantailor-bo.md
+  - ScanTailor Manual: scantailor/scantailor-en.md
+
+- 评鉴 དྲི་གཞི། Assessment:
+  - 评鉴: assessment/assessment-cn.md
+  - གོ་རྟོགས་བརྟག་དཔྱད་དྲི་གཞི།: assessment/assessment-bo.md
+  - Assessment: assessment/assessment-en.md
+
+- 资源 ཉེར་མཁོ། Resources: resources.md
+- 词汇表 མིང་མཛོད། Glossary: glossary.md
+
 
 extra_css:
-    - css/fonts.css
+    - css/font-profile.css
     - css/style.css
 
 extra:
