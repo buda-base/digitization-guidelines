@@ -36,9 +36,11 @@
       var is_top_frame = (window === window.parent);
         
         var pageToc = [
-          {title: "\u6570\u5b57\u5316\u6807\u51c6", url: "#_1", children: [
-              {title: "\u0f68\u0f44\u0f0b\u0f56\u0f66\u0f92\u0fb1\u0f74\u0f62\u0f0b\u0f5a\u0f51\u0f0b\u0f42\u0f5e\u0f72\u0f0d", url: "#_2" },
-              {title: "Digitization Standards", url: "#digitization-standards" },
+          {title: "\u4ecb\u7ecd", url: "#_1", children: [
+          ]},
+          {title: "\b\u0f63\u0f66\u0f0b\u0f42\u0f5e\u0f72\u0f0b\u0f44\u0f7c\u0f0b\u0f66\u0fa4\u0fb2\u0f7c\u0f51\u0f0d", url: "#_2", children: [
+          ]},
+          {title: "Introduction", url: "#introduction", children: [
           ]},
         ];
 
@@ -98,9 +100,35 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <nav class="wm-toc-pane">
   
   <ul class="wm-toctree">
-        <li class="wm-toc-li wm-toc-lev1 "><a href="." class="wm-article-link wm-toc-text">介绍 ཚད་གཞི། Standards</a>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="." class="wm-article-link wm-toc-text">介绍 ངོ་སྤྲོད། Introduction</a>
 </li>
-        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">介绍 ལས་འཆར། Workflow</span>
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">数字化 ཨང་བསྒྱུར། Digitization</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="digitization/digitization-cn/" class="wm-article-link wm-toc-text">数字化</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="digitization/digitization-bo/" class="wm-article-link wm-toc-text">ཨང་བསྒྱུར།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="digitization/digitization-en/" class="wm-article-link wm-toc-text">Digitization</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">标准 ཚད་གཞི། Standards</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="standards/standards-cn/" class="wm-article-link wm-toc-text">标准</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="standards/standards-bo/" class="wm-article-link wm-toc-text">ཚད་གཞི།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="standards/standards-en/" class="wm-article-link wm-toc-text">Standards</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">工作流程 ལས་འཆར། Workflow</span>
 </li>
 <li class="wm-toc-li-nested collapse">
   <ul class="wm-toctree">
@@ -113,24 +141,102 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
   </ul>
 </li>
 
-        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">质量控制 སྤུད་ཚད་བལྟ་འདོམས། QC</span>
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">选择 གདམ་གསེས། Selection</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="selection/selection-cn/" class="wm-article-link wm-toc-text">选择</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="selection/selection-bo/" class="wm-article-link wm-toc-text">གདམ་གསེས།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="selection/selection-en/" class="wm-article-link wm-toc-text">Selection</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">质量控制 སྤུད་ཚད་དཔྱད་ཞིབ། QC</span>
 </li>
 <li class="wm-toc-li-nested collapse">
   <ul class="wm-toctree">
       <li class="wm-toc-li wm-toc-lev2 "><a href="qc/qc-cn/" class="wm-article-link wm-toc-text">质量控制</a>
 </li>
-      <li class="wm-toc-li wm-toc-lev2 "><a href="qc/qc-bo/" class="wm-article-link wm-toc-text">སྤུད་ཚད་བལྟ་འདོམས།</a>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="qc/qc-bo/" class="wm-article-link wm-toc-text">སྤུད་ཚད་དཔྱད་ཞིབ།</a>
 </li>
       <li class="wm-toc-li wm-toc-lev2 "><a href="qc/qc-en/" class="wm-article-link wm-toc-text">Quality Control</a>
 </li>
   </ul>
 </li>
 
-        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">介绍 དྲི་གཞི། Assessment</span>
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">BDRC Lib</span>
 </li>
 <li class="wm-toc-li-nested collapse">
   <ul class="wm-toctree">
-      <li class="wm-toc-li wm-toc-lev2 "><a href="assessment/assessment-cn/" class="wm-article-link wm-toc-text">工作流程</a>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="bdrcapp/bdrcapp-cn/" class="wm-article-link wm-toc-text">BDRC Lib 手册</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="bdrcapp/bdrcapp-bo/" class="wm-article-link wm-toc-text">BDRC Lib བཀོལ་སྟངས།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="bdrcapp/bdrcapp-en/" class="wm-article-link wm-toc-text">BDRC Lib Manual</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Fujitsu fi-7160</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="fi7160/fi7160-cn/" class="wm-article-link wm-toc-text">用户手册</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="fi7160/fi7160-bo/" class="wm-article-link wm-toc-text">བཀོལ་སྟངས།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="fi7160/fi7160-en/" class="wm-article-link wm-toc-text">Manual</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">ScanSnap SV600</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="sv600/sv600-cn/" class="wm-article-link wm-toc-text">ScanSnap SV600 手册</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="sv600/sv600-bo/" class="wm-article-link wm-toc-text">ScanSnap SV600 བཀོལ་སྟངས།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="sv600/sv600-en/" class="wm-article-link wm-toc-text">ScanSnap SV600 Manual</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">XNView MP</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="xnviewmp/xnviewmp-cn/" class="wm-article-link wm-toc-text">XNView MP 用户手册</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="xnviewmp/xnviewmp-bo/" class="wm-article-link wm-toc-text">XNView MP བཀོལ་སྟངས།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="xnviewmp/xnviewmp-en/" class="wm-article-link wm-toc-text">XNView MP Manual</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">ScanTailor</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="scantailor/scantailor-cn/" class="wm-article-link wm-toc-text">ScanTailor 用户手册</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="scantailor/scantailor-bo/" class="wm-article-link wm-toc-text">ScanTailor བཀོལ་སྟངས།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="scantailor/scantailor-en/" class="wm-article-link wm-toc-text">ScanTailor Manual</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">评鉴 དྲི་གཞི། Assessment</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="assessment/assessment-cn/" class="wm-article-link wm-toc-text">评鉴</a>
 </li>
       <li class="wm-toc-li wm-toc-lev2 "><a href="assessment/assessment-bo/" class="wm-article-link wm-toc-text">གོ་རྟོགས་བརྟག་དཔྱད་དྲི་གཞི།</a>
 </li>
@@ -155,12 +261,12 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
   <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
     
     <div class="wm-article-nav pull-right">
-      <a href="workflow/workflow-cn/" class="btn btn-xs btn-default pull-right">
+      <a href="digitization/digitization-cn/" class="btn btn-xs btn-default pull-right">
         Next
         <i class="fa fa-chevron-right" aria-hidden="true"></i>
       </a>
-      <a href="workflow/workflow-cn/" class="btn btn-xs btn-link">
-        工作流程
+      <a href="digitization/digitization-cn/" class="btn btn-xs btn-link">
+        数字化
       </a>
     </div>
     
@@ -168,317 +274,30 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 
     
 
-    <h1 id="_1">数字化标准</h1>
-<p>目前，BUDA项目正在采购符合以下要求的佛教数字文本：</p>
-<p>作品的图像以两种格式呈现：存档图像和网络图像。网页图像是从档案图像延伸出来的，两组图像都保存在“工作文件夹”中。这两组图像文件夹中的图像名称，裁剪和方向应该一致;而整个文件的大小、格式、颜色深浅、DPI和压缩方式可能不同。示例文件请点选这里:<a href="./haha.jpg">单卷</a>, <a href="./haha.jpg">多卷</a>。</p>
-<p><strong>档案图片要求</strong></p>
-<table>
-<thead>
-<tr>
-<th>规格</th>
-<th>标准</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>文件格式</td>
-<td>JPEG 2000（<strong>.j2k</strong>），小波压缩，最高数据大小</td>
-</tr>
-<tr>
-<td>解析度</td>
-<td>600 ppi / dpi</td>
-</tr>
-<tr>
-<td>色彩特性</td>
-<td>RGB，24位</td>
-</tr>
-<tr>
-<td>像素尺寸</td>
-<td>宽度一致</td>
-</tr>
-<tr>
-<td>画质</td>
-<td>每面书一张图片，无边框，无扫描线，无伪影</td>
-</tr>
-</tbody>
-</table>
-<p><strong>网页图片要求</strong></p>
-<table>
-<thead>
-<tr>
-<th>规格</th>
-<th>标准</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>文件格式</td>
-<td>彩色页面用JPEG（<strong>.jpg</strong>），文字页面用TIFF G4压缩（<strong>.tif</strong>）</td>
-</tr>
-<tr>
-<td>解析度</td>
-<td>一致的ppi / dpi</td>
-</tr>
-<tr>
-<td>色彩特性</td>
-<td>RGB 24位用JPEG，BW 1位用于TIFF</td>
-</tr>
-<tr>
-<td>像素尺寸</td>
-<td>宽度一致</td>
-</tr>
-<tr>
-<td>文件大小</td>
-<td>小于400 KB</td>
-</tr>
-</tbody>
-</table>
-<p><strong>文件夹结构</strong></p>
-<p>📂 <strong>AB0001</strong> <em>- 以当前文本的登录号命名的工作文件夹</em></p>
-<ul>
-<li>📄 <strong>AB0001.xlsx</strong> <em>-  Excel格式的“书目信息表”</em></li>
-<li>
-<p>📂 <strong>archive</strong> <em>-为长期存档之大型图像</em></p>
-<ul>
-<li>📂 <strong>01</strong> <em>- 第1卷文件夹。一卷一个文件夹</em><ul>
-<li>🖼 <strong>0001.j2k</strong> <em>- 封面图像用JPEG2000，RGB，小波压缩</em></li>
-<li>🖼 <strong>0002.j2k</strong> <em>-  文字图像用JPEG2000，RGB，小波压缩</em></li>
-<li>🖼 <strong>0003.j2k</strong> <em>-  ...</em></li>
-</ul>
-</li>
-<li>📂 <strong>02</strong> <em>- 第2卷文件夹</em><ul>
-<li>🖼 <strong>0001.j2k</strong></li>
-<li>🖼 <strong>0002.j2k</strong></li>
-</ul>
-</li>
-<li>📁 <strong>03</strong> * -  ... *</li>
-</ul>
-</li>
-<li>
-<p>📂 <strong>images</strong> <em>-网站和应用程序的小尺寸网络图像</em></p>
-<ul>
-<li>📂 <strong>01</strong></li>
-<li>🖼 <strong>0001.jpg</strong> <em>- 以JPEG，RGB，JPEG压缩封面图像</em><ul>
-<li>🖼 <strong>0002.tif</strong> <em>- 文字图像在TIFF，BW，G4压缩</em></li>
-<li>🖼 <strong>0003.tif</strong> <em>-  ...</em></li>
-</ul>
-</li>
-<li>📁 <strong>02</strong></li>
-</ul>
-</li>
-<li>📁 <strong>03</strong></li>
-</ul>
-<hr />
-<h2 id="_2">ཨང་བསྒྱུར་ཚད་གཞི།</h2>
-<p>ངེད་ཚོགས་པས་བུདྡྷ་ལས་གཞི་ལྟར་ཁྱེད་ཀྱི་ཨང་ཅན་དཔེ་པར་ཁག་ལ་གཤམ་བཀོད་ཀྱི་ཆརྐྱེན་ནམ་མཚན་ཉིད་རྣམས་ལེགས་པར་ཚང་ན་བླུ་ངེས་ཡིན།
-བཤེར་པར་རྣམས་རིགས་གཉིས་ལ་ཉར་དགོས་ཏེ། རིགས་གཅིག་ནི་དྲ་སྤེལ་གྱི་ཆེད་དང་། གཉིས་པ་ཉར་ཚགས་ཀྱི་ཆེད་ཡིན། ཉར་ཚགས་ཀྱི་དཔེ་ཕར་བཟོས་རྗེས། དེ་ལས་དྲ་སྤེལ་གྱི་དཔེ་པར་རྣམས་བཟོ་དགོས། དཔེ་པར་རིགས་གཉིས་དེ་པར་སྣོད་གཅིག་གི་ནང་བླུག་དགོས། དཔེ་པར་རིགས་དེ་གཉིས་ཀྱི་མིང་འདོགས་སྟངས་གཅིག་གྱུར་དང་། པར་མཐའ་གཏུབ་སྟངས། ཡོ་འཁྱོག་མེད་པ་བཅས་ཆ རྐྱེན་དེ་གསུམ་ངེས་པར་གཅིག་གྱུར་ཡིན་དགོས། འོན་ཀྱང་། དཔེ་པར་རིགས་དེ་གཉིས་ཀྱི་ཆེ་ཆུང་དང་རིགས། ཚོན་མདོག བསྡུས་ཚད་(DPI)བཅས་ལ་མི་འདྲ་བ་ཡོད་ཀྱང་ཆོག དཔེ་མཚོན་དགོས་ན་འདི་ནས་ (<a href="./haha.jpg">པོད་གཅིག་ཅན་གྱི་བརྩམས་ཆོས།</a> <a href="./haha.jpg">པོད་མང་ཅན་གྱི་བརྩམས་ཆོས།</a>) གཟིགས་ཐུབ། </p>
-<p><strong>ཉར་ཚགས་དཔེ་པར་གྱི་དགོས་ངེས་ཆ་རྐྱེན་ཁག</strong></p>
-<table>
-<thead>
-<tr>
-<th>རིགས།</th>
-<th>ཚད་གཞི།</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>ཡིག་ཆའི་རིགས།</td>
-<td>JPEG 2000 (<strong>.j2k</strong>), wavelets བསྡུས་ཚད། དན་གྲངས་ཚད་གཞི་མཐོ་ཤོས།</td>
-</tr>
-<tr>
-<td>གསལ་ཆ།</td>
-<td>600 ppi/dpi</td>
-</tr>
-<tr>
-<td>མདོག་རིགས།</td>
-<td>RGB ཚོད་གཞི་ཅན། 24-bits</td>
-</tr>
-<tr>
-<td>པར་གྱི་ཚད།</td>
-<td>པོད་གཅིག་གི་པར་ཚང་མ་ཞེང་ཁ་གཅིག་མཚུངས།</td>
-</tr>
-<tr>
-<td>སྤུས་ཚད།</td>
-<td>ཤོག་ངོས་གཅིག་ལ་པར་གཅིག པར་མཐའ་མེད་པ། བཤེར་ཐིག་རིགས་མེད་པ། དྲི་མ་ནག་ནོག་མེད་པ།</td>
-</tr>
-</tbody>
-</table>
-<p><strong>དྲ་སྤེལ་དཔེ་པར་ཁག་གི་དགོས་ངེས་ཀྱི་ཆ་རྐྱེན་ཁག</strong> </p>
-<table>
-<thead>
-<tr>
-<th>རིགས།</th>
-<th>ཚད་གཞི།</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>ཡིག་ཆའི་རིགས།</td>
-<td>ཚོན་ལྡན་དཔེ་པར་ཁག་ལ་JPEG (<strong>.jpg</strong>)རིགས་འདི་ཡིན་དགོས།, TIFF G4 བསྡུས་ཚད་ སྐྱ་པར་ཁོ་ན་ཡིན་ན(<strong>.tif</strong>)རིགས་ཡིན་དགོས།</td>
-</tr>
-<tr>
-<td>པར་གྱི་གསལ་ཆ།</td>
-<td>ཚང་མ་གཅིག་གྱུར་ཡིན་དགོས། ppi/dpi</td>
-</tr>
-<tr>
-<td>ཚོན་མདོག་ཚད་མཚོན།</td>
-<td>ཚོན་ལྡན་དཔེ་པར་རིགས་ཡིན་ན RGB 24-bits for JPEG, སྐྱ་པར་རིགས་ཡིན་ན་ 1-bit for TIFF</td>
-</tr>
-<tr>
-<td>Pixel dimensions</td>
-<td>པོད་གཅིག་གི་པར་ཚང་མ་ཞེང་ཁ་གཅིག་མཚུངས།</td>
-</tr>
-<tr>
-<td>པར་གྱི་ཆེ་ཆུང་།</td>
-<td>པར་རེ་རེ 400 KB ལས་ཆུང་བ་ཡིན་དགོས།</td>
-</tr>
-</tbody>
-</table>
-<p><strong>པར་སྣོད་ཀྱི་ཚད་གཞི།</strong> </p>
-<p>📂 <strong>AB0001</strong> <em>- བརྩམས་ཆོས་ཡིག་སྣོད། དེའི་མིང་ལ་་འདོགས་དགོས།Accession Number</em></p>
-<ul>
-<li>📄 <strong>AB0001.xlsx</strong> <em>- "Bibbliographic Info Sheet" in Excel format</em></li>
-<li>པར་རིགས་གང་ཡིན་གནས་ཚུལ་མཚོན་བྱེད།</li>
-<li>📂 <strong>archive</strong> <em>- large size images for long term archival</em></li>
-<li>
-<p>རྒྱུན་རིང་ཉར་ཚགས་ཐུབ་ཆེད་དཔེ་པར་ཆེ་པོ་བཟོ་བ།</p>
-<ul>
-<li>📂 <strong>01</strong> <em>- volume 1 folder. One folder per volume</em></li>
-<li>པོ་ཏི་རེ་ལ་པར་སྣོད་རེ་ཡོད་དགོས།<ul>
-<li>🖼 <strong>0001.j2k</strong> <em>- cover image in JPEG2000, RGB, wavelets compression</em></li>
-<li>དཔེ་ཆའི་རྒྱབ་ཤ ་JPEG2000, RGB, wavelets བསྡུས་ཚད་ཡིན་དགོས།</li>
-<li>🖼 <strong>0002.j2k</strong> <em>- text image in JPEG2000, RGB, wavelets compression</em></li>
-<li>འདྲ་པར་མེད་པར་ཡིག་རྐྱང་གི་དཔེ་པར་རྣམས་JPEG2000, RGB, wavelets བསྡུས་ཚད་ཡིན་དགོས།</li>
-<li>🖼 <strong>0003.j2k</strong> <em>- ...</em> </li>
-</ul>
-</li>
-<li>📂 <strong>02</strong> <em>- volume 2 folder</em></li>
-<li>📂 <strong>02</strong> པོ་ཏི་གཉིས་ལ་པར་སྣོད་གཉིས་ཡོད་དགོས།<ul>
-<li>🖼 <strong>0001.j2k</strong></li>
-<li>🖼 <strong>0002.j2k</strong></li>
-</ul>
-</li>
-<li>📁 <strong>03</strong> <em>- ...</em></li>
-</ul>
-</li>
-<li>
-<p>📂 <strong>images</strong> <em>- small size web images for the website and the apps</em></p>
-</li>
-<li>📂 <strong>དྲ་སྤེལ་དཔེཔར་</strong> *- དྲ་སྤེལ་བྱེ་ད་ཀྱི་ཆེད་པར་ཆུང་བའི་རིགས་དང་མནེན་ཆས་ཁག<ul>
-<li>📂 <strong>01</strong><ul>
-<li>🖼 <strong>0001.jpg</strong> <em>- cover image in JPEG, RGB, JPEG compression</em></li>
-<li>🖼 <strong>0001.jpg</strong> *- དེབ་ཀྱི་རྒྱབ་ཤ་JPEG, RGB, JPEG བསྡུས་ཚད་།</li>
-<li>🖼 <strong>0002.tif</strong> <em>- text image in TIFF, BW, G4 compression</em></li>
-<li>🖼 <strong>0002.tif</strong> <em>- འདྲ་པར་མེད་སའི་ཡིག་རྐྱང་སྐྱ་པར་རྣམས་ G4 བསྡུས་ཚད།</em></li>
-<li>🖼 <strong>0003.tif</strong> <em>- ...</em></li>
-</ul>
-</li>
-<li>📁 <strong>02</strong></li>
-<li>📁 <strong>03</strong></li>
-</ul>
-</li>
-</ul>
-<hr />
-<h2 id="digitization-standards">Digitization Standards</h2>
-<p>The BUDA project currently purchases Buddhist digital texts meeting the following requirements: </p>
-<p>The images of a work are presented in two format: the archive images and the web images. The web images are derivated from the archive images and both sets of images are kept within a "work folder". Image names, cropping, and orientation should match in both image sets; whole file size, format, color depth, DPI and compression may be different. Check out the sample files here: <a href="./haha.jpg">single volume</a>, <a href="./haha.jpg">multiple volume</a>).</p>
-<p><strong>Archive Image Requirements</strong></p>
-<table>
-<thead>
-<tr>
-<th>Feature</th>
-<th>Standard</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>File format</td>
-<td>JPEG 2000 (<strong>.j2k</strong>), wavelets compression, highest data size</td>
-</tr>
-<tr>
-<td>Resolution</td>
-<td>600 ppi/dpi</td>
-</tr>
-<tr>
-<td>Color profile</td>
-<td>RGB, 24-bits</td>
-</tr>
-<tr>
-<td>Pixel dimensions</td>
-<td>consistent width</td>
-</tr>
-<tr>
-<td>Quality</td>
-<td>1 page per image, no borders, no scan lines, no artifacts</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Web Images Requirements</strong></p>
-<table>
-<thead>
-<tr>
-<th>Feature</th>
-<th>Standard</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>File Format</td>
-<td>JPEG (<strong>.jpg</strong>) for color pages, TIFF G4 compression (<strong>.tif</strong>) for text only pages</td>
-</tr>
-<tr>
-<td>Resolution</td>
-<td>consistent ppi/dpi</td>
-</tr>
-<tr>
-<td>Color Profile</td>
-<td>RGB 24-bits for JPEG, BW 1-bit for TIFF</td>
-</tr>
-<tr>
-<td>Pixel dimensions</td>
-<td>consistent width</td>
-</tr>
-<tr>
-<td>File size</td>
-<td>smaller than 400 KB</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Folder Structure</strong> </p>
-<p>📂 <strong>AB0001</strong> <em>- work folder named with the current text's Accession Number</em></p>
-<ul>
-<li>📄 <strong>AB0001.xlsx</strong> <em>- "Bibbliographic Info Sheet" in Excel format</em></li>
-<li>
-<p>📂 <strong>archive</strong> <em>- large size images for long term archival</em></p>
-<ul>
-<li>📂 <strong>01</strong> <em>- volume 1 folder. One folder per volume</em><ul>
-<li>🖼 <strong>0001.j2k</strong> <em>- cover image in JPEG2000, RGB, wavelets compression</em></li>
-<li>🖼 <strong>0002.j2k</strong> <em>- text image in JPEG2000, RGB, wavelets compression</em></li>
-<li>🖼 <strong>0003.j2k</strong> <em>- ...</em></li>
-</ul>
-</li>
-<li>📂 <strong>02</strong> <em>- volume 2 folder</em><ul>
-<li>🖼 <strong>0001.j2k</strong></li>
-<li>🖼 <strong>0002.j2k</strong></li>
-</ul>
-</li>
-<li>📁 <strong>03</strong> <em>- ...</em></li>
-</ul>
-</li>
-<li>
-<p>📂 <strong>images</strong> <em>- small size web images for the website and the apps</em></p>
-<ul>
-<li>📂 <strong>01</strong><ul>
-<li>🖼 <strong>0001.jpg</strong> <em>- cover image in JPEG, RGB, JPEG compression</em></li>
-<li>🖼 <strong>0002.tif</strong> <em>- text image in TIFF, BW, G4 compression</em></li>
-<li>🖼 <strong>0003.tif</strong> <em>- ...</em></li>
-</ul>
-</li>
-<li>📁 <strong>02</strong></li>
-<li>📁 <strong>03</strong></li>
-</ul>
-</li>
-</ul>
+    <h2 id="_1">介绍</h2>
+<p>你好！</p>
+<p><strong>佛教通用数字档案馆</strong></p>
+<p>你好！</p>
+<p><strong>国际文献保护基金会</strong></p>
+<p>你好！</p>
+<p><strong>佛教资源与研究中心</strong></p>
+<p>你好！</p>
+<h2 id="_2">ལས་གཞི་ངོ་སྤྲོད།</h2>
+<p>བཀྲ་ཤིས་བདེ་ལེགས།</p>
+<p><strong>བུདྡྷ་ཆོས་མཛོད་ཆེན་མོ།</strong></p>
+<p>བཀྲ་ཤིས་བདེ་ལེགས།</p>
+<p><strong>ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས།</strong></p>
+<p>བཀྲ་ཤིས་བདེ་ལེགས།</p>
+<p><strong>ནང་བསྟན་ཞིབ་འཇུག་ལྟེ་གནས།</strong></p>
+<p>བཀྲ་ཤིས་བདེ་ལེགས།</p>
+<h2 id="introduction">Introduction</h2>
+<p>Howdy!</p>
+<p><strong>BUDA</strong></p>
+<p>Howdy!</p>
+<p><strong>BDRC</strong></p>
+<p>Howdy!</p>
+<p><strong>BRRC</strong></p>
+<p>Howdy!</p>
 
   <br>
     
@@ -486,12 +305,12 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
   <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
     
     <div class="wm-article-nav pull-right">
-      <a href="workflow/workflow-cn/" class="btn btn-xs btn-default pull-right">
+      <a href="digitization/digitization-cn/" class="btn btn-xs btn-default pull-right">
         Next
         <i class="fa fa-chevron-right" aria-hidden="true"></i>
       </a>
-      <a href="workflow/workflow-cn/" class="btn btn-xs btn-link">
-        工作流程
+      <a href="digitization/digitization-cn/" class="btn btn-xs btn-link">
+        数字化
       </a>
     </div>
     
@@ -508,5 +327,5 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 </html>
 <!--
 MkDocs version : 0.16.3
-Build Date UTC : 2017-07-25 18:29:33
+Build Date UTC : 2017-07-26 06:09:40
 -->

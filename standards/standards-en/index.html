@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    
+    <link rel="shortcut icon" href="../../img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <title>Standards - 数字化 · ཨང་བསྒྱུར། · Digitization</title>
+    <link href="../../css/bootstrap-3.3.7.min.css" rel="stylesheet">
+    <link href="../../css/font-awesome-4.7.0.css" rel="stylesheet">
+    <link href="../../css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../css/highlight.css">
+    <link href="../../css/font-profile.css" rel="stylesheet">
+    <link href="../../css/style.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="../../js/jquery-3.2.1.min.js"></script>
+    <script src="../../js/bootstrap-3.3.7.min.js"></script>
+    <script src="../../js/highlight.pack.js"></script>
+    
+    <base target="_top">
+    <script>
+      var base_url = '../..';
+      var is_top_frame = false;
+        
+        var pageToc = [
+          {title: "Digitization Standards", url: "#digitization-standards", children: [
+          ]},
+        ];
+
+    </script>
+    <script src="../../js/base.js"></script> 
+</head>
+
+<body>
+<script>
+if (is_top_frame) { $('body').addClass('wm-top-page'); }
+</script>
+
+
+
+<div class="container-fluid wm-page-content">
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../../workflow/workflow-cn/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../../workflow/workflow-cn/" class="btn btn-xs btn-link">
+        工作流程
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../standards-bo/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../standards-bo/" class="btn btn-xs btn-link">
+        ཚད་གཞི།
+      </a>
+    </div>
+    
+  </div>
+
+    
+
+    <h2 id="digitization-standards">Digitization Standards</h2>
+<p>The BUDA project currently purchases Buddhist digital texts meeting the following requirements: </p>
+<p>The images of a work are presented in two format: the archive images and the web images. The web images are derivated from the archive images and both sets of images are kept within a "work folder". Image names, cropping, and orientation should match in both image sets; whole file size, format, color depth, DPI and compression may be different. Check out the sample files here: <a href="../haha.jpg">single volume</a>, <a href="../haha.jpg">multiple volume</a>).</p>
+<p><strong>Archive Image Requirements</strong></p>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Standard</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>File format</td>
+<td>JPEG 2000 (<strong>.j2k</strong>), wavelets compression, highest data size</td>
+</tr>
+<tr>
+<td>Resolution</td>
+<td>600 ppi/dpi</td>
+</tr>
+<tr>
+<td>Color profile</td>
+<td>RGB, 24-bits</td>
+</tr>
+<tr>
+<td>Pixel dimensions</td>
+<td>consistent width</td>
+</tr>
+<tr>
+<td>Quality</td>
+<td>1 page per image, no borders, no scan lines, no artifacts</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Web Images Requirements</strong></p>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Standard</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>File Format</td>
+<td>JPEG (<strong>.jpg</strong>) for color pages, TIFF G4 compression (<strong>.tif</strong>) for text only pages</td>
+</tr>
+<tr>
+<td>Resolution</td>
+<td>consistent ppi/dpi</td>
+</tr>
+<tr>
+<td>Color Profile</td>
+<td>RGB 24-bits for JPEG, BW 1-bit for TIFF</td>
+</tr>
+<tr>
+<td>Pixel dimensions</td>
+<td>consistent width</td>
+</tr>
+<tr>
+<td>File size</td>
+<td>smaller than 400 KB</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Folder Structure</strong> </p>
+<p>📂 <strong>AB0001</strong> <em>- work folder named with the current text's Accession Number</em></p>
+<ul>
+<li>📄 <strong>AB0001.xlsx</strong> <em>- "Bibbliographic Info Sheet" in Excel format</em></li>
+<li>
+<p>📂 <strong>archive</strong> <em>- large size images for long term archival</em></p>
+<ul>
+<li>📂 <strong>01</strong> <em>- volume 1 folder. One folder per volume</em><ul>
+<li>🖼 <strong>0001.j2k</strong> <em>- cover image in JPEG2000, RGB, wavelets compression</em></li>
+<li>🖼 <strong>0002.j2k</strong> <em>- text image in JPEG2000, RGB, wavelets compression</em></li>
+<li>🖼 <strong>0003.j2k</strong> <em>- ...</em></li>
+</ul>
+</li>
+<li>📂 <strong>02</strong> <em>- volume 2 folder</em><ul>
+<li>🖼 <strong>0001.j2k</strong></li>
+<li>🖼 <strong>0002.j2k</strong></li>
+</ul>
+</li>
+<li>📁 <strong>03</strong> <em>- ...</em></li>
+</ul>
+</li>
+<li>
+<p>📂 <strong>images</strong> <em>- small size web images for the website and the apps</em></p>
+<ul>
+<li>📂 <strong>01</strong><ul>
+<li>🖼 <strong>0001.jpg</strong> <em>- cover image in JPEG, RGB, JPEG compression</em></li>
+<li>🖼 <strong>0002.tif</strong> <em>- text image in TIFF, BW, G4 compression</em></li>
+<li>🖼 <strong>0003.tif</strong> <em>- ...</em></li>
+</ul>
+</li>
+<li>📁 <strong>02</strong></li>
+<li>📁 <strong>03</strong></li>
+</ul>
+</li>
+</ul>
+
+  <br>
+    
+
+  <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
+    
+    <div class="wm-article-nav pull-right">
+      <a href="../../workflow/workflow-cn/" class="btn btn-xs btn-default pull-right">
+        Next
+        <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      <a href="../../workflow/workflow-cn/" class="btn btn-xs btn-link">
+        工作流程
+      </a>
+    </div>
+    
+    <div class="wm-article-nav">
+      <a href="../standards-bo/" class="btn btn-xs btn-default pull-left">
+        <i class="fa fa-chevron-left" aria-hidden="true"></i>
+        Previous</a><a href="../standards-bo/" class="btn btn-xs btn-link">
+        ཚད་གཞི།
+      </a>
+    </div>
+    
+  </div>
+
+    <br>
+</div>
+
+<footer class="col-md-12 wm-page-content">
+  <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> using <a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a> theme by Grist Labs.</p>
+</footer>
+
+</body>
+</html>
