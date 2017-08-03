@@ -26,20 +26,20 @@ pages:
   - གདམ་གསེས།: selection/selection-bo.md
   - Selection: selection/selection-en.md
 
-- 质量控制 སྤུད་ཚད་བལྟ་འདོམས། QC:
+- 质量控制 སྤུས་ཚད་བལྟ་འདོམས། QC:
   - 质量控制: qc/qc-cn.md
-  - སྤུད་ཚད་བལྟ་འདོམས།: qc/qc-bo.md
+  - སྤུས་ཚད་བལྟ་འདོམས།: qc/qc-bo.md
   - Quality Control: qc/qc-en.md
 
-- BDRC Lib:
+- BDRC Lib App:
   - BDRC Lib 手册: bdrcapp/bdrcapp-cn.md
   - BDRC Lib བཀོལ་སྟངས།: bdrcapp/bdrcapp-bo.md
   - BDRC Lib Manual: bdrcapp/bdrcapp-en.md
 
 - Fujitsu fi-7160:
-  - 用户手册: fi7160/fi7160-cn.md
-  - བཀོལ་སྟངས།: fi7160/fi7160-bo.md
-  - Manual: fi7160/fi7160-en.md
+  - fi-7160 用户手册: fi7160/fi7160-cn.md
+  - fi-7160 བཀོལ་སྟངས།: fi7160/fi7160-bo.md
+  - fi-7160 Manual: fi7160/fi7160-en.md
 
 - ScanSnap SV600:
   - ScanSnap SV600 手册: sv600/sv600-cn.md
@@ -61,6 +61,11 @@ pages:
   - གོ་རྟོགས་བརྟག་དཔྱད་དྲི་གཞི།: assessment/assessment-bo.md
   - Assessment: assessment/assessment-en.md
 
+- 关于我们 ངེད་ཀྱི་སྐོར། About us:
+  - 关于我们: about/about-cn.md
+  -  ངེད་ཀྱི་སྐོར།: about/about-bo.md
+  - About us: about/about-en.md
+
 - 资源 ཉེར་མཁོ། Resources: resources.md
 - 词汇表 མིང་མཛོད། Glossary: glossary.md
 
@@ -72,3 +77,5 @@ extra_css:
 extra:
     history_buttons: true
     logo: 'img/bdrc-white.png'
+
+

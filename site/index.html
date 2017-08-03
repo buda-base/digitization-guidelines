@@ -16,7 +16,7 @@
     <link href="./css/font-awesome-4.7.0.css" rel="stylesheet">
     <link href="./css/base.css" rel="stylesheet">
     <link rel="stylesheet" href="./css/highlight.css">
-    <link href="./css/fonts.css" rel="stylesheet">
+    <link href="./css/font-profile.css" rel="stylesheet">
     <link href="./css/style.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -36,6 +36,12 @@
       var is_top_frame = (window === window.parent);
         
         var pageToc = [
+          {title: "\u4ecb\u7ecd", url: "#_1", children: [
+          ]},
+          {title: "\b\u0f63\u0f66\u0f0b\u0f42\u0f5e\u0f72\u0f0b\u0f44\u0f7c\u0f0b\u0f66\u0fa4\u0fb2\u0f7c\u0f51\u0f0d", url: "#_2", children: [
+          ]},
+          {title: "Introduction", url: "#introduction", children: [
+          ]},
         ];
 
     </script>
@@ -75,6 +81,13 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 
     
     
+    <div class="wm-top-tool pull-right wm-vcenter">
+      <div class="btn-group wm-vcentered" role="group" aria-label="back">
+        <button id="hist-back" type="button" class="btn btn-sm btn-default"><i class="fa fa-arrow-left" aria-hidden="true"></i></button>
+        <button id="hist-fwd" type="button" class="btn btn-sm btn-default"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
+      </div>
+    </div>
+    
 
     
     <a href="" class="wm-top-brand wm-top-link wm-vcenter">
@@ -94,22 +107,167 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <nav class="wm-toc-pane">
   
   <ul class="wm-toctree">
-        <li class="wm-toc-li wm-toc-lev1 "><a href="." class="wm-article-link wm-toc-text">介绍 ངོ་སྤྲོད། Intro</a>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="." class="wm-article-link wm-toc-text">介绍 ངོ་སྤྲོད། Introduction</a>
 </li>
-        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Workflow</span>
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">数字化 ཨང་བསྒྱུར། Digitization</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="digitization/digitization-cn/" class="wm-article-link wm-toc-text">数字化</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="digitization/digitization-bo/" class="wm-article-link wm-toc-text">ཨང་བསྒྱུར།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="digitization/digitization-en/" class="wm-article-link wm-toc-text">Digitization</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">标准 ཚད་གཞི། Standards</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="standards/standards-cn/" class="wm-article-link wm-toc-text">标准</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="standards/standards-bo/" class="wm-article-link wm-toc-text">ཚད་གཞི།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="standards/standards-en/" class="wm-article-link wm-toc-text">Standards</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">工作流程 ལས་རིམ། Workflow</span>
 </li>
 <li class="wm-toc-li-nested collapse">
   <ul class="wm-toctree">
       <li class="wm-toc-li wm-toc-lev2 "><a href="workflow/workflow-cn/" class="wm-article-link wm-toc-text">工作流程</a>
 </li>
-      <li class="wm-toc-li wm-toc-lev2 "><a href="workflow/workflow-bo/" class="wm-article-link wm-toc-text">ལས་འཆར།</a>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="workflow/workflow-bo/" class="wm-article-link wm-toc-text">ལས་རིམ་ངོ་སྤྲོད།</a>
 </li>
       <li class="wm-toc-li wm-toc-lev2 "><a href="workflow/workflow-en/" class="wm-article-link wm-toc-text">Workflow</a>
 </li>
   </ul>
 </li>
 
-        <li class="wm-toc-li wm-toc-lev1 "><a href="resources/" class="wm-article-link wm-toc-text">Resources 资源</a>
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">选择 གདམ་གསེས། Selection</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="selection/selection-cn/" class="wm-article-link wm-toc-text">选择</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="selection/selection-bo/" class="wm-article-link wm-toc-text">གདམ་གསེས།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="selection/selection-en/" class="wm-article-link wm-toc-text">Selection</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">质量控制 སྤུས་ཚད་བལྟ་འདོམས། QC</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="qc/qc-cn/" class="wm-article-link wm-toc-text">质量控制</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="qc/qc-bo/" class="wm-article-link wm-toc-text">སྤུས་ཚད་བལྟ་འདོམས།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="qc/qc-en/" class="wm-article-link wm-toc-text">Quality Control</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">BDRC Lib App</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="bdrcapp/bdrcapp-cn/" class="wm-article-link wm-toc-text">BDRC Lib 手册</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="bdrcapp/bdrcapp-bo/" class="wm-article-link wm-toc-text">BDRC Lib བཀོལ་སྟངས།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="bdrcapp/bdrcapp-en/" class="wm-article-link wm-toc-text">BDRC Lib Manual</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">Fujitsu fi-7160</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="fi7160/fi7160-cn/" class="wm-article-link wm-toc-text">fi-7160 用户手册</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="fi7160/fi7160-bo/" class="wm-article-link wm-toc-text">fi-7160 བཀོལ་སྟངས།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="fi7160/fi7160-en/" class="wm-article-link wm-toc-text">fi-7160 Manual</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">ScanSnap SV600</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="sv600/sv600-cn/" class="wm-article-link wm-toc-text">ScanSnap SV600 手册</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="sv600/sv600-bo/" class="wm-article-link wm-toc-text">ScanSnap SV600 བཀོལ་སྟངས།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="sv600/sv600-en/" class="wm-article-link wm-toc-text">ScanSnap SV600 Manual</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">XNView MP</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="xnviewmp/xnviewmp-cn/" class="wm-article-link wm-toc-text">XNView MP 用户手册</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="xnviewmp/xnviewmp-bo/" class="wm-article-link wm-toc-text">XNView MP བཀོལ་སྟངས།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="xnviewmp/xnviewmp-en/" class="wm-article-link wm-toc-text">XNView MP Manual</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">ScanTailor</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="scantailor/scantailor-cn/" class="wm-article-link wm-toc-text">ScanTailor 用户手册</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="scantailor/scantailor-bo/" class="wm-article-link wm-toc-text">ScanTailor བཀོལ་སྟངས།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="scantailor/scantailor-en/" class="wm-article-link wm-toc-text">ScanTailor Manual</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">评鉴 དྲི་གཞི། Assessment</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="assessment/assessment-cn/" class="wm-article-link wm-toc-text">评鉴</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="assessment/assessment-bo/" class="wm-article-link wm-toc-text">གོ་རྟོགས་བརྟག་དཔྱད་དྲི་གཞི།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="assessment/assessment-en/" class="wm-article-link wm-toc-text">Assessment</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 wm-toc-opener"><span class="wm-toc-text">关于我们 ངེད་ཀྱི་སྐོར། About us</span>
+</li>
+<li class="wm-toc-li-nested collapse">
+  <ul class="wm-toctree">
+      <li class="wm-toc-li wm-toc-lev2 "><a href="about/about-cn/" class="wm-article-link wm-toc-text">关于我们</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="about/about-bo/" class="wm-article-link wm-toc-text"> ངེད་ཀྱི་སྐོར།</a>
+</li>
+      <li class="wm-toc-li wm-toc-lev2 "><a href="about/about-en/" class="wm-article-link wm-toc-text">About us</a>
+</li>
+  </ul>
+</li>
+
+        <li class="wm-toc-li wm-toc-lev1 "><a href="resources/" class="wm-article-link wm-toc-text">资源 ཉེར་མཁོ། Resources</a>
+</li>
+        <li class="wm-toc-li wm-toc-lev1 "><a href="glossary/" class="wm-article-link wm-toc-text">词汇表 མིང་མཛོད། Glossary</a>
 </li>
   </ul>
 </nav>
@@ -125,12 +283,12 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
   <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
     
     <div class="wm-article-nav pull-right">
-      <a href="workflow/workflow-cn/" class="btn btn-xs btn-default pull-right">
+      <a href="digitization/digitization-cn/" class="btn btn-xs btn-default pull-right">
         Next
         <i class="fa fa-chevron-right" aria-hidden="true"></i>
       </a>
-      <a href="workflow/workflow-cn/" class="btn btn-xs btn-link">
-        工作流程
+      <a href="digitization/digitization-cn/" class="btn btn-xs btn-link">
+        数字化
       </a>
     </div>
     
@@ -138,173 +296,12 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 
     
 
-    <p>Introduction</p>
-<p>This is the latest version of the Digitization Guidelines for the BUDA project.</p>
-<pre><code>The definition of good data int for false 
-dsdsfsdf
-</code></pre>
-<p>dsssd</p>
-<pre><code>Definition of good data
-</code></pre>
-<pre><code>Definition of good data
-</code></pre>
-
-<table>
-<thead>
-<tr>
-<th>Feature</th>
-<th>Standard</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Format</td>
-<td><em>archive images:</em> JPEG 2000 (<strong>.j2k</strong>); <br><em>web images:</em> TIFF G4 (<strong>.tif</strong>) for text, JPEG (<strong>.jpg</strong>) for color images</td>
-</tr>
-<tr>
-<td>Resolution</td>
-<td>600 dpi/ppi</td>
-</tr>
-<tr>
-<td>Size</td>
-<td><em>archive images:</em> &gt; 5 MB; <em>web images:</em> &gt; 400 KB</td>
-</tr>
-<tr>
-<td>Bits</td>
-<td>24-bits</td>
-</tr>
-<tr>
-<td>Compression</td>
-<td>uncompressed, highest data size</td>
-</tr>
-<tr>
-<td>Dimensions</td>
-<td>consistent width and height</td>
-</tr>
-<tr>
-<td>Image quality</td>
-<td>clean image without: <br> • border<br> • scan line<br> • flare<br> • double page<br> • missing text</td>
-</tr>
-<tr>
-<td>Organization</td>
-<td>accession number / archive / volume / images</td>
-</tr>
-<tr>
-<td>Metadata</td>
-<td>duly completed <em>Biblio Info Sheet</em></td>
-</tr>
-</tbody>
-</table>
-<p><strong>数字化工作流程 Digitization Workflow</strong></p>
-<p>Starting from July 2017, the workflow is divided into 5 broad processes:</p>
-<ol>
-<li>
-<p><strong>Finding Opportunities</strong> - The DPE looks for acquisition opportunities.</p>
-</li>
-<li>
-<p><strong>Selection and Digitization</strong> - The DPE identifies potential acquisitions, confirms it ;is needed by 1) consulting the mobile app, 2) consulting the FR. He then digitizes them, does the QC1 (1st Quality Control) and submits the images to the FR.</p>
-</li>
-<li>
-<p><strong>Quality Control and Processing</strong> - The FR does the QC2 (2nd Quality Control), post-processes them, to then submits the Access Files (web images) with a metada report to the DPM.</p>
-</li>
-<li>
-<p><strong>Quality Assurance</strong> - The DPM performs a QA (Quality Assurance) assessment, submits the files to the DAM and confirms that the DPE can be paid for the work.</p>
-</li>
-<li>
-<p><strong>Archiving and Publishing</strong> - The DAM reviews the Access files,  catalogued by the librarians publishes them. The librarians can now create metadata such as structural or semantic outlines. Every quarter, the DPM collects Master Files (archive images) and submits them to the DAM for archival.</p>
-</li>
-</ol>
-<p>从2017年7月开始,工作流程分为5大流程:</p>
-<ol>
-<li>
-<p><strong>寻找机会</strong> - 首先DPE或者有时FR寻找获取扫描机会。</p>
-</li>
-<li>
-<p><strong>选择和数字化</strong>——DPE使用移动应用检查，审核可获取的扫描资料，通过后数字化它们,然后进行QC1(1质量控制)并提交图片给FR。</p>
-</li>
-<li>
-<p><strong>质量控制和处理</strong> - FR进行QC2(第2质量控制)，发现问题时进行处理,然后将文档(网络图片文档)和元数据发送给DPM。</p>
-</li>
-<li>
-<p><strong>质量保证</strong> - DPM执行QA(质量保证)评估,然后提交文档给DAM并确认可以支付DPE。</p>
-</li>
-<li>
-<p><strong>存档和发布</strong>——DAM浏览文档,然后由图书管理员编目，由DAM发布。之后，图书管理员创建元数据,如目录和提纲。每个季度,DPM收集原始图片文档(存档图片)并提交给DAM存档。</p>
-</li>
-</ol>
-<p>s</p>
-<pre><code>The Python-Markdown documentation provides a [list of extensions][exts]
-which are available out-of-the-box. For a list of configuration options
-available for a given extension, see the documentation for that extension.
-
-
-
-You may also install and use various [third party extensions][3rd]. Consult
-the documentation for provided by those extensions for installation instructions
-and available configuration options. data int definition
-</code></pre>
-<table>
-<thead>
-<tr>
-<th>Old Variable Name</th>
-<th>New Variable Name or Expression</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>current_page</td>
-<td>page</td>
-</tr>
-<tr>
-<td>include_nav</td>
-<td>nav&#124;length&gt;1</td>
-</tr>
-<tr>
-<td>include_next_prev</td>
-<td>(page.next_page or page.previous_page)</td>
-</tr>
-<tr>
-<td>site_name</td>
-<td>config.site_name</td>
-</tr>
-<tr>
-<td>site_author</td>
-<td>config.site_author</td>
-</tr>
-<tr>
-<td>page_description</td>
-<td>config.site_description</td>
-</tr>
-<tr>
-<td>repo_url</td>
-<td>config.repo_url</td>
-</tr>
-<tr>
-<td>repo_name</td>
-<td>config.repo_name</td>
-</tr>
-<tr>
-<td>site_url</td>
-<td>config.site_url</td>
-</tr>
-<tr>
-<td>copyright</td>
-<td>config.copyright</td>
-</tr>
-<tr>
-<td>google_analytics</td>
-<td>config.google_analytics</td>
-</tr>
-<tr>
-<td>homepage_url</td>
-<td>nav.homepage.url</td>
-</tr>
-<tr>
-<td>favicon</td>
-<td>{{ base_url }}/img/favicon.ico</td>
-</tr>
-</tbody>
-</table>
+    <h2 id="_1">介绍</h2>
+<p>你好！</p>
+<h2 id="_2">ལས་གཞི་ངོ་སྤྲོད།</h2>
+<p>བཀྲ་ཤིས་བདེ་ལེགས།</p>
+<h2 id="introduction">Introduction</h2>
+<p>Howdy!</p>
 
   <br>
     
@@ -312,12 +309,12 @@ and available configuration options. data int definition
   <div class="row wm-article-nav-buttons" role="navigation" aria-label="navigation">
     
     <div class="wm-article-nav pull-right">
-      <a href="workflow/workflow-cn/" class="btn btn-xs btn-default pull-right">
+      <a href="digitization/digitization-cn/" class="btn btn-xs btn-default pull-right">
         Next
         <i class="fa fa-chevron-right" aria-hidden="true"></i>
       </a>
-      <a href="workflow/workflow-cn/" class="btn btn-xs btn-link">
-        工作流程
+      <a href="digitization/digitization-cn/" class="btn btn-xs btn-link">
+        数字化
       </a>
     </div>
     
@@ -334,5 +331,5 @@ and available configuration options. data int definition
 </html>
 <!--
 MkDocs version : 0.16.3
-Build Date UTC : 2017-07-18 12:05:19
+Build Date UTC : 2017-07-26 20:06:01
 -->

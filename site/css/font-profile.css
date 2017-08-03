@@ -1,21 +1,24 @@
 body {
-    font-family: 'Noto Sans Tibetan';
+	font-family: "Noto Sans", "Times Simsun", 'Noto Sans Tibetan', sans-serif;
 }
-
+ 
 
 @font-face {
 	font-family: 'Noto Sans Tibetan';
-	src: url('../font-profile/NotoSansTibetan.eot');
-	src: url('../font-profile/NotoSansTibetan.woff');
+	src: url('../fonts/NotoSansTibetan.eot');
+	src: url('../fonts/NotoSansTibetan.woff');
 	font-weight: normal;
 	font-style: normal;
-
 }
 
 @font-face {
 	font-family: 'Noto Sans Tibetan';
-	src: url('../font-profile/NotoSansTibetan-Bold.eot');
-	src: url('../font-profile/NotoSansTibetan-Bold.woff');
+	src: url('../fonts/NotoSansTibetan-Bold.eot');
+	src: url('../fonts/NotoSansTibetan-Bold.woff');
 	font-weight: bold;
 	font-style: normal;
 }
+
+
+
+/* add to the html <link href="//fonts.googleapis.com/earlyaccess/notosanstibetan.css" rel="stylesheet"> */
