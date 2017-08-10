@@ -1,228 +1,402 @@
-# འབྲེལ་མཐུད་པའི་བརྟག་དཔྱད་དྲི་གཞི།
+གོ་རྟོགས་དྲི་གཞི།
 
-## 1. Finding Opportunities and Selection
+འབྲེལ་མཐུད་པའི་གོ་རྟོགས་དྲི་གཞི།
 
-**BDRC & BUDA**
+༡.  གོ་སྐབས་འཚོལ་ཞིབ་དང་འདེམ་གསེས། 
+
+BDRC&BUDA
+
+* ཚོགས་པའི་ལས་གཞིའི་དགོས་དམིགས་གང་ཡིན་ནམ།
+
+* BDRC ཚོགས་པས་དཔེ་དེབ་ཁག་ཚོང་བསྒྱུར་བྱེད་ཀྱིན་ཡོད་དམ།
+
+* (B྆RRC) ཟེར་བ་གང་ཡིན་ནམ།
+
+* (BUDA) བུདྡྷ་ཟེར་བའི་ནང་དོན་གང་ཡིན་ནམ།
+
+* BRRC&BUDA གཉིས་ཀྱི་ལས་ཁང་རྟེན་གཞི་གང་ན་བྱས་ཡོད་དམ།
+
+* BUDA ལས་གཞི་འདིའི་འགོ་འཛིན་བྱེད་མཁན་སུ་ཡིན་ནམ།
+
+* BUDA ལས་གཞི་འདི་ཆོས་ལུགས་སམ་ཡང་ན་ཆེད་ལས་ཤེས་ཡོན་གྱི་ལས་གཞི་ཞིག་ཡིན་ནམ།
+
+* ཧཱ་ལྦར་གཙུག་ལག་སློབ་ཆེན་གྱི་ཉར་ཚགས་དཔེ་མཛོད་ཀྱི་ལས་གཞི་གང་ཡིན་ནམ།
+
+* བུདྡྷ་དྲ་ཐོག་དཔེ་མཛོད་ཀྱིས་འབྱུང་འགྱུར་ཤེས་ཡོན་ཕྱོགས་ལ་ཁེ་ཕན་ཇི་ཞིག་བསྐྲུན་ཐུབ་བམ།
+
+* བུདྡྷ་དྲ་ཐོག་དཔེ་མཛོད་ནང་དཔེ་ཆའི་རིགས་ཅི་ཞིག་འདུས་ཡོད་དམ།
+
+* ཆེད་ལས་ཞིབ་འཇུག་པ་དང་རྒྱ་ཆེའི་མང་ཚོགས་ལ་དཔེ་ཆའི་རིགས་ཅི་ལྟར་མཁོ་སྒྲུབ་བྱེད་ཐུབ་བམ།
+
+* མང་ཚོགས་ཀྱིས་ཁྱེད་ལ་ཁོང་ཚོའི་དཔེ་ཆ་ཁག་ཨང་བསྒྱུར་བྱེད་འཇུག་དོན་ཅིའི་ཕྱིར་ཡིན་ནམ།
+
+* གཞན་ལ་དབང་བའི་དཔེ་ཆའི་རིགས་བཤེར་འབེབས་བྱེད་པ་ཁྲིམས་མཐུན་ཡིན་ནམ།
+
+དཔེ་མཛོད་ཁག་དང་གཙུག་ལག་དཔེ་ཆ།
+
+* དཀར་ཆག་བསྡུ་བསྒྲིག་བྱེད་པ་ལ་ཐུན་མོང་མ་ཡིན་བའི་ཁྱད་ཆོས་གང་བཀོལ་ཡོད་དམ། དཔེ་ཚོགས་དང་ཡང་ན་དཔེ་དེབ། པོ་ཏི། ཡིག་རྐྱང་རིགས་བཅས་བསྒྲིགས་ཡོད་དམ།
+
+* སྡེ་དགེའི་བཀའ་འགྱུར་ཤིང་པར་མའི་ངོ་བཤུས་ཚང་མ་གཅིག་མཚུངས་ཡིན་ནམ།
+
+* BDRCཚོགས་པས་དཔེ་ཆ་ཞིག་བཤེར་འབེབས་བྱས་རྗེས་དཀར་ཆག་སོར་འཇོག་དང་རྒྱབ་ཤ་བསྒྱུར་བཅོས་
+
+       གཏོང་སྲིད་དམ།
+
+* ཡང་ན་དཀར་ཆག་སོར་འཇོག་དང་ནང་གི་གཞུང་ཡིག་འགྱུར་བ་གཏོང་སྲིད་དམ།
+
+* པར་མ་གསར་བ་དང་བསྐྱར་པར་གཉིས་ཀྱི་མ་འདྲ་བའི་ཁྱད་པར་གང་ཡིན་ནམ། ང་ཚོར་མཁོ་བ་གང་ཡིན་ནམ།
+
+* དཔེ་ཆ་གཉིས་ལ་རྒྱབ་ཤ་གཅིག་པ་དང་དཀར་ཆག་མ་འདྲ་བ་ཡོད་ཆོག་གམ། ང་ཚོར་དེ་འདྲ་དགོས་དུས་ཡོད་དམ།
+
+* BDRC ཚོགས་པས་ཆ་མ་ཚང་བའི་དཔེ་ཆ་ཤོག་གྲངས་ (100/500) ཅན་གྱི་རིགས་ལེན་ནམ། ཡང་ན་གླེགས་བམ་༡༠ ནས་༡༥ ཅན་གྱི་དཔེ་ཚོགས་ཁ་འཐོར་རིགས་ལེན་ནམ།
+
+* BDRC ཚོགས་པས་གློག་པར་ (photocopy) བརྒྱབ་པའི་དཔེ་ཆའི་རིགས་མི་ལེན་པ་
+
+       བདེན་པ་ཡིན་ནམ།
+
+BDRC དཔེ་མཛོད་དང་དེའི་དཔེ་ཀློག་སྙི་ཆས།
+
+* དཔེ་ཆའི་མཚན་བྱང་དང་རྩོམ་པ་པོའི་མིང་མ་འདྲ་བའི་རིགས་གང་ནས་འཚོལ་ཐུབ་བམ།
+
+* གལ་ཏེ་སྙི་ཆས་ནང་ནས་མཚན་བྱང་འཚོལ་མ་ཐུབ་ཚེ་བྱེད་ཐབས་གཞན་ཡོད་དམ།
+
+* གལ་ཏེ་དཔེ་བསྐྲུན་གནས་ཚུལ་མེད་ཚེ་གང་བྱེད་དགོས་སམ།
+
+ལག་ལེན་ཚོད་ལྟ།
+
+* འབྲེལ་མཐུད་པས་འབྲེལ་ཡོད་དཔེ་བདག་དང་འབྲེལ་བ་བྱས་ཏེ་བཀའ་འཁྲོལ་རྒྱུས་ལོན་ཞུ་དགོས།
+
+* འབྲེལ་མཐུད་པས་ཨང་བསྒྱུར་གྱི་གལ་ཆེའི་རང་བཞིན་ངོ་སྤྲོད་བྱེད་དགོས།
+
+* ལས་གཞི་འདི་ཚོང་བསྒྱུར་ལས་རིགས་ཡིན་མིན་འདྲི་ངེས།
+
+* འབྲེལ་མཐུད་པས་དཔེ་ཀློག་སྙི་ཆས་ནང་མཚན་བྱང་ལྔ་ཙམ་འཚོལ་བཅུག་སྟེ་དེ་དག་ཨང་བསྒྱུར་བྱེད་དགོས་མིན་ཐག་གཅོད་བྱེད་དགོས།
+
+༢. དཀར་ཆག་སྒྲིག་འགོད་དང་ཨང་བསྒྱུར།
+
  
-* What is the mission statement of BDRC?
-* Does BDRC sell books?
-* What is BRRC?
-* What is BUDA? 
-* Where are the BRRC and BUDA offices located? 
-* Who is leading the BUDA project? 
-* Is BUDA a religious or an academic project?
-* What is the Harvard Library Preservation program? 
-* What are the academic fields that will benefit from BUDA? 
-* What kind of books are included in BUDA? 
-* How are books made available to academic researchers and to the wider public? 
-* Why should people let you and your team digitize their books? 
-* Is it legal to scan books owned by other people? 
 
-**Libraries and books**
-* What is the unit used for cataloguing? Collection, book, volume or text? 
-* Are all the copies of the Derge woodblock Kangyur the same? 
-* Will BDRC take the copy of a book that has the same content but a new cover? 
-* What if it is the same content but a different input. 
-* What is the difference between a reprint and a new edition? Which one do we need? 
-* Can two books have the same cover but a different content? When do we need it? 
-* Does BDRC take incomplete books (100/500pages)? Incomplete collections (10/15vol.)?
-* Is it true that BDRC doesn’t take any photocopy? 
+གྲ་སྒྲིག
 
-**BDRC Lib App**
-* Where are the different names of a book found? The name of the author?
-* What should you do if you don’t find a title in the app?
-* What to do if the publication information isn’t there?
+* ཤོག་གྲངས་གཞིར་བཟུང་བྱས་ན་ཡིག་རིགས་གང་ཞིག་དག་སྒྲིག་བྱེད་མི་དགོས་པ་ཡིན་ནམ།
 
-**Practice Test**
-* The FR enacts a conversation with the owner of a collection.
-* He explains why digitization is important.
-* He is asked if he does this job for money.
-* The FR is asked to search for 5 titles in the app and decide if they have to be digitized or not.
+* གལ་ཏེ་ཤོག་ངོས་ཆད་ཡོད་ཚེ་གང་བྱེད་དགོས་སམ།
 
-## 2. Cataloguing and Digitization
-**Prep**
-* Which type of text doesn’t need to be organized according to the page numbers? 
-* What to do if a page is missing? 
+ཡིག་ཆ་རྣམས།
 
-**Files**
-* What is the meaning of digitization?
-* How are images represented by 0s and 1s?
-* What are file extensions and why are they used?
-* What is the difference between image formats? 
-* What is the format we need? What is the extension? 
-* What is resolution? DPI? PPI? 
-* How is it that the same image can be stored in a large file and in a small file? 
-* What is the difference between lossy and lossless compression? 
-* Which one is used for web-images? Why? 
-* What is the difference between archive formats and access formats (web image)? 
-* What is the difference between the 3 color modes? What are they used for? 
-* Can a 1-bit image display colors?
-* What is the difference between JPEG and JPEG 2000? 
-* Web images have to be black and white? 
+* ཨང་བསྒྱུར་ཟེར་བའི་གོ་དོན་གང་ཡིན་ནམ།
 
-**Metadata**
-* When should the DPE create a work folder?  Where should he save it? 
-* How should he name it? 
-* What metadata is collected at scanning-time? 
-* What are the 3 parts of an Accession Number? 
-* Should image files be renamed? 
-* What is the difference between an Accession Number and a Work Number? 
-* What are the 2 things the DPE should add to a work folder? The 1 thing the FR should add?
+* བཤེར་པར་རྣམས་ 0s དང་ 01 གཉིས་ཀྱི་མཚོན་བྱེད་ཇི་ལྟར་བཟོ་དགོས་སམ།
 
-**Practice Test**
-* The FR sets up the Fujitsu scanner on a new machine 
-* The FR selects a work and fills in a biblio info sheet 
-* The FR does the digitization prep 
-* The FR digitizes the work and saves it
-* Troubleshooting, the FR deals with the following cases:
-    * What should be done when two pages are scanned together?
-    * What should be done is a page is missing in the original?
-    * What should be done if a page is missing in the scanned images? If pages are mixed up?
-    * What should be done if images are scanned with a different DPI? With different width?
+* ཡིག་ཆའི་རྣམ་སྒྲིག་མཚོན་བྱེད་(extension)འདེམ་གསེས་དང་བཀོལ་སྤྱོད་བྱེད་དགོས་དོན་གང་ཡིན་ནམ།
 
-## 3. Processing and Quality Control
+* པར་གྱི་རྣམ་སྒྲིག་ (format) མ་འདྲ་བའི་ཁྱད་པར་གང་དང་གང་ཡིན་ནམ།
 
-**Postprocessing**
-* What is image processing? 
-* Which image processing step loses data? What is lost? 
-* Does rotating an image incur the loss of data? 
-* Is an image that was compressed and de-compressed as good as an uncompressed image?
-* What is the problem if images don’t have the same width? 
-* Why do we resize the height of the image, and the canvas for the width?
+* ང་ཚོར་མཁོ་བའི་པར་གྱི་རྣམ་སྒྲིག་(format) གང་ཡིན་ནམ། པར་གྱི་རྣམ་སྒྲིག་མཚོན་བྱེད་ཟེར་བ་གང་ཡིན་
 
-**Backup**
-* What should be backed up? Why?
-* How many Hard-Drives should the DPE use? How many should the FR use?
-* Is it safe to keep all my files in my computer?
-* Should the different states of each file be backed up?
-* How long should the DPE keep backup images? The FR?
+       ནམ།
 
-**QC1 & QC2**
-* How many QC do we need to do? Are they different? 
-* What are the different steps of QC1 and QC2? When does each happen? 
-* What happens if the images don’t pass the test? 
+* པར་གྱི་གསལ་ཆ་(resolution) ཟེར་བ་ཅི་ཞིག་ཡིན་ནམ། DPIདང་PPI ཟེར་བ་ཅི་ཞིག་ཡིན་ནམ།
 
-**Practice Test**
-* The FR performs the QC2 on the test work, backs it up and prepares to submit it to the DPM.
-* The FR shows a DPE how to perform the QC1
-* The FR deals appropriately with images having the following issues:
-    * Skewed
-    * Mixed up order 
-    * Borders
-    * Noise
-    * Wrong folder structure
-    * Uneven DPI
-    * Uneven width
-    * Wrong format
-    * Incomplete metadata
+* གཅིག་མཚུངས་ཡིན་བའི་པར་རྣམས་པར་སྣོད་ཆེ་བ་དང་ཆུང་བ་གང་དང་གང་གི་ནང་མཉམ་ལྡུག་བྱེད་ཆོག་གམ།
 
-## 4. Collaboration and Support
+* འགྱུར་བ་(lossy)དང་འགྱུར་བ་མེད་པ་(lossless) པའི་རིགས་གཉིས་ཀྱི་ཁྱད་པར་གང་ཡིན་ནམ།
 
-**Tools**
-* What is the difference between the scanner program and the scanner driver?
-* What to do when the scanner’s CD isn’t available?
-* How can I do to help a colleague who has trouble with his computer but is at a different location?
+* དེ་གཉིས་ཀྱི་ནང་ནས་ང་ཚོར་མཁོ་བ་ནི་གང་ཡིན་ནམ། ཅིའི་ཕྱིར། 
 
-**Practice Test**
-* The FR creates a Weiyun account
-* The FR submits a work to the DPM on Weiyun
-* The FR does a remote support session on QQ to show a DPE how to adjust the data quality in the scanning software. 
-* The FR searches for the meaning of a technical term in Baidu.
-* The FR finds a forum or discussion about the Fujitsu fi-7160 in Baidu.
+* ཉར་ཚགས་བཤེར་པར་དང་དྲ་སྤེལ་བཤེར་པར་གཉིས་ཀྱི་ཁྱད་པར་གང་ཡིན་ནམ།
 
+* མདོག་རིགས་མཚོན་བྱེད་གསུམ་ (RGB) གྱི་མི་འདྲ་བའི་ཁྱད་པར་གང་ཡིན་ནམ། ཅིའི་ཕྱིར་བཀོལ་དགོས།
 
-# བཤེར་འབེབས་པའི་བརྟག་དཔྱད་དྲི་གཞི།
+* པེས་ཐི་(bit)གཅིག་ཅན་གྱི་བཤེར་པར་ཚོན་མདོག་ནང་འཆར་ཐུབ་བམ།
 
-## 1. Finding Opportunities and Selection
+* JPEG དང་ JPEG 2000 གཉིས་ཀྱི་ཁྱད་པར་གང་ཡིན་ནམ།
 
-**BDRC & BUDA**
- 
-* What is the mission statement of BDRC?
-* Does BDRC sell books?
-* What is BRRC?
-* What is BUDA?
-* Where are the BRRC and BUDA offices located?
-* Who is leading the BUDA project? 
-* Is BUDA a religious or an academic project?
-* What is the Harvard Library Preservation program? 
-* What are the academic fields that will benefit from BUDA? 
-* What kind of books are included in BUDA? 
-* How are books made available to academic researchers and to the wider public? 
-* Why should people let you and your team digitize their books? 
-* Is it legal to scan books owned by other people? 
+* དྲ་སྤེལ་བཤེར་པར་རྣམས་སྐྱ་པར་ངེས་པར་ཡིན་དགོས་སམ། 
 
-**Libraries and books**
-* What is the unit used for cataloguing? Collection, book, volume or text? 
-* Are all the copies of the Derge woodblock Kangyur the same? 
-* Will BDRC take the copy of a book that has the same content but a new cover? 
-* What if it is the same content but a different input. 
-* What is the difference between a reprint and a new edition? Which one do we need? 
-* Can two books have the same cover but a different content? When do we need it? 
-* Does BDRC take incomplete books (100/500pages)? Incomplete collections (10/15vol.)?
-* Is it true that BDRC doesn’t take any photocopy? Explain.
+དན་གྲངས་གོང་མ། (Metadata)
 
-**BDRC Lib App**
-* Where are the different names of a book found? The name of the author?
-* What should you do if you don’t find a title in the app?
-* What to do if the publication information isn’t there?
+* བཤེར་འབེབས་པས་བརྩམས་ཆོས་ཡིག་སྣོད་ག་དུས་བཟོ་དགོས་པ་དང་། དེ་གང་ནས་ཉར་ཚགས་བྱེད་དགོས་སམ།
 
-**Practice Test**
-* The DPE enacts a conversation with the owner of a collection.
-* He explains why digitization is important.
-* He is asked if he does this job for money.
-* The DPE is asked to search for 5 titles in the app and decide if they have to be digitized or not.
+* བརྩམས་ཆོས་ཡིག་སྣོད་ལ་མིང་ཇི་ལྟར་འདོགས་དགོས་སམ།
 
-## 2. Cataloguing and Digitization
-**Prep**
-* Which type of text doesn’t need to be organized according to the page numbers? 
-* What to do if a page is missing? 
+* བཤེར་འབེབས་སྐབས་དན་གྲངས་གོང་མ་ཇི་ལྟར་བསྡུ་སྒྲིག་བྱེད་དགོས་སམ།
 
-**Metadata**
-* When should you create a work folder? 
-* Where should you save it? 
-* How should you name it? 
-* What metadata is collected at scanning-time? 
-* What are the 3 parts of an Accession Number? 
-* What are the 2 things you should include in the work folder?
+* མཁོ་སྒྲུབ་ཨང་གྲངས་(Accession No)ཀྱི་ཆ་ཤས་གསུམ་གང་ཡིན་ནམ།
 
-**Practice Test**
-* The DPE sets up the Fujitsu scanner on a new machine 
-* The DPE selects a work and fills in a biblio info sheet 
-* The DPE does the digitization prep 
-* The DPE digitizes the work and saves it
-* Troubleshooting, the FR deals with the following cases:
-    * What should be done when two pages are scanned together?
-    * What should be done is a page is missing in the original?
-    * What should be done if a page is missing in the scanned images? If pages are mixed up?
+* དྲ་སྤེལ་བཤེར་པར་ལ་མིང་བསྐྱར་འདོགས་བྱེད་དགོས་སམ།
 
-## 3. Processing and Quality Control
+* མཁོ་སྒྲུབ་ཨང་དང་བརྩམས་ཆོས་ཨང་གཉིས་ཀྱི་ཁྱད་པར་གང་ཡིན་ནམ།
 
-**Backup**
-* What should be backed up? Why?
-* How many Hard-Drives should you use?
-* Is it safe to keep all my files in my computer?
-* How long should you keep backup images?
+* བཤེར་འབེབས་པས་བརྩམས་ཆོས་ཡིག་སྣོད་རེ་ལ་བསྒྲུབ་དགོས་པའི་བྱ་བ་གཉིས་དེ་གང་ཡིན་ནམ།
 
-**Quality Control**
-* What are the different steps of the Quality Control? 
-* What happens if the images don’t pass the test? 
+འབྲེལ་མཐུད་པས་བསྒྲུབ་དགོས་པའི་བྱ་བ་གཅིག་དེ་གང་ཡིན་ནམ།
 
-**Practice Test**
-* The DPE performs the QC1 on the scanned images
-* The DPE deals appropriately with images having the following issues:
-    * Skewed
-    * Mixed up order 
-    * Borders
-    * Noise
-    * Wrong folder structure
-    * Uneven DPI
-    * Uneven width
-    * Wrong format
-    * Incomplete metadata
+ལག་ལེན་ཚོད་ལྟ། 
 
-## 4. Collaboration and Support
+* འབྲེལ་མཐུད་པས་ཧྥུ་ཇི་ཚོའུ་ (fujitsu) བཤེར་ཆས་སྟ་གོན་བྱེད་དགོས།
 
-**Practice Test**
-* The DPE asks the FR to show him how to adjust the data quality in the scanning software using QQ remote assistance. 
-* The DPE searches for the meaning of a technical term in Baidu.
+* དཔེ་ཆའི་གནས་ཚུལ་གྱི་ཟིན་ཐོའི་ནང་འབྲེལ་མཐུད་པས་བཤེར་རྒྱུའི་དཔེ་ཆ་ཞིག་དང་ཡིག་སྣོད་བཅས་འདེམས་དགོས།
+
+* འབེྲལ་མཐུད་པས་ཨང་བསྒྱུར་གྱི་སྟ་གོན་བྱེད་དགོས།
+
+* ད་གཟོད་འབྲེལ་མཐུད་པས་དཔེ་ཆ་རྣམས་ཨང་བསྒྱུར་དང་དེ་དག་ཉར་ཚགས་བྱེད་དགོས།
+
+* གཤམ་དུ་དོ་སྣང་བྱེད་དགོས་སའི་གནད་དོན་འགའ་བཀོད་ཡོད།
+
+གལ་ཏེ་བཤེར་འབེབས་སྐབས་ཤོག་ངོས་གཉིས་མཉམ་པོར་ཤོར་ཚེ་གང་བྱེད་དགོས་སམ།
+
+མ་ཕྱི་དཔེ་ཆའི་ཤོག་ངོས་མ་ཚང་བ་ཡིན་ན་གང་བྱེད་དགོས་སམ།
+
+བཤེར་པར་ནང་གི་ཤོག་ངོས་ཤིག་མ་ཚང་ཚེ་གང་བྱེད་དགོས་སམ། ཡང་ན་ཤོང་གྲངས་སྣོག་སོང་ན་གང་ བྱེད་དགོས་སམ།
+
+བཤེར་འབེབས་སྐབས་བཤེར་པར་རྣམས་ཀྱི་ DPI གཅིག་མཚུངས་མིན་ན་གང་བྱེད་དགོས་སམ། ཡང་ན་བཤེར་པར་རྣམས་ཀྱི་མཐོ་དམའི་ཚད་གཞི་གཅིག་མཚུངས་མིན་ན་ཅི་བྱེད་དགོས་སམ།
+
+༣.  ལས་ཀའི་བརྒྱུད་རིམ་དང་སྤུས་ཀ་སྟངས་འཛིན།
+
+རྗེས་ཀྱི་བཟོ་སྣོན།
+
+* རྗེས་ཀྱི་བཟོ་སྣོན་ཟེར་བ་གང་ཡིན་ནམ།
+
+* བཤེར་པར་གྱི་བརྒྱུད་རིམ་གང་ནས་པར་གྱི་དན་གྲངས་འགྱུར་བ་(loses) འགྲོ་སྲིད་དམ། (losེt)འགྱུར་བ་ཟེར་བ་དེ་གང་ཡིན་ནམ།
+
+* བཤེར་པར་གྱི་ཡོ་འཁྱོག་བསྲང་ན་པར་གྱི་དན་གྲངས་འགྱུར་བ་འགྲོ་སྲིད་དམ།
+
+* བཤེར་པར་གྱི་རྣམ་སྒྲིག་ (compression) གཏན་འབེབས་བྱས་ཟིན་བའི་བཤེར་པར་ཞིག་ རྣམ་སྒྲིག་དེ་ལས་གྲོལ་ན་རྣམ་སྒྲིག་གཏན་འབེབས་མ་བྱས་པའི་བཤེར་པར་ནང་བཞིན་དེའི་སྤུས་ཚད་དེ་བཟང་བོར་གནས་སྲིད་དམ།
+
+* བཤེར་པར་རྣམས་ཀྱི་ཞེང་ཚད་གཅིག་མཚུངས་མེད་ན་གནད་དོན་ཇི་ཞིག་འབྱུང་ངམ།
+
+* ང་ཚོས་ཅིའི་ཕྱིར་བསྐྱར་སྒྲིག་ཚད་ཤིང་གིས་བཤེར་པར་རྣམས་ཀྱི་མཐོ་དམའི་ཚད་གཞི་བསྐྱར་སྒྲིག་དང་ཕྱི་སྒྲོམ་ཚད་ཤིང་གིས་པར་གྱི་ཞེང་ཁའི་ཚད་གཞི་བསྐྱར་སྒྲིག་བྱེད་དགོས་སམ།
+
+ངོ་བཤུས། 
+
+* ཅི་ཞིག་ངོ་བཤུས་བྱེད་དགོས་སམ། ཅིའི་ཕྱིར།
+
+* བཤེར་འབེབས་པས་སྲ་སྡེར་ག་ཚོད་ཅིག་བཀོལ་སྤྱོད་བྱེད་དགོས་སམ།
+
+* འབྲེལ་མཐུད་པས་སྲ་སྡེར་ག་ཚོད་ཅིག་བཀོལ་སྤྱོད་བྱེད་དགོས་སམ།
+
+* ཡིག་ཆ་ཡོངས་རྫོགས་རྩིས་འཕྲུལ་ནང་ཉར་ན་བརྟན་པོ་ཡོད་དམ།
+
+* སྐབས་སོ་སོའི་ཡིག་ཆ་རྣམས་སྲ་སྡེར་གཞན་གྱི་ནང་ངོ་བཤུས་བྱེད་དགོས་སམ།
+
+* བཤེར་འབེབས་པས་དུས་ཡུན་ག་ཚོད་ཅིག་ལ་ངོ་བཤུས་བཤེར་པར་རྣམས་ཉར་དགོས་སམ། ཡང་ན་འབྲེལ་མཐུད་པས།
+
+སྤུས་ཚད་རྟོག་ཞིབ་རིམ་པ་དང་པོ་དང་གཉིས་པ། (QC1 & QC2)
+
+* ང་ཚོས་སྤུས་ཚད་རྟོག་ཞིབ་ག་ཚོད་ཅིག་བྱེད་དགོས་སམ། རེ་རེ་ལ་མ་འདྲ་བའི་ཁྱད་པར་ཡོད་དམ།
+
+* སྤུས་ཚད་རྟོག་ཞིབ་རིམ་པ་དང་པོ་དང་གཉིས་པ་གཉིས་ཀྱི་རིམ་པ་སོ་སོའི་མ་འདྲ་བའི་ཁྱད་པར་གང་དང་གང་གི ་སྐབས་སུ་ཡོང་གི་ཡོད་དམ།
+
+* གལ་ཏེ་བཤེར་པར་རྣམས་ལ་དགོས་ངེས་ཀྱི་ཆ་རྐྱེན་ཁག་མ་ཚང་ཚེ་ཇི་ཞིག་འབྱུང་ངམ། 
+
+ལག་ལེན་ཚོད་ལྟ།
+
+* འབྲེལ་མཐུད་པས་ཚོད་ལྟའི་བཤེར་པར་རྣམས་ལ་སྤུས་ཚད་བརྟག་དཔྱད་རིམ་པ་གཉིས་པ་དེ་བྱས་པ་དང་དེའི་ངོ་བཤུས་ཨང་བསྒྱུར་འགན་འཛིན་ལ་སྤྲོད་རྒྱུའི་གྲ་སྒྲིག་བྱེད་དགོས།
+
+* འབྲེལ་མཐུད་པས་བཤེར་འབེབས་པ་ལ་སྤུས་ཚད་རྟོག་ཞིབ་རིམ་པ་དང་པོ་དེ་ཅི་ལྟར་བྱེད་དགོས་མིན་སློབ་སྟོན་བྱེད་དགོས།
+
+* གཤམ་དུ་འབྲེལ་མཐུད་པར་ཡང་ཡང་འཕྲད་སྲིད་པའི་གནད་དོན་འགའ་བཀོད་ཡོད།
+
+* ཡོ་འཁྱོག
+
+* གོ་རིམ་སྣོག་པ།
+
+* མཐའ་མཚམས་འཁྱོག་པ།
+
+* ནག་ནོག་ཤོར་བ།
+
+* པར་སྣོད་བཟོ་ཚུལ་ནོར་བ།
+
+* PDI བསྒྲིག་ནོར་ཤོར་བ།
+
+* ཞེང་ཚད་ནོར་བ།
+
+* རྣམ་སྒྲིག་ནོར་བ།
+
+* དན་གྲངས་གོང་མ་ཆ་མ་ཚང་བ།
+
+༤. མཉམ་འབྲེལ་དང་རམ་འདེགས།
+
+ལག་ཆ་ཁག 
+
+* བཤེར་འབེབས་སྙི་ཆས་དང་བཤེར་འབེབས་སྲ་སྡེར་(scanner driver) གཉིས་ཀྱི་མི་འདྲ་བའི་ཁྱད་པར་གང་
+
+ཡིན་ནམ།
+
+* གལ་ཏེ་བཤེར་ཆས་ (scanner)་ཀྱི་ཟེར་སྡེར་མེད་ན་གང་བྱེད་དགོས་སམ།
+
+* གལ་ཏེ་ས་གནས་གཞན་ན་གནས་པའི་ལས་གྲོགས་ཤིག་གི་གློག་ཀླད་ལ་སྐྱོན་ཤོར་ཏེ་ཁྱེད་ཀྱིས་རོགས་བྱེད་དགོས་ཚེ་ཇི་ལྟར་བྱེད་དགོས་སམ།
+
+ལག་ལེན་ཚོད་ལྟ།
+
+* འབྲེལ་མཐུད་པས་ལྦེ་ཡུན་(weiyun) གྱི་ཁ་བྱང་ཞིག་བཟོ་དགོས།
+
+* འབྲེལ་མཐུད་པས་བཤེར་པར་རྣམས་ལྦེ་ཡུན་དྲ་རྒྱ་བརྒྱུད་དེ་ཨང་བསྒྱུར་འགན་འཛིན་ལ་འབུལ་ལམ་ཞུ་དགོས།
+
+* འབྲེལ་མཐུད་པས་གླང་དམར་རམ་ (QQ) བརྒྱུད་ནས་བཤེར་འབེབས་པས་བཤེར་འབེབས་སྙི་ཆས་ནང་ བཤེར་པར་གྱི་སྤུས་ཚད་དག་སྒྲིག་ཇི་ལྟར་བྱེད་དགོས་མིན་ཐད་སློབ་སྟོན་བྱེད་དགོས།
+
+* འབྲེལ་མཐུད་པས་པེ་ཏུས་ (Baidu) དྲ་རྒྱའི་ཐུན་མོང་མ་ཡིན་བའི་བརྡ་ཆད་ཀྱི་ནང་དོན་ཁག་ལ་ཞིབ་ འཇུག་བྱེད་དགོས།
+
+* འབྲེལ་མཐུད་པས་པེ་ཏུས་ (Baidu) ནང་ནས་ཧྥུ་ཇི་ཚོའུ་ (fujitsu) བཤེར་ཆས་fi-7160 སྐོར་གྱི་གནས་ཚུལ་ཁ་གསལ་ཁག་འཚོལ་སྒྲུབ་བྱེད་དགོས།
+
+བཤེར་འབེབས་པའི་གོ་རྟོགས་དྲི་གཞི།
+
+༡.  གོ་སྐབས་འཚོལ་ཞིབ་དང་འདེམས་གསེས།
+
+BDRC&BUDA 
+
+* ཚོགས་པའི་ལས་གཞིའི་དགོས་དམིགས་གང་ཡིན་ནམ།
+
+* BDRC ཚོགས་པས་དཔེ་དེབ་ཁག་ཚོང་བསྒྱུར་བྱེད་ཀྱིན་ཡོད་དམ།
+
+* (B྆RRC) ཟེར་བ་གང་ཡིན་ནམ།
+
+* (BUDA) བུདྷ་ཟེར་བའི་ནང་དོན་གང་ཡིན་ནམ།
+
+* BRRC&BUDA གཉིས་ཀྱི་ལས་ཁང་རྟེན་གཞི་གང་ན་བྱས་ཡོད།
+
+* BUDA ལས་གཞི་འདིའི་འགོ་འཛིན་བྱེད་མཁན་སུ་ཡིན་ནམ།
+
+* BUDA ལས་གཞི་འདི་ཆོས་ལུགས་སམ་ཡང་ན་ཆེད་ལས་ཤེས་ཡོན་གྱི་ལས་གཞི་ཞིག་ཡིན་ནམ།
+
+* ཧ་ལྦར་གཙུག་ལག་སློབ་ཆེན་གྱི་ཉར་ཚགས་དཔེ་མཛོད་ཀྱི་ལས་གཞི་གང་ཡིན་ནམ།
+
+* བུདྡྷ་དྲ་ཐོག་དཔེ་མཛོད་ཀྱིས་འབྱུང་འགྱུར་ཤེས་ཡོན་ཕྱོགས་ལ་ཁེ་ཕན་ཇི་ཞིག་བསྐྲུན་ཐུབ་བམ།
+
+* བུདྡྷ་དྲ་ཐོག་དཔེ་མཛོད་ནང་དཔེ་ཆའི་རིགས་ཅི་ཞིག་འདུས་ཡོད་དམ།
+
+* ཆེད་ལས་ཞིབ་འཇུག་པ་དང་རྒྱ་ཆེའི་མང་ཚོགས་ལ་དཔེ་ཆའི་རིགས་ཅི་ལྟར་མཁོ་སྒྲུབ་བྱེད་ཐུབ་བམ།
+
+* མང་ཚོགས་ཀྱིས་ཁྱེད་ལ་ཁོང་ཚོའི་དཔེ་ཆ་ཁག་ཨང་བསྒྱུར་བྱེད་འཇུག་དོན་ཅིའི་ཕྱིར་ཡིན་ནམ།
+
+* གཞན་ལ་དབང་བའི་དཔེ་ཆའི་རིགས་བཤེར་འབེབས་བྱེད་པ་ཁྲིམས་མཐུན་ཡིན་ནམ།
+
+དཔེ་མཛོད་ཁག་དང་གཙུག་ལག་དཔེ་ཆ།
+
+* དཔེ་ཆའི་གནས་ཚུལ་བསྡུ་བསྒྲིག་བྱེད་པ་ལ་ཐུན་མོང་མ་ཡིན་བའི་ཁྱད་ཆོས་གང་བཀོལ་ཡོད་དམ། དཔེ་ཚོགས་དང་ཡང་ན་དཔེ་དེབ། པོ་ཏི། ཡིག་རྐྱང་རིགས་བཅས་བསྒྲིགས་ཡོད་དམ།
+
+* སྡེ་དགེའི་བཀའ་འགྱུར་ཤིང་པར་མའི་ངོ་བཤུས་ཚང་མ་གཅིག་མཚུངས་ཡིན་ནམ།
+
+* BDRC  ཚོགས་པས་དཔེ་ཆ་ཞིག་བཤེར་འབེབས་བྱས་རྗེས་དཀར་ཆག་སོར་འཇོག་དང་རྒྱབ་ཤ་འགྱུར་བ་ གཏོང་རྒྱུ་ཡིན་ནམ།
+
+* ཡང་ན་དཀར་ཆག་སོར་འཇོག་དང་ནང་གི་གཞུང་ཡིག་འགྱུར་བ་གཏོང་སྲིད་དམ།
+
+* པར་མ་གསར་བ་དང་བསྐྱར་པར་གཉིས་ཀྱི་མ་འདྲ་བའི་ཁྱད་པར་གང་ཡིན་ནམ། ང་ཚོར་མཁོ་བ་གང་ཡིན་ནམ།
+
+* དཔེ་ཆ་གཉིས་ལ་རྒྱབ་ཤ་གཅིག་པ་དང་དཀར་ཆག་མ་འདྲ་བ་ཡོད་ཆོག་གམ། ང་ཚོར་དེ་འདྲ་དགོས་དུས་ཡོད་དམ།
+
+* BDRC ཚོགས་པས་ཆ་མ་ཚུང་བའི་དཔེ་ཆ་ཤོག་གྲངས་ (100/500) ཅན་གྱི་རིགས་ལེན་ནམ། ཡང་ན་གླེགས་བམ་༡༠ ནས་༡༥ ཅན་གྱི་དཔེ་ཚོགས་ཁ་འཐོར་རིགས་ལེན་ནམ།
+
+* BDRC ཚོགས་པས་གློག་པར་ (photocopy) བརྒྱབ་པའི་དཔེ་ཆའི་རིགས་མི་ ལེན་པ་བདེན་པ་ཡིན་ནམ།
+
+BDRC དཔེ་མཛོད་དང་དེའི་དཔེ་ཀློག་སྙི་ཆས།
+
+* དཔེ་ཆའི་མཚན་བྱང་དང་རྩོམ་པ་པོའི་མིང་མ་འདྲ་བའི་རིགས་གང་ནས་འཚོལ་ཐུབ་བམ།
+
+* གལ་ཏེ་སྙི་ཆས་ནང་ནས་མཚན་བྱང་འཚོལ་མ་ཐུབ་ཚེ་བྱེད་ཐབས་གཞན་ཡོད་དམ།
+
+* གལ་ཏེ་དཔེ་བསྐྲུན་གནས་ཚུལ་མེད་ཚེ་གང་བྱེད་དགོས་སམ།
+
+ལག་ལེན་ཚོད་ལྟ།
+
+* འབྲེལ་མཐུབ་པས་འབྲེལ་ཡོད་དཔེ་བདག་དང་འབྲེལ་བ་བྱས་ཏེ་བཀའ་འཁྲོལ་དང་རྒྱུས་ལོན་ཞུ་དགོས།
+
+* འབྲེལ་མཐུབ་པས་ཨང་བསྒྱུར་གྱི་གལ་ཆེའི་རང་བཞིན་ངོ་སྤྲོད་བྱེད་དགོས།
+
+* ལས་གཞི་འདི་ཚོང་བསྒྱུར་ལས་རིགས་ཡིན་མིན་འདྲི་ངེས།
+
+* འབྲེལ་མཐུད་པས་དཔེ་ཀློག་སྙི་ཆས་ནང་མཚན་བྱང་ལྔ་ཙམ་འཚོལ་བཅུག་སྟེ་དེ་དག་ཨང་བསྒྱུར་བྱེད་དགོས་མིན་ཐག་གཅོད་བྱེད་དགོས།
+
+༢. དཀར་ཆག་དང་ཨང་བསྒྱུར།
+
+ གྲ་སྒྲིག
+
+* གྲ་སྒྲིགཤོག་གྲངས་གཞིར་བཟུང་བྱས་ན་ཡིག་རིགས་གང་ཞིག་དག་སྒྲིག་བྱེད་མི་དགོས་པ་ཡིན་ནམ།
+
+* གལ་ཏེ་ཤོག་ངོས་ཆད་ཡོད་ཚེ་གང་བྱེད་དགོས་སམ།
+
+དན་གྲངས་གོང་མ། (Metadata)
+
+* བཤེར་འབེབས་པས་བརྩམས་ཆོས་ཡིག་སྣོད་ག་དུས་བཟོ་དགོས་སམ། 
+
+* དེ་གང་ནས་ཉར་ཚགས་བྱེད་དགོས་སམ།
+
+* རྩམས་ཆོས་ཡིག་སྣོད་ལ་མིང་ཅི་ལྟར་འདོགས་དགོས་སམ།
+
+* བཤེར་འབེབས་སྐབས་དན་གྲངས་གོང་མ་ཅི་ལྟར་བསྡུ་སྒྲིག་བྱེད་དགོས་སམ།
+
+* མཁོ་སྒྲུབ་ཨང་གྲངས་(Accession No)ཀྱི་ཆ་ཤས་གསུམ་གང་ཡིན་ནམ།
+
+* བརྩོམས་ཆོས་ཡིག་སྣོད་ལ་ངེས་པར་ཚང་དགོས་པའི་ཆ་རྐྱེན་གཉིས་དེ་གང་ཡིན་ནམ། 
+
+ལག་ལེན་ཚོད་ལྟ། 
+
+* བཤེར་འབེབས་པས་ཧྥུ་ཇི་ཚོའུ་ (fujitsu)བཤེར་ཆས་སྟ་གོན་བྱེད་དགོས།
+
+* དཔེ་ཆའི་གནས་ཚུལ་གྱི་ཟིན་ཐོའི་ནང་བཤེར་འབེབས་པས་བཤེར་རྒྱུའི་དཔེ་ཆ་དང་ཡིག་སྣོད་བཅས་འདེམས་གསེས་བྱེད་འགོད་དགོས།
+
+* བཤེར་འབེབས་པས་ཨང་བསྒྱུར་གྱི་སྟ་གོན་གང་ལེགས་བྱེད་དགོས།
+
+* ད་གཟོད་བཤེར་འབེབས་པས་དཔེ་ཆ་རྣམས་ཨང་བསྒྱུར་དང་དེ་ཉར་ཚགས་བྱེད་དགོས།
+
+* བཤེར་འབེབས་པས་དོ་སྣང་བྱེད་དགོས་སའི་གནད་དོན་འགའ་གཤམ་དུ་བཀོད་ཡོད།
+
+* གལ་ཏེ་བཤེར་འབེབས་སྐབས་ཤོག་ངོས་གཉིས་མཉམ་པོར་ཤོར་ཚེ་གང་བྱེད་དགོས་སམ།
+
+* མ་ཕྱི་དཔེ་ཆའི་ཤོག་ངོས་མ་ཚང་བ་ཡིན་ན་གང་བྱེད་དགོས་སམ།
+
+* བཤེར་པར་ནང་གི་ཤོག་ངོས་ཤིག་མ་ཚང་ཚེ་གང་བྱེད་དགོས་སམ། ཡང་ན་ཤོང་གྲངས་སྣོག་སོང་ན་གང་བྱེད་དགོས་སམ།
+
+༣.  ལས་ཀའི་བརྒྱུད་རིམ་དང་སྤུས་ཀ་སྟངས་འཛིན།
+
+ངོ་བཤུས། 
+
+* ཅི་ཞིག་ངོ་བཤུས་བྱེད་དགོས་སམ། ཅིའི་ཕྱིར།
+
+* བཤེར་འབེབས་པས་སྲ་སྡེར་ག་ཚོད་ཅིག་བཀོལ་སྤྱོད་བྱེད་དགོས་སམ།
+
+* ཡིག་ཆ་ཡོངས་རྫོགས་རྩིས་འཕྲུལ་ནང་ཉར་ན་བརྟན་པོ་ཡོད་དམ།
+
+* བཤེར་འབེབས་པས་དུས་ཡུན་ག་ཚོད་ཅིག་ལ་ངོ་བཤུས་བཤེར་པར་རྣམས་ཉར་དགོས་སམ། 
+
+སྤུས་ཀ་སྟངས་འཛིན།
+
+* སྤུས་ཚད་རྟོག་ཞིབ་ཀྱི་རིམ་པ་སོ་སོའི་མ་འདྲ་བའི་ཁྱད་པར་གང་ཡིན་ནམ།
+
+* གལ་ཏེ་བཤེར་པར་རྣམས་ལ་དགོས་ངེས་ཀྱི་ཆ་རྐྱེན་ཁག་མ་ཚང་ཚེ་ཅི་ཞིག་འབྱུང་ངམ། 
+
+ལག་ལེན་ཚོད་ལྟ།
+
+* བཤེར་འབེབས་པས་བཤེར་པར་རྣམས་ལ་སྤུས་ཚད་རྟོག་ཞིབ་རིམ་པ་དང་པོ་དེ་བྱེད་དགོས།།
+
+* བཤེར་འབེབས་པས་བཤེར་པར་རྣམས་ལ་འཕྲད་སྲིད་པའི་གཤམ་བཀོད་ཀྱི་གནད་དོན་ཐུགས་སྣང་གནང་དགོས།
+
+* ཡོ་འཁྱོག
+
+* གོ་རིམ་སྣོག་པ།
+
+* མཐའ་མཚམས་འཁྱོག་པ།
+
+* ནག་ནོག་ཤོར་བ།
+
+* པར་སྣོད་བཟོ་ཚུལ་ནོར་བ།
+
+* PDI བསྒྲིག་ནོར་ཤོར་བ།
+
+* ཞེང་ཚད་ནོར་བ།
+
+* རྣམ་སྒྲིག་ནོར་བ།
+
+* དན་གྲངས་གོང་མ་ཆ་མ་ཚང་བ།
+
+༤. མཉམ་ལས་དང་རམ་འདེགས།
+
+ལག་ལེན་ཚོད་ལྟ།
+
+* བཤེར་འབེབས་པས་གླང་དམར་ (QQ) བརྒྱུད་ནས་འབེྲལ་མཐུད་པར་བཤེར་འབེབས་སྙི་ཆས་ནང་བཤེར་
+
+       པར་རྣམས་ཀྱི་སྤུས་ཚད་སྙོམས་སྒྲིག་ཇི་ལྟར་བྱེད་དགོས་མིན་ཐད་ཀྱི་སློབ་སྟོན་ཞུ་དགོས། 
+
+* བཤེར་འབེབས་པས་པེ་ཏུས་ (Baidu) དྲ་རྒྱའི་ཐུན་མོང་མ་ཡིན་བའི་བརྡ་ཆད་ཀྱི་ནང་དོན་ཁག་ལ་ཞིབ་ འཇུག་བྱེད་དགོས།
 
