@@ -1,8 +1,9 @@
+Ôªø
 ## **File Formats**
 
-Files on the computer come in many different **formats**. File formats are different ways of encoding bits to be read by software. Some file formats are "proprietary"ófor use by specific, paid-for software. Others are ìfree,î and thus more widely accessible and more widely used. To keep data accessible and useful, it is best *not* to use proprietary file formats.
+Files on the computer come in many different **formats**. File formats are different ways of encoding bits to be read by software. Some file formats are "proprietary"‚Äîfor use by specific, paid-for software. Others are ‚Äúfree,‚Äù and thus more widely accessible and more widely used. To keep data accessible and useful, it is best *not* to use proprietary file formats.
 
-It is standard for file formats to be given a "file extension:" This is the three or four-letter code youíll often see following the file name. Some computers hide this information from the user. If you **right-click** on a file you can select **ìPropertiesî** to view its properties, one of which is **ìFile type.î** Here we can see an image file that is a PNG file (.png), along with the file metadata the computer automatically tracks (like location, size, date created, etc.):
+It is standard for file formats to be given a "file extension:" This is the three or four-letter code you‚Äôll often see following the file name. Some computers hide this information from the user. If you **right-click** on a file you can select **‚ÄúProperties‚Äù** to view its properties, one of which is **‚ÄúFile type.‚Äù** Here we can see an image file that is a PNG file (.png), along with the file metadata the computer automatically tracks (like location, size, date created, etc.):
 
 <table>
   <tr>
@@ -16,7 +17,7 @@ It is standard for file formats to be given a "file extension:" This is the thre
 </table>
 
 
-Not all digital images have the same file format. There are many different formats for encoding image information. Different formats have different strengths and weaknesses; which one is used will depend on what you want to do with the file. Some file formats are good for making a really high quality image; others are good for making images that donít need to be high quality (because they will be viewed on a small screen, or uploaded online).
+Not all digital images have the same file format. There are many different formats for encoding image information. Different formats have different strengths and weaknesses; which one is used will depend on what you want to do with the file. Some file formats are good for making a really high quality image; others are good for making images that don‚Äôt need to be high quality (because they will be viewed on a small screen, or uploaded online).
 
 ## **Common File Formats for Digital Images**
 
@@ -58,7 +59,7 @@ Following international standards and best practices, BDRC collects only black a
 
 ## **File Size**
 
-No digital object captures *all* the information of its analog. It can only *approximate* it. Digital information is stored in "bits"óstrings of 1s and 0s. More information requires more bits (more 1s and 0s). There are typically 8 bits to 1 byte (8 bits-per-byte is based on the number of 0s and 1s needed to encode characters). For example, ëaí is encoded as the 8-bit string 01100001:
+No digital object captures *all* the information of its analog. It can only *approximate* it. Digital information is stored in "bits"‚Äîstrings of 1s and 0s. More information requires more bits (more 1s and 0s). There are typically 8 bits to 1 byte (8 bits-per-byte is based on the number of 0s and 1s needed to encode characters). For example, ‚Äòa‚Äô is encoded as the 8-bit string 01100001:
 
 <table>
   <tr>
@@ -106,25 +107,25 @@ No digital object captures *all* the information of its analog. It can only *app
 </table>
 
 
-Thatís why **bytes** are a standard way to measure file size. File size is measured in: KB, which stands for kilobytes (1,000 bytes); MB stands for megabytes (1 million bytes); and GB for gigabyte (1 billion bytes). A file size of 100KB is twice as big as a file size of 50KBóit has twice as many bytes, or twice as much information.
+That‚Äôs why **bytes** are a standard way to measure file size. File size is measured in: KB, which stands for kilobytes (1,000 bytes); MB stands for megabytes (1 million bytes); and GB for gigabyte (1 billion bytes). A file size of 100KB is twice as big as a file size of 50KB‚Äîit has twice as many bytes, or twice as much information.
 
 ## **Image Size & Resolution**
 
-It is tempting to think that "real world" size (analog size) and digital file size are directly related somehow: That a big, real-world object means a big digital file, and a small object means a small one. This *isnít* the case. As we said above, all digital objects are only *approximations* of an analog. They are only *some* of the real-world information. **Digital file size** depends on *how much* information you are recording, not how big or small the real-world object is!
+It is tempting to think that "real world" size (analog size) and digital file size are directly related somehow: That a big, real-world object means a big digital file, and a small object means a small one. This *isn‚Äôt* the case. As we said above, all digital objects are only *approximations* of an analog. They are only *some* of the real-world information. **Digital file size** depends on *how much* information you are recording, not how big or small the real-world object is!
 
-Letís take an example. I have here a real-world *pecha*. Itís printed on a paper, and its real-world size is 3 1/4 inches by 12 inches:
+Let‚Äôs take an example. I have here a real-world *pecha*. It‚Äôs printed on a paper, and its real-world size is 3 1/4 inches by 12 inches:
 
-![image alt text](image_0.jpg)
+![image alt text](../img/image_0.jpg)
 
-The computer, of course, canít hold a real-world paper page. There is no "place" to put it, and no 3 1/4î x 12î drawer to put it in. It doesnít store paper, and it doesnít store image information in "inches." *But* it can represent the page in **bytes** instead of inches of paper and ink.
+The computer, of course, can‚Äôt hold a real-world paper page. There is no "place" to put it, and no 3 1/4‚Äù x 12‚Äù drawer to put it in. It doesn‚Äôt store paper, and it doesn‚Äôt store image information in "inches." *But* it can represent the page in **bytes** instead of inches of paper and ink.
 
-To do this, the computer uses **pixels**. A pixel is just a tiny square of a single color. For Black & White images, one pixel is recorded in just one byte (8 bits)óthe computer just needs to know, for each pixel, to either "display white" or ìdisplay black.î For a color image, the computer needs 24 bits (3 bytes).
+To do this, the computer uses **pixels**. A pixel is just a tiny square of a single color. For Black & White images, one pixel is recorded in just one byte (8 bits)‚Äîthe computer just needs to know, for each pixel, to either "display white" or ‚Äúdisplay black.‚Äù For a color image, the computer needs 24 bits (3 bytes).
 
-So it makes no sense to ask the computer to store "inches;" instead, we must ask the computer to store ìbytes.î And, in these bytes, we encode pixel data. This is what we mean when we talk about **scanning quality**, or **resolution**. This is measured in **ppi**, pixels per inch, or **dpi**, dots per inch (*these terms mean the same thing*). One pixel is one solid square of color. A single black pixel looks something like this: ¶. Thousands of very small squares like this make up every digital image we see!
+So it makes no sense to ask the computer to store "inches;" instead, we must ask the computer to store ‚Äúbytes.‚Äù And, in these bytes, we encode pixel data. This is what we mean when we talk about **scanning quality**, or **resolution**. This is measured in **ppi**, pixels per inch, or **dpi**, dots per inch (*these terms mean the same thing*). One pixel is one solid square of color. A single black pixel looks something like this: ¬¶. Thousands of very small squares like this make up every digital image we see!
 
-A plain B&W image is made up of two kinds of pixels or dots: black pixels and white pixels. Every little square is either black or itís white; those are the only two options. A computer can encode this information very easily by only assigning one number: 1 for black or 0 for white. It only takes a single bit to store black or white information for each pixel. This is why the file size for a B&W image is smaller than a grayscale or color image.
+A plain B&W image is made up of two kinds of pixels or dots: black pixels and white pixels. Every little square is either black or it‚Äôs white; those are the only two options. A computer can encode this information very easily by only assigning one number: 1 for black or 0 for white. It only takes a single bit to store black or white information for each pixel. This is why the file size for a B&W image is smaller than a grayscale or color image.
 
-Again, in 8-bits (1-byte) data, there are 256 possible combinations of 0s and 1s. Thatís why a grayscale image is made up of 256 different shades of gray. Each shade of gray is given a single-byte code from pure black to pure white. For color, each pixel also needs 3 bytes for each of Red, Blue, and Yellow (the primary colors). In other words, each pixel has a 0-7 value for how much Red, Blue, and Yellow make up the pixel:
+Again, in 8-bits (1-byte) data, there are 256 possible combinations of 0s and 1s. That‚Äôs why a grayscale image is made up of 256 different shades of gray. Each shade of gray is given a single-byte code from pure black to pure white. For color, each pixel also needs 3 bytes for each of Red, Blue, and Yellow (the primary colors). In other words, each pixel has a 0-7 value for how much Red, Blue, and Yellow make up the pixel:
 
 <table>
   <tr>
@@ -138,7 +139,7 @@ Again, in 8-bits (1-byte) data, there are 256 possible combinations of 0s and 1s
 </table>
 
 
-In other words, color data is ëmore expensive,í and requires more bits, and takes up more space, than grayscale data; and, B&W is the ëcheapestí kind of data we can encode. It is also the simplest, and takes the least amount of space. Again, our file size doesnít depend on the analog, physical, real-world object: It depends on how detailed our pixel-set is (is it B&W, grayscale, or color?). It also depends on how many pixels we use in total...
+In other words, color data is ‚Äòmore expensive,‚Äô and requires more bits, and takes up more space, than grayscale data; and, B&W is the ‚Äòcheapest‚Äô kind of data we can encode. It is also the simplest, and takes the least amount of space. Again, our file size doesn‚Äôt depend on the analog, physical, real-world object: It depends on how detailed our pixel-set is (is it B&W, grayscale, or color?). It also depends on how many pixels we use in total...
 
 ![image alt text](image_1.png)
 
@@ -158,7 +159,7 @@ When we set the scanning quality to 300ppi, for example, what it really means is
 </table>
 
 
-Think: at 1x1, an image only has one pixel. At 2x2, it has four. At 4x4, it has 16! So the difference between 150ppi and 300ppi isnít 50% ("twice" or ìhalfî), itís much more. And moving from 300ppi up to 400ppi is actually a big deal! What does this mean for our real-world *pecha*? For one, a move from 300ppi to 400ppi represents a move from 3.5 million to 6.2 million total pixels, nearly doubling the image resolution:
+Think: at 1x1, an image only has one pixel. At 2x2, it has four. At 4x4, it has 16! So the difference between 150ppi and 300ppi isn‚Äôt 50% ("twice" or ‚Äúhalf‚Äù), it‚Äôs much more. And moving from 300ppi up to 400ppi is actually a big deal! What does this mean for our real-world *pecha*? For one, a move from 300ppi to 400ppi represents a move from 3.5 million to 6.2 million total pixels, nearly doubling the image resolution:
 
 <table>
   <tr>
@@ -194,7 +195,7 @@ Think: at 1x1, an image only has one pixel. At 2x2, it has four. At 4x4, it has 
 </table>
 
 
-We can briefly note here that "ppi"ópixels per inchótechnically refers to display images while ìdpiîódots per inchótechnically refers to physical dots printed by a printer. However, these terms have come to be used pretty much interchangeably. Whether you see ìppiî or ìdpiî they mean the same thing. Here is what our scan looks like at these resolutions (magnified to show the difference in quality): Note the pixelation on the left, and the detail on the right:
+We can briefly note here that "ppi"‚Äîpixels per inch‚Äîtechnically refers to display images while ‚Äúdpi‚Äù‚Äîdots per inch‚Äîtechnically refers to physical dots printed by a printer. However, these terms have come to be used pretty much interchangeably. Whether you see ‚Äúppi‚Äù or ‚Äúdpi‚Äù they mean the same thing. Here is what our scan looks like at these resolutions (magnified to show the difference in quality): Note the pixelation on the left, and the detail on the right:
 
 <table>
   <tr>
@@ -215,13 +216,13 @@ We can briefly note here that "ppi"ópixels per inchótechnically refers to displa
 </table>
 
 
-If you click on the "details" tab in the fileís properties, you can find more details about the file. This includes the dimensions like the height and the widthóhow many pixels high and wide the image is. Itís important to know how to find this information, since standards require that these dimensions remain consistent across image files in a single work. Pixel dimension is also related to file size: the more pixels in an image, the more space it takes to store.
+If you click on the "details" tab in the file‚Äôs properties, you can find more details about the file. This includes the dimensions like the height and the width‚Äîhow many pixels high and wide the image is. It‚Äôs important to know how to find this information, since standards require that these dimensions remain consistent across image files in a single work. Pixel dimension is also related to file size: the more pixels in an image, the more space it takes to store.
 
-A digital image submitted to BDRC should be 600ppi / 600dpi to ensure it is archival quality and OCR-able (highly **usable**). The number of pixels that is will depend on the size of the page you are scanning and the file format (.tif for B&W or .jpg for color). All this information is tracked in the "Properties" metadata automatically. Anyone who has the file can access size information (like dpi, bytes, pixels, and more) by right-clicking the file, choosing ìPropertiesî, and clicking the ìDetailsî tab:
+A digital image submitted to BDRC should be 600ppi / 600dpi to ensure it is archival quality and OCR-able (highly **usable**). The number of pixels that is will depend on the size of the page you are scanning and the file format (.tif for B&W or .jpg for color). All this information is tracked in the "Properties" metadata automatically. Anyone who has the file can access size information (like dpi, bytes, pixels, and more) by right-clicking the file, choosing ‚ÄúProperties‚Äù, and clicking the ‚ÄúDetails‚Äù tab:
 
 ![image alt text](image_2.png)
 
-If we donít follow these standards, we end up with digital images that are **unusable**óscanned at a low dpi, or in a lossy format. If a user searches for a text to use it (to access its meaning), our work has been wasted if the quality is poor. A digital image in the wrong format, or at a low resolution, cannot be easily read; it also cannot be OCRed.
+If we don‚Äôt follow these standards, we end up with digital images that are **unusable**‚Äîscanned at a low dpi, or in a lossy format. If a user searches for a text to use it (to access its meaning), our work has been wasted if the quality is poor. A digital image in the wrong format, or at a low resolution, cannot be easily read; it also cannot be OCRed.
 
 To learn more about *how* to make highly **usable** images that benefit the **community** the BDRC Digital Library serves, please continue to the next section:
 
