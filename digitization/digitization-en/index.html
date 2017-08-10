@@ -34,6 +34,8 @@
       var is_top_frame = false;
         
         var pageToc = [
+          {title: "File Formats", url: "#file-formats", children: [
+          ]},
           {title: "Common File Formats for Digital Images", url: "#common-file-formats-for-digital-images", children: [
           ]},
           {title: "File Size", url: "#file-size", children: [
@@ -80,7 +82,8 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 
     
 
-    <p>﻿## <strong>File Formats</strong></p>
+    <p>﻿</p>
+<h2 id="file-formats"><strong>File Formats</strong></h2>
 <p>Files on the computer come in many different <strong>formats</strong>. File formats are different ways of encoding bits to be read by software. Some file formats are "proprietary"—for use by specific, paid-for software. Others are “free,” and thus more widely accessible and more widely used. To keep data accessible and useful, it is best <em>not</em> to use proprietary file formats.</p>
 <p>It is standard for file formats to be given a "file extension:" This is the three or four-letter code you’ll often see following the file name. Some computers hide this information from the user. If you <strong>right-click</strong> on a file you can select <strong>“Properties”</strong> to view its properties, one of which is <strong>“File type.”</strong> Here we can see an image file that is a PNG file (.png), along with the file metadata the computer automatically tracks (like location, size, date created, etc.):</p>
 <table>
@@ -181,7 +184,7 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <h2 id="image-size-resolution"><strong>Image Size &amp; Resolution</strong></h2>
 <p>It is tempting to think that "real world" size (analog size) and digital file size are directly related somehow: That a big, real-world object means a big digital file, and a small object means a small one. This <em>isn’t</em> the case. As we said above, all digital objects are only <em>approximations</em> of an analog. They are only <em>some</em> of the real-world information. <strong>Digital file size</strong> depends on <em>how much</em> information you are recording, not how big or small the real-world object is!</p>
 <p>Let’s take an example. I have here a real-world <em>pecha</em>. It’s printed on a paper, and its real-world size is 3 1/4 inches by 12 inches:</p>
-<p><img alt="image alt text" src="../image_0.jpg" /></p>
+<p><img alt="image alt text" src="../../img/image_0.jpg" /></p>
 <p>The computer, of course, can’t hold a real-world paper page. There is no "place" to put it, and no 3 1/4” x 12” drawer to put it in. It doesn’t store paper, and it doesn’t store image information in "inches." <em>But</em> it can represent the page in <strong>bytes</strong> instead of inches of paper and ink.</p>
 <p>To do this, the computer uses <strong>pixels</strong>. A pixel is just a tiny square of a single color. For Black &amp; White images, one pixel is recorded in just one byte (8 bits)—the computer just needs to know, for each pixel, to either "display white" or “display black.” For a color image, the computer needs 24 bits (3 bytes).</p>
 <p>So it makes no sense to ask the computer to store "inches;" instead, we must ask the computer to store “bytes.” And, in these bytes, we encode pixel data. This is what we mean when we talk about <strong>scanning quality</strong>, or <strong>resolution</strong>. This is measured in <strong>ppi</strong>, pixels per inch, or <strong>dpi</strong>, dots per inch (<em>these terms mean the same thing</em>). One pixel is one solid square of color. A single black pixel looks something like this: ¦. Thousands of very small squares like this make up every digital image we see!</p>
