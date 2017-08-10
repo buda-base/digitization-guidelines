@@ -34,6 +34,12 @@
       var is_top_frame = false;
         
         var pageToc = [
+          {title: "Common File Formats for Digital Images", url: "#common-file-formats-for-digital-images", children: [
+          ]},
+          {title: "File Size", url: "#file-size", children: [
+          ]},
+          {title: "Image Size &amp; Resolution", url: "#image-size-resolution", children: [
+          ]},
         ];
 
     </script>
@@ -74,7 +80,198 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 
     
 
-    
+    <p>﻿## <strong>File Formats</strong></p>
+<p>Files on the computer come in many different <strong>formats</strong>. File formats are different ways of encoding bits to be read by software. Some file formats are "proprietary"—for use by specific, paid-for software. Others are “free,” and thus more widely accessible and more widely used. To keep data accessible and useful, it is best <em>not</em> to use proprietary file formats.</p>
+<p>It is standard for file formats to be given a "file extension:" This is the three or four-letter code you’ll often see following the file name. Some computers hide this information from the user. If you <strong>right-click</strong> on a file you can select <strong>“Properties”</strong> to view its properties, one of which is <strong>“File type.”</strong> Here we can see an image file that is a PNG file (.png), along with the file metadata the computer automatically tracks (like location, size, date created, etc.):</p>
+<table>
+  <tr>
+    <td>Type of File</td>
+    <td>Other Metadata</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<p>Not all digital images have the same file format. There are many different formats for encoding image information. Different formats have different strengths and weaknesses; which one is used will depend on what you want to do with the file. Some file formats are good for making a really high quality image; others are good for making images that don’t need to be high quality (because they will be viewed on a small screen, or uploaded online).</p>
+<h2 id="common-file-formats-for-digital-images"><strong>Common File Formats for Digital Images</strong></h2>
+<table>
+  <tr>
+    <td>File Format</td>
+    <td>File Extension(s)</td>
+    <td>Compression?</td>
+    <td>Pluses/Minuses</td>
+  </tr>
+  <tr>
+    <td>Tagged Image File Format</td>
+    <td>.tiff / .tif</td>
+    <td>No (lossless) / G4 (lossless)</td>
+    <td>High detail, but large file size (esp. for color)</td>
+  </tr>
+  <tr>
+    <td>Joint Photographic Experts Group</td>
+    <td>.jpeg / .jpg</td>
+    <td>Yes (lossy)</td>
+    <td>Full color range, but lossy compression (by various proprietary algorithms)</td>
+  </tr>
+  <tr>
+    <td>Graphic Interchange Format</td>
+    <td>.gif</td>
+    <td>Yes (lossless)</td>
+    <td>Lossless compression, but limited color range & proprietary</td>
+  </tr>
+  <tr>
+    <td>Portable Network Graphics</td>
+    <td>.png</td>
+    <td>Yes (lossy)</td>
+    <td>Free & full color range, but large file size</td>
+  </tr>
+</table>
+
+<p>Following international standards and best practices, BDRC collects only black and white .tiff format (for plain text and black and white images) and, <em>only for color images</em>, accepts .jpg file format. If the image is of black and white printed text or a B&amp;W image, .jpg is <strong>not</strong> a suitable format, and the image will <strong>not</strong> be accepted. Other image formats are also not accepted.</p>
+<h2 id="file-size"><strong>File Size</strong></h2>
+<p>No digital object captures <em>all</em> the information of its analog. It can only <em>approximate</em> it. Digital information is stored in "bits"—strings of 1s and 0s. More information requires more bits (more 1s and 0s). There are typically 8 bits to 1 byte (8 bits-per-byte is based on the number of 0s and 1s needed to encode characters). For example, ‘a’ is encoded as the 8-bit string 01100001:</p>
+<table>
+  <tr>
+    <td>Letter</td>
+    <td>Binary Code</td>
+    <td>Letter</td>
+    <td>Binary Code</td>
+  </tr>
+  <tr>
+    <td>a</td>
+    <td>01100001</td>
+    <td>A</td>
+    <td>01000001</td>
+  </tr>
+  <tr>
+    <td>b</td>
+    <td>01100010</td>
+    <td>B</td>
+    <td>01000010</td>
+  </tr>
+  <tr>
+    <td>c</td>
+    <td>01100011</td>
+    <td>C</td>
+    <td>01000011</td>
+  </tr>
+  <tr>
+    <td>d</td>
+    <td>01100100</td>
+    <td>D</td>
+    <td>01000100</td>
+  </tr>
+  <tr>
+    <td>e</td>
+    <td>01100101</td>
+    <td>E</td>
+    <td>01000101</td>
+  </tr>
+  <tr>
+    <td>...</td>
+    <td>...</td>
+    <td>...</td>
+    <td>...</td>
+  </tr>
+</table>
+
+<p>That’s why <strong>bytes</strong> are a standard way to measure file size. File size is measured in: KB, which stands for kilobytes (1,000 bytes); MB stands for megabytes (1 million bytes); and GB for gigabyte (1 billion bytes). A file size of 100KB is twice as big as a file size of 50KB—it has twice as many bytes, or twice as much information.</p>
+<h2 id="image-size-resolution"><strong>Image Size &amp; Resolution</strong></h2>
+<p>It is tempting to think that "real world" size (analog size) and digital file size are directly related somehow: That a big, real-world object means a big digital file, and a small object means a small one. This <em>isn’t</em> the case. As we said above, all digital objects are only <em>approximations</em> of an analog. They are only <em>some</em> of the real-world information. <strong>Digital file size</strong> depends on <em>how much</em> information you are recording, not how big or small the real-world object is!</p>
+<p>Let’s take an example. I have here a real-world <em>pecha</em>. It’s printed on a paper, and its real-world size is 3 1/4 inches by 12 inches:</p>
+<p><img alt="image alt text" src="../image_0.jpg" /></p>
+<p>The computer, of course, can’t hold a real-world paper page. There is no "place" to put it, and no 3 1/4” x 12” drawer to put it in. It doesn’t store paper, and it doesn’t store image information in "inches." <em>But</em> it can represent the page in <strong>bytes</strong> instead of inches of paper and ink.</p>
+<p>To do this, the computer uses <strong>pixels</strong>. A pixel is just a tiny square of a single color. For Black &amp; White images, one pixel is recorded in just one byte (8 bits)—the computer just needs to know, for each pixel, to either "display white" or “display black.” For a color image, the computer needs 24 bits (3 bytes).</p>
+<p>So it makes no sense to ask the computer to store "inches;" instead, we must ask the computer to store “bytes.” And, in these bytes, we encode pixel data. This is what we mean when we talk about <strong>scanning quality</strong>, or <strong>resolution</strong>. This is measured in <strong>ppi</strong>, pixels per inch, or <strong>dpi</strong>, dots per inch (<em>these terms mean the same thing</em>). One pixel is one solid square of color. A single black pixel looks something like this: ¦. Thousands of very small squares like this make up every digital image we see!</p>
+<p>A plain B&amp;W image is made up of two kinds of pixels or dots: black pixels and white pixels. Every little square is either black or it’s white; those are the only two options. A computer can encode this information very easily by only assigning one number: 1 for black or 0 for white. It only takes a single bit to store black or white information for each pixel. This is why the file size for a B&amp;W image is smaller than a grayscale or color image.</p>
+<p>Again, in 8-bits (1-byte) data, there are 256 possible combinations of 0s and 1s. That’s why a grayscale image is made up of 256 different shades of gray. Each shade of gray is given a single-byte code from pure black to pure white. For color, each pixel also needs 3 bytes for each of Red, Blue, and Yellow (the primary colors). In other words, each pixel has a 0-7 value for how much Red, Blue, and Yellow make up the pixel:</p>
+<table>
+  <tr>
+    <td>256 Grayscale Palette</td>
+    <td>256 Color Palette</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<p>In other words, color data is ‘more expensive,’ and requires more bits, and takes up more space, than grayscale data; and, B&amp;W is the ‘cheapest’ kind of data we can encode. It is also the simplest, and takes the least amount of space. Again, our file size doesn’t depend on the analog, physical, real-world object: It depends on how detailed our pixel-set is (is it B&amp;W, grayscale, or color?). It also depends on how many pixels we use in total...</p>
+<p><img alt="image alt text" src="../image_1.png" /></p>
+<p>When we set the scanning quality to 300ppi, for example, what it really means is the computer is capturing 300 pixels high and 300 pixels wide (90,000 pixels total) for every square inch. If it is set to a low quality, like 150ppi, we are capturing less than half as much data (only 22,500 pixels per inch total!). Our file will be much smaller, and of much poorer quality. On the other hand, 600ppi will have much more than twice as much information (360,000 total pixels per inch): The more pixels we use per inch gets us a closer and closer approximation of our real-world image.</p>
+<table>
+  <tr>
+    <td>150 pixels per inch</td>
+    <td>300 pixels per inch</td>
+    <td>600 pixels per inch</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<p>Think: at 1x1, an image only has one pixel. At 2x2, it has four. At 4x4, it has 16! So the difference between 150ppi and 300ppi isn’t 50% ("twice" or “half”), it’s much more. And moving from 300ppi up to 400ppi is actually a big deal! What does this mean for our real-world <em>pecha</em>? For one, a move from 300ppi to 400ppi represents a move from 3.5 million to 6.2 million total pixels, nearly doubling the image resolution:</p>
+<table>
+  <tr>
+    <td>Resolution</td>
+    <td>3.25 inches high</td>
+    <td>12 inches wide</td>
+    <td>Total Pixels</td>
+  </tr>
+  <tr>
+    <td>@150ppi</td>
+    <td>487 pixels high</td>
+    <td>1,800 pixels wide</td>
+    <td>876,600</td>
+  </tr>
+  <tr>
+    <td>@300ppi</td>
+    <td>975 pixels high</td>
+    <td>3,600 pixels wide</td>
+    <td>3,510,000</td>
+  </tr>
+  <tr>
+    <td>@400ppi</td>
+    <td>1,300 pixels high</td>
+    <td>4,800 pixels wide</td>
+    <td>6,240,000</td>
+  </tr>
+  <tr>
+    <td>@600ppi</td>
+    <td>1,950 pixels high</td>
+    <td>7,200 pixels wide</td>
+    <td>14,040,000</td>
+  </tr>
+</table>
+
+<p>We can briefly note here that "ppi"—pixels per inch—technically refers to display images while “dpi”—dots per inch—technically refers to physical dots printed by a printer. However, these terms have come to be used pretty much interchangeably. Whether you see “ppi” or “dpi” they mean the same thing. Here is what our scan looks like at these resolutions (magnified to show the difference in quality): Note the pixelation on the left, and the detail on the right:</p>
+<table>
+  <tr>
+    <td>150 pixels per inch</td>
+    <td>300 pixels per inch</td>
+    <td>600 pixels per inch</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<p>If you click on the "details" tab in the file’s properties, you can find more details about the file. This includes the dimensions like the height and the width—how many pixels high and wide the image is. It’s important to know how to find this information, since standards require that these dimensions remain consistent across image files in a single work. Pixel dimension is also related to file size: the more pixels in an image, the more space it takes to store.</p>
+<p>A digital image submitted to BDRC should be 600ppi / 600dpi to ensure it is archival quality and OCR-able (highly <strong>usable</strong>). The number of pixels that is will depend on the size of the page you are scanning and the file format (.tif for B&amp;W or .jpg for color). All this information is tracked in the "Properties" metadata automatically. Anyone who has the file can access size information (like dpi, bytes, pixels, and more) by right-clicking the file, choosing “Properties”, and clicking the “Details” tab:</p>
+<p><img alt="image alt text" src="../image_2.png" /></p>
+<p>If we don’t follow these standards, we end up with digital images that are <strong>unusable</strong>—scanned at a low dpi, or in a lossy format. If a user searches for a text to use it (to access its meaning), our work has been wasted if the quality is poor. A digital image in the wrong format, or at a low resolution, cannot be easily read; it also cannot be OCRed.</p>
+<p>To learn more about <em>how</em> to make highly <strong>usable</strong> images that benefit the <strong>community</strong> the BDRC Digital Library serves, please continue to the next section:</p>
 
   <br>
     
