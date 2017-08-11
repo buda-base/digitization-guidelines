@@ -12,40 +12,35 @@
 
 ཨང་བསྒྱུར་པར་རིགས་ཡོངས་ཀྱི་རྣམ་སྒྲིག་ནི་གཅིག་མཚུངས་མ་ཡིན་ཏེ། བཤེར་པར་རིགས་ཨང་བསྒྱུར་བྱེད་སྐབས་དེའི་རིགས་འདྲ་མིན་སྣ་ཚོགས་ཤིག་ཡོད་ལ། རིགས་སོ་སོ་ལའང་དེའི་བཟང་ཆ་དང་ཞན་ཆ་གཉིས་རེ་ཡོད། གང་ཞིག་འདེམ་དགོས་མིན་ཡིག་ཆའི་རིགས་ཇི་ཞིག་དགོས་མིན་ལ་ལྟོས་ཏེ་འདེམ་དགོས། རྣམ་སྒྲིག་འགའ་རེས་ཨང་བསྒྱུར་ཡིག་ཆའི་སྤུས་ཀ་ཧ་ཅང་གིས་བཟང་རུ་གཏོང་མོད། ཡང་འགའ་རེ་འདྲ་པར་རིགས་ལ་བཟང་རུང་སྤུས་ཀ་དེ་ཙམ་མེད། རྒྱུ་མཚན་འཆར་པང་ངོས་སུ་དེའི་འཆར་ཚད་ཧ་ཅང་ཆུང་ཆུང་དགོས་པ་དང་ཡང་ན་དྲ་སྤེལ་བྱ་དགོས་པས་སོ།།
 
-# **རྒྱུན་ལྡན་གྱི་ཨང་བསྒྱུར་ཡིག་ཆའི་རྣམ་སྒྲིག** (format)
+ **རྒྱུན་ལྡན་གྱི་ཨང་བསྒྱུར་ཡིག་ཆའི་རྣམ་སྒྲིག** (format)
 
-ཡིག་ཆའི་རྣམ་སྒྲིག     ཡིག་ཆའི་རིགས་འཛིན།     རིགས་བསྡུས་ཚད་གཞི།   འཕྲི་སྣོན།
-
+<td>ཡིག་ཆའི་རྣམ་སྒྲིག</td>     <td>ཡིག་ཆའི་རིགས་འཛིན།</td>     <td>རིགས་བསྡུས་ཚད་གཞི།</td>   <td>འཕྲི་སྣོན།</td>
 <table>
-  <tr>
-    <td>File Format</td>
-    <td>File Extension(s)</td>
-    <td>Compression?</td>
-    <td>Pluses/Minuses</td>
-  </tr>
   <tr>
     <td>Tagged Image File Format</td>
     <td>.tiff / .tif</td>
     <td>No (lossless) / G4 (lossless)</td>
-    <td>High detail, but large file size (esp. for color)</td>
+    <td>ཧ་ཅང་ཞིབ་ཕྲ་ཡིན། འོན་ཀྱང། ཡིག་ཆའི་རྒྱ་ཧ་ཅང་ཆེ། དམིགས་བསལ་གྱིས་ཚོན་ལྡན་རིགས།</td>
   </tr>
   <tr>
     <td>Joint Photographic Experts Group</td>
     <td>.jpeg / .jpg</td>
-    <td>Yes (lossy)</td>
-    <td>Full color range, but lossy compression (by various proprietary algorithms)</td>
+    <td>Yes (འགྱུར་བ།)</td>
+    <td>
+ཚོན་གྱི་རིམ་པ་ཆ་ཚང་ལྡན། འོན་ཀྱང་། གནས་ཚུལ་འགྱུར་བ་ཅན་ཡིན།(by various proprietary algorithms)
+</td>
   </tr>
   <tr>
     <td>Graphic Interchange Format</td>
     <td>.gif</td>
-    <td>Yes (lossless)</td>
-    <td>Lossless compression, but limited color range & proprietary</td>
+    <td>Yes ( འགྱུར་བ་མེད་པ།)</td>
+    <td>འགྱུར་བ་མེད་པ་ཡིན། འོན་ཀྱང་། ཚོན་གྱི་རིམ་པ་ཚད་བཅད་དང་བདག་དབང་ཅན་ཡིན།</td>
   </tr>
   <tr>
     <td>Portable Network Graphics</td>
     <td>.png</td>
-    <td>Yes (lossy)</td>
-    <td>Free & full color range, but large file size</td>
+    <td>Yes (འགྱུར་བ་ཅན།)</td>
+    <td>སྟབས་བདེ་དང་ཚོན་གྱི་རིམ་པ་ཆ་ཚང་ལྡན། འོན་ཀྱང་། ཡིག་ཆའི་རྒྱ་ཧ་ཅང་ཆེ། /td>
   </tr>
 </table>
 
