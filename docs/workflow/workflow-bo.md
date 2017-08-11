@@ -1,121 +1,204 @@
+## ཨང་བསྒྱུར་ལས་རིམ།
 
-# Digitization Workflow
+བུདྡྷ་དཔེ་མཛོད་ཀྱི་ལས་གཞིའི་ཆེད་བོད་དང་འབྲེལ་བའི་མཁོ་དགུ་འཚོལ་སྒྲུབ་བྱེད་མཁན་ལས་བྱེད་བཞི་ཡོད།
 
-## ཨང་བསྒྱུར་ལས་བྱེད།
+* བཤེར་འབེབས་པ། (DPE)
 
-ཕྱི་ལོ་༢༠༡༧ ཟླ་༧ པ་ནས་བཟུང་བུ་དྡྷ་ལས་གཞིའི་ཆེད་དུ་ནང་བསྟན་རིག་གནས་ཀྱི་ཡིག་ཆ་ཨང་བསྒྱུར་བྱེད་པའི་ལས་བྱེད་ཁག་བཞི་ཡོད་པ་ནི།
+* འབྲེལ་མཐུད་པ། (FR)
 
-*   ཨང་བསྒྱུར་ལས་བྱེད། (DPE)
-*   འབྲེལ་མཐུད་པ། (FR)
-*   ཨང་བསྒྱུར་ལས་གཞིའི་འགན་ཁུར་བ། (DPM)
-*   ཉར་ཚགས་འགན་ཁུར་བ། (Digital Archive Manager)
+* ཨང་བསྒྱུར་འགན་འཛིན། (DPM)
 
-## ཨང་བསྒྱུར་ལས་འཆར་སྙིང་བསྡུས།**
+* ཉར་ཚགས་འགན་འཛིན། (DAM)
 
-1.  **Finding Opportunities** - The DPE looks for acquisition opportunities.
+༢༠༡༧ ལོའི་སྤྱི་ཟླ་༠༧ ནང་བཟུང་སྟེ་ལས་གཞི་འདི་སྡེ་ཚན་ལྔ་ལ་བགོས་ཏེ་འགོ་རྩོམ་རྒྱུ།
 
-2.  **Selection and Digitization** - The DPE identifies potential acquisitions, confirms it ;is needed by 1) consulting the mobile app, 2) consulting the FR. He then digitizes them, does the QC1 (1st Quality Control) and submits the images to the FR.
+༡. **གོ་སྐབས་འཚོལ་ཞིབ། **  བཤེར་འབེབས་པས་བཤེར་འབེབས་བྱེད་རྒྱུའི་མཁོ་དགུ་ས་ཆ་གང་ཡོད་འཚོལ་ཞིབ་བྱེད་རྒྱུ།
 
-3.  **Quality Control and Processing** - The FR does the QC2 (2nd Quality Control), post-processes them, to then submits the Access Files (web images) with a metada report to the DPM.
+༢.  **འདེམ་གསེས་དང་ཨང་བསྒྱུར། **བཤེར་འབེབས་པས་དཔེ་ཀློག་སྙི་ཆས་སྤྱད་ནས་བཤེར་འབེབས་བྱེད་དགོས་ངེས་ཀྱི་
 
-4.  **Quality Assurance** - The DPM performs a QA (Quality Assurance) assessment, submits the files to the DAM and confirms that the DPE can be paid for the work.
+རིགས་འཚོལ་སྒྲུབ་བྱས་རྗེས་འབེྲལ་མཐུད་པ་ལ་བཀའ་འདྲི་ཞུས་ཏེ་ཐག་གཅོད་བྱེད་དགོས། ད་གཟོད་བཤེར་འབེབས་བྱེད་ཆོག དེའི་རྗེས་སྤུས་ཚད་རྟོག་ཞིབ་དང་པོ་བྱས་རྗེས་འབྲེལ་མཐུད་པ་ལ་སྤྲོད་དགོས། 
 
-5.  **Archiving and Publishing** - The DAM reviews the Access files, catalogued by the librarians publishes them. The librarians can now create metadata such as structural or semantic outlines. Every quarter, the DPM collects Master Files (archive images) and submits them to the DAM for archival.
+༣. **སྤུས་ཚད་སྟངས་འཛིན་དང་ལས་རིམ་དངོས། **འབེྲལ་མཐུད་པས་སྤུས་ཚད་རྟོག་ཞིབ་རིམ་པ་གཉིས་པ་དེ་བྱེད་
 
-The same workflow can also be described according to the industry standard digization processes:
+པ་དང་བཤེར་པར་ཞིབ་སྒྲིག་(post-processes)བྱས་རྗེས་བཤེར་འབེབས་དཔེ་ཆ་རྣམས་དང་དེའི་དན་གྲངས་གོང་མ་བཅས་ཨང་བསྒྱུར་འགན་འཛིན་ལ་འབུལ་ལམ་ཞུ་དགོས།
 
-## ཨང་བསྒྱུར་ལས་འཆར་རྒྱས་བཤད།
+༤. **སྤུས་ཚད་ངོས་ལེན།** ཨང་བསྒྱུར་འགན་འཛིན་གྱིས་སྤུས་ཚད་ལོན་ཡོད་མེད་རྟོག་ཞིབ་ཅིག་བྱས་རྗེས་ཡིག་ཆ་དེ་བདག་ཉར་དང་བཤེར་འབེབས་པར་རིན་འབབ་སྤྲོད་ཆོག་པའི་ཆོག་མཆན་སྤྲོད་དགོས། 
 
-## 1\. Selection of materials
+༥.** ཉར་ཚགས་དང་འགྲེལ་སྤེལ། **ཨང་བསྒྱུར་འགན་འཛིན་གྱིས་དཔེ་མཛོད་དོ་དམ་པས་དཀར་ཆག་ཏུ་བཀོད་པའི་མཁོ་སྒྲུབ་ཡིག་ཆ་རྣམས་ལ་བསྐྱར་ཞིབ་བྱེད་དགོས། དེའི་རྗེས་དཔེ་མཛོད་དོ་དམ་པས་དེའི་དན་གྲངས་གོང་མའམ་གནས་ཚུལ་རྣམས་བསྡུ་སྒྲིག་བྱེད་དགོས། དེ་དང་ཉར་ཚགས་དཔེ་ཆའམ་མ་ཕྱིའི་བཤེར་པར་རྣམས་བདག་ཉར་ཆེད་ཨང་བསྒྱུར་འགན་འཛིན་ལ་མཁོ་སྤྲོད་བྱེད་དགོས།
 
-*   The FR finds a digitization opportinuty and assigns a project to a DPE. The DPE travels to where the collection is located.
-*   Most of the time, some material throughout the collection has already been scanned. As a result, the DPE determines whether the material needs to be scanned or not by consulting the BDRC mobile app.
-    *   The DPE inputs the cover title of a work in the app, if the title exists the cover image and/or the publication information are checked to make sure it is the same edition.
-    *   Exact photocopies or exact re-prints of a work aren't selected.
-    *   When the cover title isn't found, the DPE searches alternative titles in the app. These are found in 1) the inner cover, 2) the beginning of the text, 3) the colophon. The DPE should also consult the owner of the collection or the local librarian.
-    *   The DPE selects items that have been digitized previously but that are flagged for re-scanning based on the quality of the digitized file.
-*   Works that aren't connect to Buddhism or the Buddhist traditional culture aren't selected.
-*   Example: the Tibetan translation of "Visual C++ for beginers", or any material containing ａｎｔｉ－political content.
-*   When files that were digitized by a third-party are available, the DPE should consult the FR before acquiring them. In case the image format and the image quality don't comply to BUDA's requirements, both the head librarian and the DPM should be consulted and confirm the acquisition. This is delt with on a case by case basis.
+ལས་རིམ་འགའ་ཤས་ཨང་བསྒྱུར་བརྒྱུད་རིམ་གྱི་སྒྲིག་གཞི་གཞིར་བཟུང་གིས་འགྲེལ་ཆོག་སྟེ།
 
-## 2\. Condition evaluation
+## ༡. མཁོ་དགུའི་འདེམ་གསེས། 
 
-*   Objects are pulled and reviewed by DPE to determine whether or not digitization is safe with the paper-feed scanner (Fujitsu fi series). If the objects can't be scanned with a paper-feed scanner, the DPE can decide to use a overhead scanner or a camera.
+* འབྲེལ་མཐུད་པས་ས་གནས་བྱེ་བྲག་པ་ཞིག་དང་ལས་རིམ་གཏན་འབེབས་བྱས་ཏེ་ལས་རིམ་བཟོས་རྗེས་བཤེར་འབེབས་པ་ས་གནས་དེར་བསྐྱོད་དགོས།
 
-## 3\. Cataloging
+* དཔེ་ཕྲེང་དང་གསུང་འབུམ་རིགས་གང་མང་ཞིག་ད་སྔ་བཤེར་འབེབས་བྱས་ཟིན་ཡོད་ན། བཤེར་འབེབས་པས་དཔེ་ཆ་དེ་བཤེར་འབེབས་བྱེད་དགོས་མིན་ངེད་ཚོགས་པའི་དཔེ་ཀློག་མཉེན་ཆས་ནང་ནས་འཚོལ་ཞིབ་དང་ཐོག་གཅོད་བྱེད་དགོས། 
 
-*   Works that haven't been catalogued are given an "Accession Number" -- a temporary unique identifier that will be replaced once the work is catalogued by librarians. For example, in the accession number DE0012, D represents the FR, E represents a DPE from his team, and 12 is the 12th work that was digitized by that DPE. Note that 4 digits have to be use, so 12 is written 0012.
-*   The DPE uses the "bibliographic information sheet" to record information for future cataloging. This includes:
-    *   authorship
-    *   long and short title
-    *   number of volumes
-    *   extant of each volume
-*   basic publication information
+    * དང་པོ་མཉེན་ཆས་ནང་དཔེ་ཆ་དེའི་མཚན་བྱང་བྲིས་ཏེ་ཡོད་མེད་རྟོག་དགོས། གལ་ཏེ་ཡོད་ན་དེའི་རྒྱབ་ཤ་
 
-## 4\. Metadata creation
+    * དང་དཔེ་བསྐྲུན་གནས་ཚུལ་བཅས་ལ་ཞིབ་འཇུག་བྱས་ཏེ་པར་མ་གསར་པ་ཡིན་མིན་རྟོག་ཞིབ་བྱེད་དགོས།
 
-*   Objects that are ready for digitization are reviewed and named with a specific digital filename. The filename is recorded into the bibliographic information form with the corresponding call number, unique data about the item, and information about the digitization including: what date it was scanned, who scanned it, and what equipment scanned it.
+    * པར་གློག་བརྒྱབ་པ་དང་ཡང་ན་བསྐྱར་པར་བཏབས་པའི་རིགས་ཡིན་ན་བཤེར་འབེབས་བྱེད་མི་དགོས།
 
-## 5\. Production scheduling
+    * གལ་ཏེ་དཔེ་ཆ་དེའི་མཚན་བྱང་འཚོལ་མ་ཐུབ་ཚེ་བཤེར་འབེབས་པས་མཉེན་ཆས་ནང་མཚན་བྱང་རྒྱས་བསྡུས་གཞན་སྤྱད་ནས་འཚོལ་དགོས། དཔེར་ན། ༡. རྒྱབ་ཤ་ནང་མའི་མཚན་བྱང་། ༢.ཡང་ན་ཤོག་ངོས་དང་
 
-*   The digitization process is largely handled by one person, the DPE.
-*   Once a group of objects are pulled, the DPE names it, digitizes it, and performs scaning time quality review.
-*   Subsequent processes such as file naming, quality review, derivative making and submitting are done by the FR.
+    * པོའི་ཐིག་ཕྲེང་དང་པོ། ༣. ཡང་ན་མཛད་བྱང་བཅས་ཀྱི་ནང་འཚོལ་དགོས། ད་དུང་མ་རྙེད་ཚེ། དཔེ་ཆའི་
 
-## 6\. Digitization prep
+    * བདག་པོ་དང་དཔེ་མཛོད་དོ་དམ་པ་བཅས་ལ་དེའི་སྐོར་གྱི་གནས་ཚུལ་བཀའ་འདྲི་ཞུ་དགོས། 
 
-*   Lose pages in the traditional "pecha" or "poti" format are checked for 1) missing pages, 2) mixed-up pages. Re-organizing pages is easier and faster to do with the physical pages prior to scanning, the DPE shouldn't underestimate this step to minimize post-processing tasks.
-*   The DPE first checks whether the material he or she has in hands is part of another work, such as a collected works, or a series. Collections that are split apart won't be accepted.
-*   When digitizing "choga" ritual texts, the DPE consults the chant master or a Lama familiar with the material to ensure the pages are in the right order. The order of this type of material should be kept as instructed by the Lama, even if it doesn't follow the page number sequence, and contains extra inserted pages.
-*   Pechas printed on traditional paper are cleaned before being processed in order to minimize the damage small stones and dust can cause to the bulb.
-*   When using a camera or an overhead scanner the DPE makes sure the lighting is consistent throughout the surface of the material, and that it doesn't change between the beginning and the end of the digitization process.
-*   Once a day, preferably at the begining of the first digitization session, the DPE scans a test page to make sure the images don't contain scanning artefacts such as scanning lines when using a paper-feed scanner or dark areas when using a camera.
+    * བཤེར་འབེབས་བྱས་ཟིན་བའི་དཔེ་ཆའི་རིགས་བདམས་ན་དེ་བསྐྱར་ཏུ་བཤེར་འབེབས་བྱེད་རྒྱུའི་རིན་ཐང་ངམ་སྤུས་ཀ་ཡོད་མེད་ལ་བལྟ་དགོས།
 
-## 7\. Digitization
+* ནང་བསྟན་དང་ཡང་ན་ནང་བའི་རིག་གཞུང་དང་འབྲེལ་བ་མེད་པའི་དཔེ་ཆའི་རིགས་ཡིན་ཚེ་མི་དགོས།
 
-*   The DPE creates a folder structure ready to receive the images.
-    *   folders containing multi-volume works are structured the following way:
-        *   AB0012 (work accession number)
-            *   01 (vol. 1)
-                *   0001.j2k
-                *   0002.j2k
-                *   ...
-            *   02 (vol. 2)
-            *   ...
-*   The DPE measures the length and width of the material, adds it to 1) the "bibliographic information sheet" and 2) the scanner settings.
-*   The scanner settings are adjusted for the current work. This includes:
-    *   the target folder
-    *   page numbering
-    *   image format, DPI and color space
-    *   paper length and width
-    *   data quality
+* དཔེར་ན། ལས་དང་པོ་པའི་ཆེད་བོད་བསྒྱུར་བྱས་པའི་visual++ དང་ཡང་ན་གཞུང་གི་ཆབ་སྲིད་
 
-## 8\. Post processing
+* འགལ་ཟླའི་རིགས་དང་འབྲེལ་བའི་དཔེ་དེབ་སོགས་ཡིན་ཚེ་མི་དགོས།
 
-*   The DPE performs the CQ1, with the Image Inspection Checklist.
-*   images are re-scanned or re-ordered until the work complies with the standards
-*   Post-processing includes cropping and de-skewing.
-*   The ability to read information accurately and in the way that the original is represented is the main concern here.
-*   When cover pages aren't scanned with the paper-feed scanner, 1) the image format, 2) the image height in pixels and 3) the canvas width in pixels are adjusted to match the other images.
+* གལ་ཏེ་མི་གཞན་གྱིས་བཤེར་འབེབས་བྱས་པའི་ཡིག་ཆའི་རིགས་ཡོད་ཚེ་བཤེར་འབེབས་པས་ལས་ཀ་མ་བྱས་སྔོན་ངེས་པར་དུ་འབྲེལ་མཐུད་པར་བློ་འདྲི་བྱེད་དགོས། གལ་ཏེ་པར་གྱི་རིགས་དང་སྤུས་ཀ་བུདྡྷ་དཔེ་མཛོད་ཀྱི་ཆ་
 
-## 9\. Quality review
+* རྐྱེན་ལྟར་མ་ལོན་ཚེ་དཔེ་མཛོད་དོ་དམ་འགན་འཛིན་དང་ཨང་བསྒྱུར་འགན་འཛིན་གཉིས་ལ་བཀའ་འདྲི་ཞུས་ཏེ་
 
-*   The images are submitted to the FR who performs QC2, using the Image Inspection Checklist.
-*   The FR generates Access Files (web images), uploads them together with the "bibliographic information sheet" and shared it with the DPM
-*   The DPM performs the QA (Quality Assurance) review, and signs off the work
-    *   all images are reviewed as thumbnails
-    *   10% of the images are reviewed 1:1
+* གནད་དོན་གང་ཡིན་ལ་ལྟོས་ཏེ་ཐག་གཅོད་དགོས།
 
-## 10\. Archiving
+## ༢. ཆ་རྐྱེན་ཚད་བཅད།
 
-*   Archiving digitized material is done by the DAM, the Digital Archive Manager. Images will be scanned to a staff-member’s portable hard drive.
-*   Images are also copied to the staff-member’s computer.
-*   As both an extra back-up copy and also an access copy, the images are copied to the Library’s processing space.
-*   Because little processing has been done to the images, the processed version of the scanned image is an archival copy.
-*   The un-processed version is usually saved until the processed image is reviewed and published.
+* བཤེར་འབེབས་པས་བཤེས་ཆས་ (fujitsu fi-) རིགས་ཀྱི་ཤོག་གུ་ཁོང་འཇུག་གི་རིགས་བཀོལ་སྤྱོད་བྱས་ན་ཨང་བསྒྱུར་ཡིག་ཆ་རྣམས་སྤུས་ལེགས་བརྟན་པོ་ཡོང་མིན་རྟོག་དཔྱོད་བྱེད་དགོས། གལ་ཏེ་མིན་ཚེ་བཤེར་འབེབས་པས་བཤེར་
 
-## 11\. Publishing
+ཆས་མགོ་ལྟེབ་མ་དང་ཡང་པར་ལེན་འཕྲུལ་ཆས་གཉིས་ཀྱི་གང་ཞིག་བཀོལ་སྤྱོད་བྱེད་དགོས་མིན་འདེམ་དགོས།
 
-*   Different versions and file types of the same image are created in order to be accessible to all patrons and users.
-    *   These derivatives include thumbnail JPEG, TIFF, and GIF.
-    *   Only the processed copy (with minor adjustments and combined when necessary) is published.
+## ༣. དཀར་ཆག་སྒྲིག་པ།
+
+*  
+
+* ད་སྔ་དཀར་ཆག་ཏུ་བཀོད་མེད་པའི་དཔེ་ཆའི་རིགས་ཡིན་ཚེ་དེ་ལ་(མཁོ་སྒྱུབ་ཨང་) དེ་ནི་གནས་སྐབས་རིང་དཔེ་མཛོད་དོ་དམ་པ་ཚོས་དཀར་ཆག་བསྒྲིག་ཚེ་བར་ངོས་འཛིན་བྱེད་ཆེད་ཨང་གྲངས་སྤྲད་པ་ཞིག་ཡིན། དཔེར་ན། DE0012, D ནི་དཔེ་མཛོད་དོ་དམ་པ་མཚོན་བྱེད་དང་། E ནི་ཁོའི་ཚོགགས་པའི་བཤེར་འབེབས་པ་མཚོན་བྱེད་ལྟ་བུ་ཡིན། 12 ནི་བཤེར་འབེབས་བྱས་པའི་རྩམས་ཆོས་དེའི་ཨང་རིམ་སྟོན་བྱེད་ཡིན། ངེས་དགོས་པ་ཞིག་ལ་ཨང་གྲངས་འདི་བཞི་བོ་ངེས་པར་བཀོལ་དགོས་པར་མ་ཟད། 12 འབྲི་སྟངས་ཡང་ 0012 འདི་ལྟར་འབྲི་དགོས། 
+
+* འབྱུང་འགྱུར་དཔེ་ཆ་སོ་སོའི་ལོ་རྒྱུས་དཀར་ཆག་འགོད་ཆེད་བཤེར་འབེབས་པས་དཔེ་བསྐྲུན་གནས་ཚུལ་འབྲི་དགོས། དེའི་ནང་ཚུད་དགོས་པ་ཁག
+
+    * རྩོམ་པ་པོའི་སྐོར།
+
+    * མཚན་བྱང་རིང་ཐུང་གཉིས་ཆ།
+
+    * པོད་གྲངས། 
+
+    * གླེགས་བམ་སོ་སོའི་རིང་ཐུང་།
+
+* རྨང་གཞིའི་དཔེ་བསྐྲུན་གནས་ཚུལ།
+
+## ༤. དན་གྲངས་གོང་མ་བཟོ་བ། 
+
+* ཨང་བསྒྱུར་བྱེད་རྒྱུར་གྲ་སྒྲིག་བྱས་ཟིན་པའི་དངོས་པོ་རྣམས་ལ་བསྐྱར་ཞིབ་དང་དམིགས་བསལ་གྱི་ཨང་བསྒྱུར་ཡིག་ཆའི་མིང་འདོགས་དགོས། ཡིག་ཆ་དེའི་མིང་དེ་དང་འབྲེལ་མཐུད་བྱེད་སའི་ཁ་པར་ཨང་བཅས་དཔེ་བསྐྲུན་
+
+* གནས་ཚུལ་འགེང་ཤོག་སྟེང་འགོད་དགོས། དངོས་རིགས་དེའི་དམིགས་བསལ་གནས་ཚུལ་སྐོར་དང་།ཨང་བསྒྱུར་གནས་ཚུལ་ནང་ཚུད་དགོས་པ་ཁག 
+
+    * བཤེར་འབེབས་བྱེད་དུས། 
+
+    * སུས་བྱས་པ། 
+
+    * བཤེར་ཆས་རིགས་གང་ཡིན་བཅས་སོ།། 
+
+## ༥. ལས་ཀའི་འཆར་གཞི།
+
+* བཤེར་འབེབས་པ་མི་གཅིག་གིས་ཨང་བསྒྱུར་གྱི་ལས་རིམ་རྣམ་གྲངས་དུ་མ་ཞིག་ལ་ལག་པ་འཆང་དགོས་ཏེ། 
+
+* དུས་སྐབས་རེ་རེའི་སྐབས་རིགས་མི་འདྲ་བའི་བྱ་བའི་རྣམ་གྲངས་བསྒྲུབ་དགོས་པ་ཁག
+
+* དངོས་རིགས་རེ་རེ་ལ་མིང་འདོགས་པ། ཨང་བསྒྱུར་བྱེད་པ། ཨང་བསྒྱུར་བྱེད་པའི་དུས་ཚོད། སྤུས་ཀ་བསྐྱར་ཞིབ་བཅས། 
+
+* འབྲེལ་མཐུད་པས་བསྒྲུབ་དགོས་པ་ཁག་སྟེ། ཡིག་ཆའི་མིང་། སྤུས་ཀ་བསྐྱར་ཞིབ། དྲ་སྤེལ་བཤེར་པར་བཟོ་བ། མཁོ་གཏོང་རིགས་བཅས་སོ།། 
+
+## ༦. ཨང་བསྒྱུར་སྟ་གོན།
+
+* སྲོལ་རྒྱུན་དཔེ་ཆའམ་ཡང་ན་པོ་ཏིའི་རིགས་ལ་རྟོག་དཔྱོད་བྱེད་ས་རིགས་གཉིས་ཡོད་དེ། དང་པོ། ཤོག་ངོས་ཆད་ཡོད་མེད་དང་། ཤོག་གྲངས་འཛོལ་ཡོད་མེད་བཅས་ལ་བལྟ་དགོས། གལ་ཏེ་འཛོལ་ཡོད་ན། བཤེར་འབེབས་
+
+མ་བྱས་གོང་བསྐྱར་སྒྲིག་བྱས་ན་སྟབས་བདེ་བ་དང་མགྱོགས་མྱུར་གྱི་ཁྱད་པར་ཡོད། སྐབས་འདིར་བཤེར་འབེབས་པས་འདིའི་རིགས་འདི་ནས་སྣང་ཆུང་བཏང་ཚེ་ཐེངས་རྗེས་མའི་བཤེར་པར་ཞིབ་སྒྲིག་(Post-processes) སྐབས་ཉོག་དྲ་དེ་
+
+ལས་ཆེ་བ་ཡོད།
+
+* བཤེར་འབེབས་མ་བྱས་སྔོན་བརྩམས་ཆོས་དེ་དེབ་ཕྲེང་དང་ཡང་ན་གསུང་འབུམ་གྱི་ཆ་ཤས་ཡིན་མིན་ཐད་བལྟ་དགོས། གལ་ཏེ་ཡིན་ཚེ་བཤེར་འབེབས་བྱེད་མི་དགོས། 
+
+* ཆོ་གའི་རིགས་བཤེར་འབེབས་བྱེད་སྐབས་དེའི་གོ་རིམ་དང་ཆ་ཚང་མིན་སོགས་ཀྱི་སྐོར་དེ་གའི་དབུ་མཛད་དང་ཡང་ན་བླ་མ་དགེ་བཤེས་སོགས་དེའི་སྐོར་ལ་ངེས་ཆ་ཡོད་པའི་མི་སྣ་ལ་ལམ་སྟོན་ཞུ་དགོས། དཔེ་ཆ་དེ་འདྲའི་རིགས་ཀྱི་གོ་
+
+རིམ་དང་ཤོག་གྲངས་སོགས་གང་ཡིན་ལ་མ་ལྟོས་པར་དེ་གའི་འབྲེལ་ཡོད་དགོན་པ་སོ་སོའི་འདོན་ཕྱག་ལེན་གྱི་རིམ་པ་ལྟར་བཤེར་འབེབས་བྱེད་དགོས།
+
+* བཤེར་པར་ཤོག་ངོས་སུ་ནག་ནོག་གི་དྲི་མ་འགོག་ཆེད། སྲོལ་རྒྱུན་ཤོག་གུའི་ཐོག་པར་བའི་དཔེ་ཆ་རྣམས་བཤེར་འབེབས་བྱེད་སྐབས་དང་པོ་དཔེ་ཆ་དེའི་ནང་འཚངས་བའི་ས་རྡུལ་རིགས་གཙང་བཟོ་གང་ལེགས་བྱེད་དགོས།
+
+* བཤེར་འབེབས་པས་ལྟེབ་སྒྲིག་བཤེར་ཆས་དང་པར་ལེན་འཕྲུལ་ཆས་སྤྱད་དེ་བཤེར་འབེབས་བྱེད་སྐབས་བཤེར་པར་གྱི་ཕྱོགས་ཡོངས་ཀྱི་གློག་འོག་དེ་ཆ་སྙོམས་ཡོང་དགོས་པར་མ་ཟད་བཤེར་ཆས་ཀྱི་སྒྲིག་འགོད་དེ་ཡང་ལས་རིམ་གྱི་མགོ་མཇུག་བར་གསུམ་དུ་གཅིག་མཚུངས་ཡིན་དགོས། 
+
+* བཤེར་འབེབས་པས་ཉིན་རེའི་བཤེར་ལས་འགོ་འཛུགས་སྐབས་བཤེར་ཆས་དང་པར་ཆས་རིགས་གང་ཞིག་བཀོལ་རུང་དེའི་སྒྲིག་འགོད་འགྲིག་མིན་དང་བཤེར་པར་ངོས་སུ་ནག་ནོག་རིགས་དོད་ཡོད་མེད་རྟོག་ཕྱིར་ཤོག་ངོས་འགའ་རེ་ཚོད་ལྟ་བྱེད་དགོས།
+
+## ༧. ཨང་བསྒྱུར། 
+
+* བཤེར་འབེབས་པས་བཤེར་འབེབས་མ་བྱས་སྔོན་བཤེར་པར་ལྡུག་སའི་པར་སྣོད་བཟོ་དགོས།
+
+* དཔེ་ཚོགས་རིགས་ཀྱི་པར་སྣོད་བཟོ་སྐབས་གཤམ་བཀོད་ཀྱི་ཆ་རྐྱེན་རྣམས་ཚང་དགོས།
+
+    * AB0012 (མཁོ་སྒྲུབ་ཨང་།)
+
+    * 01 (གླེགས་བམ་༡)
+
+    * 0001.j2k
+
+    * 0002.j2k
+
+    * ……
+
+    * 02 (གླེགས་བམ་༢)
+
+    * ….
+
+* ༡. བཤེར་འབེབས་པས་བཤེར་བྱའི་དངོས་རིགས་ཀྱི་ཞེང་ཁ་དང་མཐོ་དམའི་ཚད་འཇལ་རྗེས་དཔེ་ཆའི་ཟུར་སྦྱར་གནས་ཚུལ་ཟིན་ཐོའི་ནང་འགོད་དགོས། ༢. བཤེར་ཆས་ཀྱི་སྒྲིག་འགོད།
+
+* སྐབས་སོ་སོའི་དཔེ་ཆ་བཤེར་འབེབས་སྐབས་བཤེར་ཆས་སྒྲིག་འགོད་སྙོམས་སྒྲིག་བྱེད་དགོས་པ་ཁག གཤམ་གསལ།
+
+    * སྐབས་དེའི་པར་སྣོད།
+
+    * ཤོག་གྲངས།
+
+    * པར་རིགས། dpi དང་ཚོན་མདོགས།
+
+    * ཤོག་གུའི་ཞེང་ཁ་དང་མཐོ་དམའི་ཚད།
+
+    * དན་གྲངས་ཀྱི་སྤུས་ཀ།
+
+## ༨. བཤེར་པར་ཞིབ་སྒྲིག
+
+* བཤེར་འབེབས་པས་སྤུས་ཚད་སྟངས་འཛིན་གྱི་ཟིན་བྲིས་ལྟར་སྤུས་ཚད་རྟོག་ཞིབ་རིམ་པ་དང་པོ་བྱེད་དགོས། 
+
+* བཤེར་འབེབས་བྱས་ཟིན་པའི་བཤེར་པར་རྣམས་ཀྱི་འགྲོ་ལུགས་ཆ་ཚང་མ་སྒྲུབ་སྔོན་དུ་བསྐྱར་དུ་བཤེར་འབེབས་བྱེད་པ་དང་ཡང་ན་ཨང་རིམ་བསྐྱར་སྒྲིག་བྱེད་དགོས་མིན་བལྟ་དགོས།
+
+* བཤེར་པར་ཞིབ་སྒྲིག་ནང་བཤེར་པར་བཅད་གཏུབ་ཤོར་བ་དང་ཡོ་འཁྱོག་རིགས་བསྲང་རྒྱུ་ཡང་འདུས་དགོས།
+
+* འདིར་གནས་ཚུལ་ཞིབ་ཚགས་ཀྱིས་ཀློག་ཐུབ་རྒྱུ་དང་བཤེར་པར་མ་ཕྱི་རྣམས་ཚབ་མཚོན་འཛིན་རྒྱུ་དེ་གནད་འགག་གཙོ་བོ་ཡིན།
+
+* དཔེ་ཆའི་རྒྱབ་ཤ་རྣམས་ཤོག་གུ་ཁོང་འཇུག་བཤེར་ཆས་ནང་བཤེར་འབེབས་མ་བྱས་བར་བཤེར་ཆས་གཞན་གྱི་ནང་བཤེར་དུས། དང་པོ་པར་གྱི་རིགས་དང་། གཉིས་པ། བཤེར་པར་གྱི་པིག་ཟེལ་(pixel) དང་མཐོ་དམའ། གསུམ་པ། སྒྲོམ་གཞིའི་ཚད་འཇལ་སྟེགས་བུའི་(canvas) ནང་བཤེར་པར་གྱི་པིག་ཟེལ་(pixel) དང་ཞིང་ཚད་བཅས་བཤེར་པར་གཞན་རྣམས་དང་གཅིག་མཚུངས་ཀྱིས་སྙོམས་སྒྲིག་བྱེད་དགོས།
+
+## ༩. སྤུས་ཚད་བསྐྱར་ཞིབ།
+
+* བཤེར་པར་རྣམས་འབེྲལ་མཐུད་པ་ལ་བཏང་རྗེས་འབྲེལ་མཐུད་པས་སྤུས་ཀ་སྟངས་འཛིན་གྱི་ཟིན་བྲིས་གཞིར་བཟུང་གིས་སྤུས་ཚད་བསྐྱར་ཞིབ་རིམ་པ་གཉིས་པ་དེ་བྱེད་དགོས།
+
+* འབྲེལ་མཐུད་པས་མཁོ་སྒྲུབ་ཡིག་ཆའམ་(ཡང་ན་དྲ་སྤེལ་དཔེ་ཆ་)བཟོས་ཏེ་དཔེ་ཆའི་གནས་ཚུལ་མཉམ་སྦྱོར་གྱིས་ཨང་བསྒྱུར་འགན་འཛིན་ལ་འབུལ་དགོས། 
+
+* ཨང་བསྒྱུར་འགན་འཛིན་གྱིས་དེ་ལ་སྤུས་ཚད་ལོན་ཡོད་མེད་བསྐྱར་ཞིབ་བྱས་ཏེ་དེའི་ལས་རིམ་བསྒྲུབས་ཟིན་པར་བྱེད་དགོས།
+
+    * བཤེར་པར་ཡོངས་ལ་མིག་བཤེར་བྱེད་དགོས།
+
+    * ་བཤེར་པར་གྱི་བརྒྱ་ཆ་% ༡༠ ལ་འཆར་ཚད་ 1:1ནང་བསྐྱར་ཞིབ་བྱེད་དགོས།
+
+## ༡༠. ཉར་ཚགས། 
+
+* ཨང་བསྒྱུར་དངོས་རིགས་ཉར་ཚགས་ཀྱི་ལས་རིགས་དེ་ཨང་བསྒྱུར་འགན་འཛིན་གྱིས་བསྒྲུབ་དགོས། 
+
+* བཤེར་པར་རྣམས་བཤེར་འབེབས་པའི་སྲ་སྡེར་ནང་བཤེར་འབེབས་བྱེད་ཆོག་ལ།
+
+* བཤེར་པར་རྣམས་བཤེར་འབེབས་པའི་གློག་ཀླད་ནང་ཡང་ཕབ་ལེན་བྱེད་ཆོག
+
+* ངོ་བཤུས་དེ་དག་ཡོངས་ང་ཚོའི་དཔེ་མཛོད་ཀྱི་ལས་རིམ་བར་སྟོང་ནང་བཤུས་ནའང་ཆོག
+
+* རྒྱུ་མཚན་བཤེར་པར་དེ་དག་གི་འགྲོ་ལུགས་གང་མཚམས་སོང་ཟིན་པ་དང་འགྲོ་ལུགས་ཆ་ཚང་བསྒྱུབས་ཟིན་བའི་བཤེར་པར་རིགས་ནི་ཉར་ཚགས་བཤེར་པར་གྱི་ངོ་བཤུས་ཡིན། 
+
+* རྒྱུན་ལྡན་གྱིས་འགྲོ་ལུགས་བསྒྲུབ་མ་ཟིན་བའི་རིགས་ཀྱི་བཤེར་པར་རྣམས་འགྲོ་ལུགས་ཆ་ཚང་བསྒྲུབས་ཟིན་བའི་བཤེར་པར་རྣམས་བསྐྱར་ཞིབ་དང་དཔེ་བསྐྲུན་བྱེད་ཚར་རག་བར་ཉར་ཚགས་བྱེད་བཞིན་ཡོད།
+
+## ༡༡. དཔེ་བསྐྲུན།
+
+བརྩམས་ཆོས་གཅིག་གི་བཤེར་པར་རིགས་མ་འདྲ་བ་དུ་མ་ཞིག་བཟོས་པ་དེ་དཔེ་མཚོན་ཚང་མར་བཀོལ་བདེ་བ་དང་   བཅུ་པ་དང་བཅུ་གཅིག་གཉིས་ཚར་མེད་རྒྱུ་མཚན་་་་་་་་བསྐྱར་སྣོན་སྒྱུག་བཞིན་ཡོད།
+
