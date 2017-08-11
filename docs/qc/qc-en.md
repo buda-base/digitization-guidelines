@@ -1,7 +1,7 @@
 # Quality Control
 
 The inspection of image files is done in the same way for QC1, QC2, and QA (Quality Assurance). It involves two processes:
-
+123
 1. The first is a technical inspection of the file assuring correct imaging parameters were used when imaging, and that the file is valid. The BDRC auditing tool should be used for this purpose.
 2. Image quality must then be visually inspected by a trained technician, using the following procedure:
 
