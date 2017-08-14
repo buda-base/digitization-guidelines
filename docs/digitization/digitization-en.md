@@ -5,17 +5,9 @@ Files on the computer come in many different **formats**. File formats are diffe
 
 It is standard for file formats to be given a "file extension:" This is the three or four-letter code you’ll often see following the file name. Some computers hide this information from the user. If you **right-click** on a file you can select **“Properties”** to view its properties, one of which is **“File type.”** Here we can see an image file that is a PNG file (.png), along with the file metadata the computer automatically tracks (like location, size, date created, etc.):
 
-<table>
-  <tr>
-    <td>Type of File</td>
-    <td>Other Metadata</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
+| Type of File | Other Metadata |
+| --- | --- |
+ | ![image alt text](../img/image_888.png) | ![image alt text](../img/image_999.png) |
 
 Not all digital images have the same file format. There are many different formats for encoding image information. Different formats have different strengths and weaknesses; which one is used will depend on what you want to do with the file. Some file formats are good for making a really high quality image; others are good for making images that don’t need to be high quality (because they will be viewed on a small screen, or uploaded online).
 
@@ -115,7 +107,7 @@ It is tempting to think that "real world" size (analog size) and digital file si
 
 Let’s take an example. I have here a real-world *pecha*. It’s printed on a paper, and its real-world size is 3 1/4 inches by 12 inches:
 
-![image alt text](../img/image_0.jpg)
+![image alt text](../img/image_36.png)
 
 The computer, of course, can’t hold a real-world paper page. There is no "place" to put it, and no 3 1/4” x 12” drawer to put it in. It doesn’t store paper, and it doesn’t store image information in "inches." *But* it can represent the page in **bytes** instead of inches of paper and ink.
 
@@ -127,37 +119,19 @@ A plain B&W image is made up of two kinds of pixels or dots: black pixels and wh
 
 Again, in 8-bits (1-byte) data, there are 256 possible combinations of 0s and 1s. That’s why a grayscale image is made up of 256 different shades of gray. Each shade of gray is given a single-byte code from pure black to pure white. For color, each pixel also needs 3 bytes for each of Red, Blue, and Yellow (the primary colors). In other words, each pixel has a 0-7 value for how much Red, Blue, and Yellow make up the pixel:
 
-<table>
-  <tr>
-    <td>256 Grayscale Palette</td>
-    <td>256 Color Palette</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
+| 256 Color Palette | 256 Grayscale Palette |
+| --- | --- |
+| ![image alt text](../img/image_3.png) | ![image alt text](../img/image_111.jpg) |
 
 In other words, color data is ‘more expensive,’ and requires more bits, and takes up more space, than grayscale data; and, B&W is the ‘cheapest’ kind of data we can encode. It is also the simplest, and takes the least amount of space. Again, our file size doesn’t depend on the analog, physical, real-world object: It depends on how detailed our pixel-set is (is it B&W, grayscale, or color?). It also depends on how many pixels we use in total...
 
-![image alt text](image_1.png)
+![image alt text](../img/image_4.png)
 
 When we set the scanning quality to 300ppi, for example, what it really means is the computer is capturing 300 pixels high and 300 pixels wide (90,000 pixels total) for every square inch. If it is set to a low quality, like 150ppi, we are capturing less than half as much data (only 22,500 pixels per inch total!). Our file will be much smaller, and of much poorer quality. On the other hand, 600ppi will have much more than twice as much information (360,000 total pixels per inch): The more pixels we use per inch gets us a closer and closer approximation of our real-world image.
 
-<table>
-  <tr>
-    <td>150 pixels per inch</td>
-    <td>300 pixels per inch</td>
-    <td>600 pixels per inch</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
+| 150 pixels per inch | 300 pixels per inch | 600 pixels per inch |
+| --- | --- | --- |
+| ![image alt text](../img/image_5.png) | ![image alt text](../img/image_6.png) | ![image alt text](../img/image_7.png) |
 
 Think: at 1x1, an image only has one pixel. At 2x2, it has four. At 4x4, it has 16! So the difference between 150ppi and 300ppi isn’t 50% ("twice" or “half”), it’s much more. And moving from 300ppi up to 400ppi is actually a big deal! What does this mean for our real-world *pecha*? For one, a move from 300ppi to 400ppi represents a move from 3.5 million to 6.2 million total pixels, nearly doubling the image resolution:
 
@@ -197,30 +171,15 @@ Think: at 1x1, an image only has one pixel. At 2x2, it has four. At 4x4, it has 
 
 We can briefly note here that "ppi"—pixels per inch—technically refers to display images while “dpi”—dots per inch—technically refers to physical dots printed by a printer. However, these terms have come to be used pretty much interchangeably. Whether you see “ppi” or “dpi” they mean the same thing. Here is what our scan looks like at these resolutions (magnified to show the difference in quality): Note the pixelation on the left, and the detail on the right:
 
-<table>
-  <tr>
-    <td>150 pixels per inch</td>
-    <td>300 pixels per inch</td>
-    <td>600 pixels per inch</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
+| 150 pixels per inch | 300 pixels per inch | 600 pixels per inch |
+| --- | --- | --- | 
+| ![image alt text](../img/image_8.png) | ![image alt text](../img/image_9.png) | ![image alt text](../img/image_10.png) |
 
 If you click on the "details" tab in the file’s properties, you can find more details about the file. This includes the dimensions like the height and the width—how many pixels high and wide the image is. It’s important to know how to find this information, since standards require that these dimensions remain consistent across image files in a single work. Pixel dimension is also related to file size: the more pixels in an image, the more space it takes to store.
 
 A digital image submitted to BDRC should be 600ppi / 600dpi to ensure it is archival quality and OCR-able (highly **usable**). The number of pixels that is will depend on the size of the page you are scanning and the file format (.tif for B&W or .jpg for color). All this information is tracked in the "Properties" metadata automatically. Anyone who has the file can access size information (like dpi, bytes, pixels, and more) by right-clicking the file, choosing “Properties”, and clicking the “Details” tab:
 
-![image alt text](image_2.png)
+![image alt text](../img/image_11.png)
 
 If we don’t follow these standards, we end up with digital images that are **unusable**—scanned at a low dpi, or in a lossy format. If a user searches for a text to use it (to access its meaning), our work has been wasted if the quality is poor. A digital image in the wrong format, or at a low resolution, cannot be easily read; it also cannot be OCRed.
 
