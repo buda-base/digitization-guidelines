@@ -35,8 +35,94 @@
         
         var pageToc = [
           {title: "\u8bcd\u6c47\u8868 \u0f58\u0f72\u0f44\u0f0b\u0f58\u0f5b\u0f7c\u0f51\u0f0d Glossary", url: "#glossary", children: [
+              {title: "accession numbers | \u0f58\u0f41\u0f7c\u0f0b\u0f66\u0f92\u0fb2\u0f74\u0f56\u0f0b\u0f68\u0f44\u0f0b\u0f0d | \u767b\u5f55\u53f7 |", url: "#accession-numbers" },
+              {title: "additional data | \u0f5f\u0f74\u0f62\u0f0b\u0f66\u0fa6\u0fb1\u0f62\u0f0b\u0f42\u0f53\u0f66\u0f0b\u0f5a\u0f74\u0f63\u0f0d | \u5176\u4ed6\u6570\u636e |", url: "#additional-data" },
+              {title: "archive | \u0f61\u0f72\u0f42\u0f0b\u0f5a\u0f42\u0f66\u0f0d | \u6863\u6848 |", url: "#archive" },
+              {title: "archiving image | \u0f49\u0f62\u0f0b\u0f5a\u0f42\u0f66\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f54\u0f62\u0f0b\u0f62\u0f58\u0f0b\u0f56\u0f64\u0f7a\u0f62\u0f0b\u0f54\u0f62\u0f0d | \u5f52\u6863\u56fe\u50cf |", url: "#archiving-image" },
+              {title: "basic standard | \u0f62\u0fa9\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f5a\u0f51\u0f0b\u0f42\u0f5e\u0f72\u0f0d | \u57fa\u672c\u6807\u51c6 |", url: "#basic-standard" },
+              {title: "BDRC, | \u0f53\u0f44\u0f0b\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f5a\u0f7c\u0f42\u0f66\u0f0b\u0f63\u0f9f\u0f7a\u0f0b\u0f42\u0f53\u0f66\u0f0d | BDRC\uff0c |", url: "#bdrc-bdrc" },
+              {title: "bibliographical info sheet | \u0f51\u0f54\u0f7a\u0f0b\u0f56\u0f66\u0f90\u0fb2\u0f74\u0f53\u0f0b\u0f42\u0f53\u0f66\u0f0b\u0f5a\u0f74\u0f63\u0f0d | \u4e66\u76ee\u4fe1\u606f\u8868 |", url: "#bibliographical-info-sheet" },
+              {title: "bit | \u0f54\u0f7a\u0f66\u0f0b\u0f50\u0f72\u0f0d | \u4f4d |", url: "#bit" },
+              {title: "black/white image | \u0f66\u0f90\u0fb1\u0f0b\u0f54\u0f62\u0f0d | \u9ed1/\u767d\u56fe\u50cf |", url: "#blackwhite-image" },
+              {title: "grayscale | \u0f5a\u0f7c\u0f53\u0f0b\u0f63\u0fa1\u0f53\u0f0b\u0f66\u0f90\u0fb1\u0f0b\u0f54\u0f62\u0f0d | \u7070\u9636 |", url: "#grayscale" },
+              {title: "color image | \u0f5a\u0f7c\u0f53\u0f0b\u0f63\u0fa1\u0f53\u0f0b\u0f54\u0f62\u0f0d | \u5f69\u8272\u56fe\u50cf |", url: "#color-image" },
+              {title: "book | \u0f51\u0f54\u0f7a\u0f0b\u0f51\u0f7a\u0f56\u0f0d | \u4e66 |", url: "#book" },
+              {title: "bookshelf | \u0f51\u0f54\u0f7a\u0f0b\u0f41\u0fb2\u0f72\u0f0d \u0f51\u0f54\u0f7a\u0f0b\u0f66\u0f92\u0fb2\u0f7c\u0f58\u0f0d | \u4e66\u67b6 |", url: "#bookshelf" },
+              {title: "BRRC, | BRRC\uff0c |", url: "#brrc-brrc" },
+              {title: "BUDA, Buddhist Universal Digital Archive | \u0f56\u0f74\u0f51\u0fa1\u0fb7\u0f0d \u0f62\u0f92\u0fb1\u0f66\u0f0b\u0f0b\u0f0b\u0f0b | \u5e03\u8fbe\u4f5b\u6559\u901a\u7528\u6570\u5b57\u6863\u6848 |", url: "#buda-buddhist-universal-digital-archive" },
+              {title: "camera | \u0f54\u0f62\u0f0b\u0f46\u0f66\u0f0d \u0f54\u0f62\u0f0b\u0f63\u0f7a\u0f53\u0f0b\u0f60\u0f55\u0fb2\u0f74\u0f63\u0f0b\u0f46\u0f66\u0f0d | \u76f8\u673a |", url: "#camera" },
+              {title: "click | \u0f62\u0fa1\u0f7a\u0f56\u0f0b\u0f42\u0f53\u0f7c\u0f53\u0f0d | \u70b9\u51fb |", url: "#click" },
+              {title: "code | \u0f68\u0f44\u0f0b\u0f56\u0f62\u0fa1\u0f0d | \u7801 |", url: "#code" },
+              {title: "collection | \u0f51\u0f54\u0f7a\u0f0b\u0f5a\u0f7c\u0f42\u0f66\u0f0b\u0f51\u0f44\u0f0b\u0f51\u0f7a\u0f56\u0f0b\u0f55\u0fb2\u0f7a\u0f44\u0f0b\u0f0d | \u91c7\u96c6 |", url: "#collection" },
+              {title: "compression | \u0f62\u0f72\u0f42\u0f66\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66\u0f0b\u0f5a\u0f51\u0f42\u0f5e\u0f72\u0f0d | \u538b\u7f29 |", url: "#compression" },
+              {title: "copy | \u0f55\u0f56\u0f0b\u0f56\u0f64\u0f74\u0f66\u0f0d | \u590d\u5236 |", url: "#copy" },
+              {title: "DAM, Digital Archive Manager | \u0f68\u0f44\u0f0b\u0f56\u0f66\u0f92\u0fb1\u0f74\u0f62\u0f0b\u0f61\u0f72\u0f42\u0f0b\u0f5a\u0f42\u0f66\u0f0b\u0f60\u0f42\u0f53\u0f0b\u0f60\u0f5b\u0f72\u0f53\u0f0d | DAM\uff0c\u6570\u5b57\u5316\u6863\u6848\u7ba1\u7406 |", url: "#dam-digital-archive-manager-dam" },
+              {title: "data | \u0f51\u0f53\u0f0b\u0f42\u0fb2\u0f44\u0f66\u0f0d | \u6570\u636e |", url: "#data" },
+              {title: "digital library | \u0f68\u0f53\u0f0b\u0f45\u0f53\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f58\u0f5b\u0f7c\u0f51\u0f0d | \u6570\u5b57\u56fe\u4e66\u9986 |", url: "#digital-library" },
+              {title: "digital text | \u0f42\u0f4f\u0f42\u0f66\u0f0b\u0f58\u0f60\u0f72\u0f0b\u0f61\u0f72\u0f42\u0f0b\u0f46\u0f60\u0f58\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f46\u0f0d | \u6570\u5b57\u6587\u672c |", url: "#digital-text" },
               {title: "\u6570\u5b57\u5316 \u0f68\u0f44\u0f0b\u0f56\u0f66\u0f92\u0fb1\u0f74\u0f62\u0f0d digitization", url: "#digitization" },
               {title: "dimension \u0f42\u0f66\u0f63\u0f0b\u0f5a\u0f51\u0f0d \u5c3a\u5bf8", url: "#dimension" },
+              {title: "DPE, | \u0f56\u0f64\u0f7a\u0f62\u0f0b\u0f60\u0f56\u0f7a\u0f56\u0f66\u0f0b\u0f54\u0f0d | DPE\uff0c |", url: "#dpe-dpe" },
+              {title: "dpi | \u0f42\u0f66\u0f63\u0f0b\u0f46\u0f60\u0f72\u0f0b\u0f5a\u0f51\u0f0b\u0f42\u0f5e\u0f72\u0f0d | DPI |", url: "#dpi-dpi" },
+              {title: "DPM, | \u0f68\u0f44\u0f0b\u0f56\u0f66\u0f92\u0fb1\u0f74\u0f62\u0f0b\u0f60\u0f42\u0f53\u0f0b\u0f60\u0f5b\u0f72\u0f53\u0f0d | DPM\uff0c |", url: "#dpm-dpm" },
+              {title: "encoding | \u0f61\u0f72\u0f42\u0f0b\u0f42\u0f5f\u0f74\u0f42\u0f66\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0d | \u7f16\u7801 |", url: "#encoding" },
+              {title: "encod\u0f7ae | \u0f68\u0f44\u0f0b\u0f66\u0f92\u0fb2\u0f72\u0f42 | ENCOD\u0f7a\u00e8 |", url: "#encode-encode" },
+              {title: "feature | \u0f62\u0fa3\u0f58\u0f0b\u0f54\u0f0d | \u7279\u5f81 |", url: "#feature" },
+              {title: "file format | \u0f61\u0f72\u0f42\u0f0b\u0f46\u0f60\u0f72\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0d | \u6587\u4ef6\u683c\u5f0f |", url: "#file-format" },
+              {title: "filename | \u0f61\u0f72\u0f42\u0f0b\u0f46\u0f60\u0f72\u0f0b\u0f58\u0f72\u0f44\u0f0b\u0f0d | \u6587\u4ef6\u540d |", url: "#filename" },
+              {title: "filepath | \u0f61\u0f72\u0f42\u0f0b\u0f46\u0f60\u0f72\u0f0b\u0f41\u0f74\u0f44\u0f66\u0f0d | \u6587\u4ef6\u8def\u5f84 |", url: "#filepath" },
+              {title: "folder structure | \u0f61\u0f72\u0f42\u0f0b\u0f66\u0fa3\u0f7c\u0f51\u0f0b\u0f58\u0f0b\u0f63\u0f42 | \u6587\u4ef6\u5939\u7ed3\u6784 |", url: "#folder-structure" },
+              {title: "format | \u0f62\u0fa3\u0f58\u0f0b\u0f66\u0f92\u0fb2\u0f72\u0f42 | \u683c\u5f0f |", url: "#format" },
+              {title: "FR, | \u0f60\u0f56\u0fb2\u0f7a\u0f63\u0f0b\u0f58\u0f50\u0f74\u0f51\u0f0b\u0f54\u0f0d | FR\uff0c |", url: "#fr-fr" },
+              {title: "hard-drive | \u0f66\u0fb2\u0f0b\u0f66\u0fa1\u0f7a\u0f62\u0f0d | \u786c\u76d8 |", url: "#hard-drive" },
+              {title: "height | \u0f58\u0f50\u0f7c\u0f0b\u0f51\u0f58\u0f60\u0f0d | \u9ad8\u5ea6 |", url: "#height" },
+              {title: "image inspection checklist | \u0f66\u0fa4\u0f74\u0f66\u0f0b\u0f5a\u0f51\u0f0b\u0f66\u0f9f\u0f44\u0f66\u0f0b\u0f60\u0f5b\u0f72\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f5f\u0f72\u0f53\u0f0b\u0f56\u0fb2\u0f72\u0f66\u0f0d | \u5f71\u50cf\u68c0\u67e5\u6e05\u5355 |", url: "#image-inspection-checklist" },
+              {title: "information | \u0f56\u0f62\u0fa1\u0f0b\u0f60\u0f55\u0fb2\u0f72\u0f53\u0f0d | \u4fe1\u606f |", url: "#information" },
+              {title: "input method | \u0f60\u0f47\u0f74\u0f42\u0f0b\u0f50\u0f56\u0f66\u0f0d | \u8f93\u5165\u6cd5 |", url: "#input-method" },
+              {title: "instal, download | \u0f55\u0f56\u0f0b\u0f63\u0f7a\u0f53\u0f0d | INSTAL\uff0c\u4e0b\u8f7d |", url: "#instal-download-instal" },
+              {title: "lossless | \u0f60\u0f42\u0fb1\u0f74\u0f62\u0f0b\u0f56\u0f0b\u0f58\u0f7a\u0f51\u0f0b\u0f54\u0f0d | \u65e0\u635f |", url: "#lossless" },
+              {title: "lossy | \u0f60\u0f42\u0fb1\u0f74\u0f62\u0f0b\u0f56\u0f0d | \u6709\u635f |", url: "#lossy" },
+              {title: "metadata | \u0f51\u0f53\u0f0b\u0f42\u0fb2\u0f44\u0f66\u0f0b\u0f42\u0f7c\u0f44\u0f0b\u0f58\u0f0d | \u5143\u6570\u636e |", url: "#metadata" },
+              {title: "mouse | \u0f59\u0f72\u0f0b\u0f59\u0f72\u0f0d \u0f59\u0f72\u0f0b\u0f42\u0f74\u0f0d | \u8001\u9f20 |", url: "#mouse" },
+              {title: "orientation | \u0f54\u0f62\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f54\u0f0d | \u65b9\u5411 |", url: "#orientation" },
+              {title: "output | \u0f55\u0fb1\u0f72\u0f62\u0f0b\u0f42\u0f4f\u0f7c\u0f44\u0f0b\u0f0d | \u4ea7\u91cf |", url: "#output" },
+              {title: "overhead scanner | \u0f63\u0f9f\u0f7a\u0f56\u0f0b\u0f66\u0f92\u0fb2\u0f72\u0f42\u0f0b\u0f56\u0f64\u0f7a\u0f62\u0f0b\u0f46\u0f66\u0f0d | \u578b\u626b\u63cf\u4eea |", url: "#overhead-scanner" },
+              {title: "paper-feed scanner | \u0f41\u0f7c\u0f44\u0f0b\u0f60\u0f47\u0f74\u0f42\u0f0b\u0f56\u0f64\u0f7a\u0f62\u0f0b\u0f46\u0f66\u0f0d | \u8fdb\u7eb8\u626b\u63cf\u4eea |", url: "#paper-feed-scanner" },
+              {title: "pen-drive | \u0f58\u0f50\u0f7a\u0f56\u0f0b\u0f66\u0fa1\u0f7a\u0f62\u0f0d | \u7b14\u9a71\u52a8 |", url: "#pen-drive" },
+              {title: "pixel | \u0f54\u0f72\u0f42\u0f0b\u0f5f\u0f7a\u0f63\u0f0d | \u50cf\u7d20 |", url: "#pixel" },
+              {title: "quality control | \u0f66\u0fa4\u0f74\u0f66\u0f0b\u0f40\u0f0b\u0f66\u0f9f\u0f44\u0f66\u0f0b\u0f60\u0f5b\u0f72\u0f53\u0f0d | \u54c1\u8d28\u7ba1\u5236 |", url: "#quality-control" },
+              {title: "resolution | \u0f54\u0f62\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f42\u0f66\u0f63\u0f0b\u0f46\u0f0d | \u89e3\u6790\u5ea6 |", url: "#resolution" },
+              {title: "rgb | \u0f58\u0f51\u0f7c\u0f42\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0d | RGB |", url: "#rgb-rgb" },
+              {title: "right click | \u0f42\u0f61\u0f66\u0f0b\u0f62\u0fa1\u0f7a\u0f56\u0f0d \u0f42\u0f61\u0f66\u0f0b\u0f42\u0f53\u0f7c\u0f53\u0f0d | \u53f3\u952e\u70b9\u51fb |", url: "#right-click" },
+              {title: "scan-request | \u0f51\u0f54\u0f7a\u0f0b\u0f56\u0fb1\u0f44\u0f0b\u0f0d | \u626b\u63cf\u8bf7\u6c42 |", url: "#scan-request" },
+              {title: "scanned image/digital image | \u0f56\u0f64\u0f7a\u0f62\u0f0b\u0f54\u0f62\u0f0b\u0f62\u0f58\u0f0b\u0f61\u0f44\u0f0b\u0f53\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f54\u0f62\u0f0d | \u626b\u63cf\u7684\u56fe\u50cf/\u6570\u5b57\u56fe\u50cf |", url: "#scanned-imagedigital-image" },
+              {title: "scanner | \u0f56\u0f64\u0f7a\u0f62\u0f0b\u0f46\u0f66\u0f0d | \u626b\u63cf\u5668 |", url: "#scanner" },
+              {title: "select | \u0f60\u0f51\u0f7a\u0f58\u0f0b\u0f42\u0f66\u0f7a\u0f66\u0f0d | \u9009\u62e9 |", url: "#select" },
+              {title: "setting | \u0f66\u0f92\u0fb2\u0f72\u0f42\u0f0b\u0f60\u0f42\u0f7c\u0f51\u0f0d | \u8bbe\u7f6e |", url: "#setting" },
+              {title: "shelving number, call number | \u0f51\u0f54\u0f7a\u0f0b\u0f66\u0f92\u0fb2\u0f7c\u0f58\u0f0b\u0f68\u0f44\u0f0b\u0f0d | \u67b6\u5b50\u53f7\uff0c\u7535\u8bdd\u53f7\u7801 |", url: "#shelving-number-call-number" },
+              {title: "software, program, apps | \u0f58\u0f49\u0f7a\u0f53\u0f0b\u0f46\u0f66\u0f0b\u0f66\u0f58\u0f0b\u0f66\u0f99\u0f72\u0f0b\u0f46\u0f66\u0f0d | \u8f6f\u4ef6\uff0c\u7a0b\u5e8f\uff0c\u5e94\u7528\u7a0b\u5e8f |", url: "#software-program-apps" },
+              {title: "standard | \u0f5a\u0f51\u0f0b\u0f42\u0f5e\u0f72\u0f0d | \u6807\u51c6 |", url: "#standard" },
+              {title: "text | \u0f46\u0f7c\u0f66\u0f0b\u0f5a\u0f53\u0f0d | \u6587\u672c |", url: "#text" },
+              {title: "text number | \u0f46\u0f7c\u0f66\u0f0b\u0f5a\u0f53\u0f0b\u0f68\u0f44\u0f0b\u0f0d | \u6587\u53f7 |", url: "#text-number" },
+              {title: "volume | \u0f54\u0f7c\u0f0b\u0f4f\u0f72\u0f0d | \u5377 |", url: "#volume" },
+              {title: "web image | \u0f51\u0fb2\u0f0b\u0f66\u0fa4\u0f7a\u0f63\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f54\u0f62\u0f0b\u0f62\u0f58\u0f0b\u0f56\u0f64\u0f7a\u0f62\u0f0b\u0f54\u0f62\u0f0d | \u7f51\u7edc\u56fe\u7247 |", url: "#web-image" },
+              {title: "width | \u0f5e\u0f72\u0f44\u0f0b\u0f5a\u0f51\u0f0d | \u5bbd\u5ea6 |", url: "#width" },
+              {title: "work | \u0f56\u0f62\u0fa9\u0f58\u0f66\u0f0b\u0f46\u0f7c\u0f66\u0f0d | \u5de5\u4f5c |", url: "#work" },
+              {title: "work number | \u0f56\u0f62\u0fa9\u0f58\u0f66\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f68\u0f44\u0f0b\u0f0d | \u5de5\u53f7 |", url: "#work-number" },
+              {title: "workflow | \u0f63\u0f66\u0f0b\u0f62\u0f72\u0f58\u0f0d | \u5de5\u4f5c\u6d41\u7a0b |", url: "#workflow" },
+              {title: "double click | \u0f49\u0f72\u0f66\u0f0b\u0f62\u0fa1\u0f7a\u0f56\u0f0d \u0f63\u0fa1\u0f56\u0f0b\u0f42\u0f53\u0f7c\u0f53\u0f0d | \u53cc\u51fb |", url: "#double-click" },
+              {title: "pre-processing | \u0f66\u0f94\u0f7c\u0f53\u0f0b\u0f60\u0f42\u0fb2\u0f7c\u0f60\u0f72\u0f0b\u0f56\u0f5f\u0f7c\u0f0b\u0f66\u0fa3\u0f7c\u0f53\u0f0d | \u9884\u5904\u7406 |", url: "#pre-processing" },
+              {title: "post-processing | \u0f62\u0f97\u0f7a\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f56\u0f5f\u0f7c\u0f0b\u0f66\u0fa3\u0f7c\u0f53\u0f0d | \u540e\u671f\u5904\u7406 |", url: "#post-processing" },
+              {title: "image processing | \u0f54\u0f62\u0f0b\u0f56\u0f5f\u0f7c\u0f0b\u0f66\u0fa3\u0f7c\u0f53\u0f0d \u0f56\u0f64\u0f7a\u0f62\u0f0b\u0f54\u0f62\u0f0b\u0f56\u0f5f\u0f7c\u0f0b\u0f66\u0fa3\u0f7c\u0f53\u0f0d | \u56fe\u50cf\u5904\u7406 |", url: "#image-processing" },
+              {title: "input | \u0f53\u0f44\u0f0b\u0f60\u0f47\u0f74\u0f42 | \u8f93\u5165 |", url: "#input" },
+              {title: "preview | \u9884\u4e60 |", url: "#preview" },
+              {title: "OCR | \u0f61\u0f72\u0f42\u0f0b\u0f60\u0f5b\u0f72\u0f53\u0f0d | OCR |", url: "#ocr-ocr" },
+              {title: "binary code | \u0f5f\u0f74\u0f44\u0f0b\u0f63\u0fa1\u0f53\u0f0b\u0f68\u0f44\u0f0b\u0f56\u0f62\u0fa1\u0f0d | \u4e8c\u8fdb\u5236\u4ee3\u7801 |", url: "#binary-code" },
+              {title: "bit-string | \u0f54\u0f7a\u0f66\u0f0b\u0f50\u0f72\u0f0b\u0f68\u0f44\u0f0b\u0f66\u0f92\u0fb2\u0f72\u0f42 | \u4f4d\u4e32 |", url: "#bit-string" },
+              {title: "resize | \u0f56\u0f66\u0f90\u0fb1\u0f62\u0f0b\u0f66\u0f92\u0fb2\u0f72\u0f42\u0f0b\u0f5a\u0f51\u0f0b\u0f64\u0f72\u0f44\u0f0b\u0f0d | \u8c03\u6574 |", url: "#resize" },
+              {title: "canva resize | \u0f55\u0fb1\u0f72\u0f0b\u0f66\u0f92\u0fb2\u0f7c\u0f58\u0f0b\u0f5a\u0f51\u0f0b\u0f64\u0f72\u0f44\u0f0b\u0f0d | canva\u8c03\u6574 |", url: "#canva-resize-canva" },
+              {title: "visual review of thumbnail | \u0f51\u0f54\u0f7a\u0f0b\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f60\u0f51\u0fb2\u0f0b\u0f62\u0f72\u0f66\u0f0d | \u7f29\u7565\u56fe\u7684\u89c6\u89c9\u56de\u987e |", url: "#visual-review-of-thumbnail" },
+              {title: "visual evaluation | \u0f56\u0f64\u0f7a\u0f62\u0f0b\u0f54\u0f62\u0f0b\u0f51\u0f54\u0f7a\u0f0b\u0f66\u0f9f\u0f7c\u0f53 | \u89c6\u89c9\u8bc4\u4f30 |", url: "#visual-evaluation" },
           ]},
         ];
 
@@ -69,97 +155,96 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
     
 
     <h2 id="glossary">词汇表 མིང་མཛོད། Glossary</h2>
-<p>| Terminology | བོད་ཡིག་བརྡ་ཆས། | 术语 |</p>
-<p>| accession numbers | མཁོ་སྒྲུབ་ཨང་། | 登录号 |
-| additional data | ཟུར་སྦྱར་གནས་ཚུལ། | 其他数据 |
-| archive | ཡིག་ཚགས། | 档案 |
-| archiving image | ཉར་ཚགས་དཔེ་པར་རམ་བཤེར་པར། | 归档图像 |
-| basic standard | རྩ་བའི་ཚད་གཞི། | 基本标准 |
-| BDRC, | ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས། | BDRC， |
-| bibliographical info sheet | དཔེ་བསྐྲུན་གནས་ཚུལ། | 书目信息表 |
-| bit | པེས་ཐི། | 位 |
-| black/white image | སྐྱ་པར། | 黑/白图像 |
-| grayscale | ཚོན་ལྡན་སྐྱ་པར། | 灰阶 |
-| color image | ཚོན་ལྡན་པར། | 彩色图像 |
-| book | དཔེ་དེབ། | 书 |
-| bookshelf | དཔེ་ཁྲི། དཔེ་སྒྲོམ། | 书架 |
-| BRRC, | BRRC， |
-| BUDA, Buddhist Universal Digital Archive | བུདྡྷ། རྒྱས་་་་ | 布达佛教通用数字档案 |
-| camera | པར་ཆས། པར་ལེན་འཕྲུལ་ཆས། | 相机 |
-| click | རྡེབ་གནོན། | 点击 |
-| code | ཨང་བརྡ། | 码 |
-| collection | དཔེ་ཚོགས་དང་དེབ་ཕྲེང་། | 采集 |
-| compression | རིགས་བསྡུས་ཚདགཞི། | 压缩 |
-| copy | ཕབ་བཤུས། | 复制 |
-| DAM, Digital Archive Manager | ཨང་བསྒྱུར་ཡིག་ཚགས་འགན་འཛིན། | DAM，数字化档案管理 |
-| data | དན་གྲངས། | 数据 |
-| digital library | ཨན་ཅན་དཔེ་མཛོད། | 数字图书馆 |
-| digital text | གཏགས་མའི་ཡིག་ཆའམ་དཔེ་ཆ། | 数字文本 |</p>
+<h3 id="accession-numbers">accession numbers | མཁོ་སྒྲུབ་ཨང་། | 登录号 |</h3>
+<h3 id="additional-data">additional data | ཟུར་སྦྱར་གནས་ཚུལ། | 其他数据 |</h3>
+<h3 id="archive">archive | ཡིག་ཚགས། | 档案 |</h3>
+<h3 id="archiving-image">archiving image | ཉར་ཚགས་དཔེ་པར་རམ་བཤེར་པར། | 归档图像 |</h3>
+<h3 id="basic-standard">basic standard | རྩ་བའི་ཚད་གཞི། | 基本标准 |</h3>
+<h3 id="bdrc-bdrc">BDRC, | ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས། | BDRC， |</h3>
+<h3 id="bibliographical-info-sheet">bibliographical info sheet | དཔེ་བསྐྲུན་གནས་ཚུལ། | 书目信息表 |</h3>
+<h3 id="bit">bit | པེས་ཐི། | 位 |</h3>
+<h3 id="blackwhite-image">black/white image | སྐྱ་པར། | 黑/白图像 |</h3>
+<h3 id="grayscale">grayscale | ཚོན་ལྡན་སྐྱ་པར། | 灰阶 |</h3>
+<h3 id="color-image">color image | ཚོན་ལྡན་པར། | 彩色图像 |</h3>
+<h3 id="book">book | དཔེ་དེབ། | 书 |</h3>
+<h3 id="bookshelf">bookshelf | དཔེ་ཁྲི། དཔེ་སྒྲོམ། | 书架 |</h3>
+<h3 id="brrc-brrc">BRRC, | BRRC， |</h3>
+<h3 id="buda-buddhist-universal-digital-archive">BUDA, Buddhist Universal Digital Archive | བུདྡྷ། རྒྱས་་་་ | 布达佛教通用数字档案 |</h3>
+<h3 id="camera">camera | པར་ཆས། པར་ལེན་འཕྲུལ་ཆས། | 相机 |</h3>
+<h3 id="click">click | རྡེབ་གནོན། | 点击 |</h3>
+<h3 id="code">code | ཨང་བརྡ། | 码 |</h3>
+<h3 id="collection">collection | དཔེ་ཚོགས་དང་དེབ་ཕྲེང་། | 采集 |</h3>
+<h3 id="compression">compression | རིགས་བསྡུས་ཚདགཞི། | 压缩 |</h3>
+<h3 id="copy">copy | ཕབ་བཤུས། | 复制 |</h3>
+<h3 id="dam-digital-archive-manager-dam">DAM, Digital Archive Manager | ཨང་བསྒྱུར་ཡིག་ཚགས་འགན་འཛིན། | DAM，数字化档案管理 |</h3>
+<h3 id="data">data | དན་གྲངས། | 数据 |</h3>
+<h3 id="digital-library">digital library | ཨན་ཅན་དཔེ་མཛོད། | 数字图书馆 |</h3>
+<h3 id="digital-text">digital text | གཏགས་མའི་ཡིག་ཆའམ་དཔེ་ཆ། | 数字文本 |</h3>
 <h3 id="digitization">数字化 ཨང་བསྒྱུར། digitization</h3>
 <p>ཨང་བསྒྱུར་ཟེར་བ་་་་་་་</p>
 <h3 id="dimension">dimension གསལ་ཚད། 尺寸</h3>
 <p>གསལ་ཚད་་་་་</p>
-<p>| DPE, | བཤེར་འབེབས་པ། | DPE， |
-| dpi | གསལ་ཆའི་ཚད་གཞི། | DPI |
-| DPM, | ཨང་བསྒྱུར་འགན་འཛིན། | DPM， |
-| encoding | ཡིག་གཟུགས་རིགས། | 编码 |
-| encodེe | ཨང་སྒྲིག | ENCODེè |
-| feature | རྣམ་པ། | 特征 |
-| file format | ཡིག་ཆའི་རིགས། | 文件格式 |
-| filename | ཡིག་ཆའི་མིང་། | 文件名 |
-| filepath | ཡིག་ཆའི་ཁུངས། | 文件路径 |
-| folder structure | ཡིག་སྣོད་མ་ལག | 文件夹结构 |
-| format | རྣམ་སྒྲིག | 格式 |
-| FR, | འབྲེལ་མཐུད་པ། | FR， |
-| hard-drive | སྲ་སྡེར། | 硬盘 |
-| height | མཐོ་དམའ། | 高度 |
-| image inspection checklist | སྤུས་ཚད་སྟངས་འཛིན་གྱི་ཟིན་བྲིས། | 影像检查清单 |
-| information | བརྡ་འཕྲིན། | 信息 |
-| input method | འཇུག་ཐབས། | 输入法 |
-| instal, download | ཕབ་ལེན། | INSTAL，下载 |
-| lossless | འགྱུར་བ་མེད་པ། | 无损 |
-| lossy | འགྱུར་བ། | 有损 |
-| metadata | དན་གྲངས་གོང་མ། | 元数据 |
-| mouse | ཙི་ཙི། ཙི་གུ། | 老鼠 |
-| orientation | པར་གྱི་རྣམ་པ། | 方向 |
-| output | ཕྱིར་གཏོང་། | 产量 |
-| overhead scanner | ལྟེབ་སྒྲིག་བཤེར་ཆས། | 型扫描仪 |
-| paper-feed scanner | ཁོང་འཇུག་བཤེར་ཆས། | 进纸扫描仪 |
-| pen-drive | མཐེབ་སྡེར། | 笔驱动 |
-| pixel | པིག་ཟེལ། | 像素 |
-| quality control | སྤུས་ཀ་སྟངས་འཛིན། | 品质管制 |
-| resolution | པར་གྱི་གསལ་ཆ། | 解析度 |
-| rgb | མདོག་རིགས། | RGB |
-| right click | གཡས་རྡེབ། གཡས་གནོན། | 右键点击 |
-| scan-request | དཔེ་བྱང་། | 扫描请求 |
-| scanned image/digital image | བཤེར་པར་རམ་ཡང་ན་དཔེ་པར། | 扫描的图像/数字图像 |
-| scanner | བཤེར་ཆས། | 扫描器 |
-| select | འདེམ་གསེས། | 选择 |
-| setting | སྒྲིག་འགོད། | 设置 |
-| shelving number, call number | དཔེ་སྒྲོམ་ཨང་། | 架子号，电话号码 |
-| software, program, apps | མཉེན་ཆས་སམ་སྙི་ཆས། | 软件，程序，应用程序 |
-| standard | ཚད་གཞི། | 标准 |
-| text | ཆོས་ཚན། | 文本 |
-| text number | ཆོས་ཚན་ཨང་། | 文号 |
-| volume | པོ་ཏི། | 卷 |
-| web image | དྲ་སྤེལ་དཔེ་པར་རམ་བཤེར་པར། | 网络图片 |
-| width | ཞིང་ཚད། | 宽度 |
-| work | བརྩམས་ཆོས། | 工作 |
-| work number | བརྩམས་ཆོས་ཨང་། | 工号 |
-| workflow | ལས་རིམ། | 工作流程 |
-| double click | ཉིས་རྡེབ། ལྡབ་གནོན། | 双击 |
-| pre-processing | སྔོན་འགྲོའི་བཟོ་སྣོན། | 预处理 |
-| post-processing | རྗེས་ཀྱི་བཟོ་སྣོན། | 后期处理 |
-| image processing | པར་བཟོ་སྣོན། བཤེར་པར་བཟོ་སྣོན། | 图像处理 |
-| input | ནང་འཇུག | 输入 |
-| preview | 预习 |
-| OCR | ཡིག་འཛིན། | OCR |
-| binary code | ཟུང་ལྡན་ཨང་བརྡ། | 二进制代码 |
-| bit-string | པེས་ཐི་ཨང་སྒྲིག | 位串 |
-| resize | བསྐྱར་སྒྲིག་ཚད་ཤིང་། | 调整 |
-| canva resize | ཕྱི་སྒྲོམ་ཚད་ཤིང་། | canva调整 |
-| visual review of thumbnail | དཔེ་སྟོན་འདྲ་རིས། | 缩略图的视觉回顾 |
-| visual evaluation | བཤེར་པར་དཔེ་སྟོན | 视觉评估 |</p>
+<h3 id="dpe-dpe">DPE, | བཤེར་འབེབས་པ། | DPE， |</h3>
+<h3 id="dpi-dpi">dpi | གསལ་ཆའི་ཚད་གཞི། | DPI |</h3>
+<h3 id="dpm-dpm">DPM, | ཨང་བསྒྱུར་འགན་འཛིན། | DPM， |</h3>
+<h3 id="encoding">encoding | ཡིག་གཟུགས་རིགས། | 编码 |</h3>
+<h3 id="encode-encode">encodེe | ཨང་སྒྲིག | ENCODེè |</h3>
+<h3 id="feature">feature | རྣམ་པ། | 特征 |</h3>
+<h3 id="file-format">file format | ཡིག་ཆའི་རིགས། | 文件格式 |</h3>
+<h3 id="filename">filename | ཡིག་ཆའི་མིང་། | 文件名 |</h3>
+<h3 id="filepath">filepath | ཡིག་ཆའི་ཁུངས། | 文件路径 |</h3>
+<h3 id="folder-structure">folder structure | ཡིག་སྣོད་མ་ལག | 文件夹结构 |</h3>
+<h3 id="format">format | རྣམ་སྒྲིག | 格式 |</h3>
+<h3 id="fr-fr">FR, | འབྲེལ་མཐུད་པ། | FR， |</h3>
+<h3 id="hard-drive">hard-drive | སྲ་སྡེར། | 硬盘 |</h3>
+<h3 id="height">height | མཐོ་དམའ། | 高度 |</h3>
+<h3 id="image-inspection-checklist">image inspection checklist | སྤུས་ཚད་སྟངས་འཛིན་གྱི་ཟིན་བྲིས། | 影像检查清单 |</h3>
+<h3 id="information">information | བརྡ་འཕྲིན། | 信息 |</h3>
+<h3 id="input-method">input method | འཇུག་ཐབས། | 输入法 |</h3>
+<h3 id="instal-download-instal">instal, download | ཕབ་ལེན། | INSTAL，下载 |</h3>
+<h3 id="lossless">lossless | འགྱུར་བ་མེད་པ། | 无损 |</h3>
+<h3 id="lossy">lossy | འགྱུར་བ། | 有损 |</h3>
+<h3 id="metadata">metadata | དན་གྲངས་གོང་མ། | 元数据 |</h3>
+<h3 id="mouse">mouse | ཙི་ཙི། ཙི་གུ། | 老鼠 |</h3>
+<h3 id="orientation">orientation | པར་གྱི་རྣམ་པ། | 方向 |</h3>
+<h3 id="output">output | ཕྱིར་གཏོང་། | 产量 |</h3>
+<h3 id="overhead-scanner">overhead scanner | ལྟེབ་སྒྲིག་བཤེར་ཆས། | 型扫描仪 |</h3>
+<h3 id="paper-feed-scanner">paper-feed scanner | ཁོང་འཇུག་བཤེར་ཆས། | 进纸扫描仪 |</h3>
+<h3 id="pen-drive">pen-drive | མཐེབ་སྡེར། | 笔驱动 |</h3>
+<h3 id="pixel">pixel | པིག་ཟེལ། | 像素 |</h3>
+<h3 id="quality-control">quality control | སྤུས་ཀ་སྟངས་འཛིན། | 品质管制 |</h3>
+<h3 id="resolution">resolution | པར་གྱི་གསལ་ཆ། | 解析度 |</h3>
+<h3 id="rgb-rgb">rgb | མདོག་རིགས། | RGB |</h3>
+<h3 id="right-click">right click | གཡས་རྡེབ། གཡས་གནོན། | 右键点击 |</h3>
+<h3 id="scan-request">scan-request | དཔེ་བྱང་། | 扫描请求 |</h3>
+<h3 id="scanned-imagedigital-image">scanned image/digital image | བཤེར་པར་རམ་ཡང་ན་དཔེ་པར། | 扫描的图像/数字图像 |</h3>
+<h3 id="scanner">scanner | བཤེར་ཆས། | 扫描器 |</h3>
+<h3 id="select">select | འདེམ་གསེས། | 选择 |</h3>
+<h3 id="setting">setting | སྒྲིག་འགོད། | 设置 |</h3>
+<h3 id="shelving-number-call-number">shelving number, call number | དཔེ་སྒྲོམ་ཨང་། | 架子号，电话号码 |</h3>
+<h3 id="software-program-apps">software, program, apps | མཉེན་ཆས་སམ་སྙི་ཆས། | 软件，程序，应用程序 |</h3>
+<h3 id="standard">standard | ཚད་གཞི། | 标准 |</h3>
+<h3 id="text">text | ཆོས་ཚན། | 文本 |</h3>
+<h3 id="text-number">text number | ཆོས་ཚན་ཨང་། | 文号 |</h3>
+<h3 id="volume">volume | པོ་ཏི། | 卷 |</h3>
+<h3 id="web-image">web image | དྲ་སྤེལ་དཔེ་པར་རམ་བཤེར་པར། | 网络图片 |</h3>
+<h3 id="width">width | ཞིང་ཚད། | 宽度 |</h3>
+<h3 id="work">work | བརྩམས་ཆོས། | 工作 |</h3>
+<h3 id="work-number">work number | བརྩམས་ཆོས་ཨང་། | 工号 |</h3>
+<h3 id="workflow">workflow | ལས་རིམ། | 工作流程 |</h3>
+<h3 id="double-click">double click | ཉིས་རྡེབ། ལྡབ་གནོན། | 双击 |</h3>
+<h3 id="pre-processing">pre-processing | སྔོན་འགྲོའི་བཟོ་སྣོན། | 预处理 |</h3>
+<h3 id="post-processing">post-processing | རྗེས་ཀྱི་བཟོ་སྣོན། | 后期处理 |</h3>
+<h3 id="image-processing">image processing | པར་བཟོ་སྣོན། བཤེར་པར་བཟོ་སྣོན། | 图像处理 |</h3>
+<h3 id="input">input | ནང་འཇུག | 输入 |</h3>
+<h3 id="preview">preview | 预习 |</h3>
+<h3 id="ocr-ocr">OCR | ཡིག་འཛིན། | OCR |</h3>
+<h3 id="binary-code">binary code | ཟུང་ལྡན་ཨང་བརྡ། | 二进制代码 |</h3>
+<h3 id="bit-string">bit-string | པེས་ཐི་ཨང་སྒྲིག | 位串 |</h3>
+<h3 id="resize">resize | བསྐྱར་སྒྲིག་ཚད་ཤིང་། | 调整 |</h3>
+<h3 id="canva-resize-canva">canva resize | ཕྱི་སྒྲོམ་ཚད་ཤིང་། | canva调整 |</h3>
+<h3 id="visual-review-of-thumbnail">visual review of thumbnail | དཔེ་སྟོན་འདྲ་རིས། | 缩略图的视觉回顾 |</h3>
+<h3 id="visual-evaluation">visual evaluation | བཤེར་པར་དཔེ་སྟོན | 视觉评估 |</h3>
 
   <br>
     
