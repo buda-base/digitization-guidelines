@@ -1,13 +1,13 @@
 
 ## 术语	    བོད་ཡིག་བརྡ་ཆས།	    Terminology
 
-## 登录号	མཁོ་སྒྲུབ་ཨང་།	  accession numbers
+## 登录号	 མཁོ་སྒྲུབ་ཨང་།	  accession numbers
 
 ## 其他数据	  ཟུར་སྦྱར་གནས་ཚུལ།	   additional data
 
 ## 档案	       ཡིག་ཚགས།	      archive
 
-## 归档图像	ཉར་ཚགས་དཔེ་པར་རམ་བཤེར་པར།	archiving image
+## 归档图像 	ཉར་ཚགས་དཔེ་པར་རམ་བཤེར་པར།	archiving image
 
 ## 基本标准	རྩ་བའི་ཚད་གཞི།	basic standard
 
