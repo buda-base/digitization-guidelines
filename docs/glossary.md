@@ -67,7 +67,7 @@
 
 ## 特征 	རྣམ་པ། 	feature
 
-## 文件格式	ཡིག་ཆའི་རིགས།	file format
+## 文件格式	ཡིག་ཆའི་རྣམ་སྒྲིག	file format
 
 ## 文件名	ཡིག་ཆའི་མིང་།	filename
 
@@ -176,4 +176,26 @@
 ## 缩略图的视觉回顾	དཔེ་སྟོན་འདྲ་རིས།	visual review of thumbnail
 
 ## 视觉评估	བཤེར་པར་དཔེ་སྟོན	visual evaluation 
+
+##文件扩展名	རྣམ་སྒྲིག་བྱང་བུ།	file extension
+
+##所有权	བདག་དབང་ཅན།	proprietary
+
+##比特串	པེས་ཐི་ཨང་སྒྲིག	bit-strings
+
+##英寸	ཨིན་ཅི	Inch 
+
+##数字对象	ཨང་ཅན་དངོས་པོ།	Digital object
+
+数字文件	ཨང་ཅན་ཡིག་ཆ། ཨང་བསྒྱུར་ཡིག་ཆ། 	digital file 																								
+
+
+
+
+
+
+
+
+
+
 
