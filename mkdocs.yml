@@ -73,6 +73,7 @@ pages:
 extra_css:
     - css/font-profile.css
     - css/style.css
+    - css/tooltip.css
 
 extra:
     history_buttons: true

@@ -8,9 +8,10 @@
 
 ## དྲ་ཚིགས་ངོ་སྤྲོད་མདོར་བསྡུས།
 
-སྐུ་ཉིད་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས་དང་བུདྡྷ་དཔེ་མཛོད་གཉིས་ཀྱི་ལས་གཞིའི་ཨང་བསྒྱུར་ལག་ལེན་མཛུབ་སྟོན་དང་རྩ་འཛིན་ལམ་སྟོན་བཅས་བལྟ་ཀློག་བྱེད་པར་དགའ་བསུ་ཞུ།
+སྐུ་ཉིད་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས་དང་བུདྡྷ་དཔེ་མཛོད་གཉིས་ཀྱི་ལས་གཞིའི་<span style="color:MediumSeaGreen", title="数字化, digitization">ཨང་བསྒྱུར་</span>ལག་ལེན་མཛུབ་སྟོན་དང་རྩ་འཛིན་ལམ་སྟོན་བཅས་བལྟ་ཀློག་བྱེད་པར་དགའ་བསུ་ཞུ།
 
-འདིར་ཁྱེད་ཀྱིས་ང་ཚོའི་ལས་འཆར་མཚམས་སྦྱོར་མདོར་བསྡུ་ཞིག་ལ་གཟིགས་ཐུབ། [ཨང་ཅན་དཔེ་མཛོད་དང་ཨང་བསྒྱུར།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/digitization/digitization-bo/) [བཤེར་པར་གྱི་སྤུས་ཀའི་ཚད་གཞི། ](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/standards/standards-bo/)[ལས་བྱེད་ཚོའི་ཆེད་དུ་ལས་གཞི་དང་འབེྲལ་བའི་ལས་ཀའི་གོ་རིམ།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/workflow/workflow-bo/) [ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས་ཀྱི་དངོས་རིགས་འདེམ་གསེས་ཀྱི་ངོ་སྤྲོད།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/selection/selection-bo/) [བཤེར་པར་གྱི་སྤུས་ཀ་སྟངས་འཛིན་ཐད་ཀྱི་རྩ་འཛིན་ལམ་སྟོན།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/qc/qc-bo/) [མཉེན་ཆས་འགའ་དང་སྲ་ཆས་འགའི་ལག་ལེན་གྱི་འཛུབ་སྟོན། ](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/bdrcapp/bdrcapp-bo/)[གསར་ཞུགས་ལས་བྱེད་ཚོར་ཚོད་ལྟའི་གོ་རྟོགས་འདྲི་ཞིབ](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/assessment/assessment-bo/)་དང་དེ་འབེྲལ་གྱི་གནད་དོན་གལ་ཆེན་ཁག་བཅས་སོ།།
+འདིར་ཁྱེད་ཀྱིས་ང་ཚོའི་ལས་འཆར་མཚམས་སྦྱོར་མདོར་བསྡུ་ཞིག་ལ་གཟིགས་ཐུབ། [ཨང་ཅན་དཔེ་མཛོད་དང་<span style="color:MediumSeaGreen", title="数字化, digitization">ཨང་བསྒྱུར</span>།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/digitization/digitization-bo/) [བཤེར་པར་གྱི་སྤུས་ཀའི་ཚད་གཞི། ](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/standards/standards-bo/)
+[ལས་བྱེད་ཚོའི་ཆེད་དུ་ལས་གཞི་དང་འབྲེལ་བའི་ལས་ཀའི་གོ་རིམ།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/workflow/workflow-bo/) [ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས་ཀྱི་དངོས་རིགས་འདེམ་གསེས་ཀྱི་ངོ་སྤྲོད།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/selection/selection-bo/) [བཤེར་པར་གྱི་སྤུས་ཀ་སྟངས་འཛིན་ཐད་ཀྱི་རྩ་འཛིན་ལམ་སྟོན།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/qc/qc-bo/) [མཉེན་ཆས་འགའ་དང་སྲ་ཆས་འགའི་ལག་ལེན་གྱི་འཛུབ་སྟོན། ](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/bdrcapp/bdrcapp-bo/)[གསར་ཞུགས་ལས་བྱེད་ཚོར་ཚོད་ལྟའི་གོ་རྟོགས་འདྲི་ཞིབ](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/assessment/assessment-bo/)་དང་དེ་འབྲེལ་གྱི་གནད་དོན་གལ་ཆེན་ཁག་བཅས་སོ།།
 
 དྲ་རྒྱ་འདི་ནི་ལས་བྱེད་ཚོར་འབྲེལ་ཡོད་དཔེ་ཆ་རྣམས་ངོས་འཛིན་བདེ་བ་དང་འཚོལ་ཞིབ་བདེ་བའི་ཕྱིར་བོད་ཡིག་དང་རྒྱ་ཡིག་ཨན་ཡིག་བཅས་སྐད་རིགས་གསུམ་གྱི་བདག་ཉིད་ཅན་ཞིག་ཡིན། དམིགས་བསལ་གྱིས་བོད་ཡིག་ནང་དྲ་རྒྱའི་ཆེད་ལས་ཐ་སྙད་ཏག་ཏག་མ་ཐོན་པ་དང་མེད་པ་ཁག་ཐད་ཀར་རྒྱ་ཡིག་དང་ཨན་ཡིག་གང་རུང་ནས་འཚོལ་ཐུབ་པའི་ཁྱད་ཆོས་ཕུན་སུམ་ཚོགས་པ་ཞིག་བསྐྲུན་པ་བཅས་ལགས་སོ།།
 
@@ -21,4 +22,18 @@ Welcome to the Digitization Tutorials and Guidelines for BDRC and the BUDA proje
 Here you'll find an introduction to [digital libraries and digitization](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/digitization/digitization-en/), the [image quality standards](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/standards/standards-en/) for the project, [suggested workflow](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/workflow/workflow-en/) for staff in the field, instructions on [selection of material](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/selection/selection-en/) for the BDRC collection, guidelines for [quality control of data](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/qc/qc-en/), various [software and hardware tutorials](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/bdrcapp/bdrcapp-en/), suggested [assessment tests](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/assessment/assessment-en/)for newly trained staff, and other awesome resources!
 
 The website is presented in 3 languages to allow staff to easily consult equivalent documents. This is especially useful in the case of Tibetan, where technical terms either aren't unified or don't exist, enabling staff to quickly refer to the English or Chinese.
+
+
+འདིའི་ཆེད་<span style="color:MediumSeaGreen", title="Keyboard, 键盘">མཐེབ་གཞོང་</span>སྟེང་ <kbd>Ctrl</kbd> + <kbd>Z</kbd> མཉམ་སྣུན་གྱིས་་་་
+
+<label for="username">Username</label>
+<input id="username" type="text" />
+
+
+
+<label for="showtimes">Showtimes</label>
+<select id="showtimes" name="showtimes"> <optgroup label="1PM"></optgroup> <option value="titanic">Twister</option> <option value="nd">Napoleon Dynamite</option> <option value="wab">What About Bob?</option> <optgroup label="2PM"></optgroup> <option value="bkrw">Be Kind Rewind</option> <option value="stf">Stranger Than Fiction</option> </select>
+
+
+
 
