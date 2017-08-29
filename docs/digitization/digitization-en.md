@@ -1,30 +1,4 @@
 ﻿
-**1. Selecting ****Digital**** Objects**
-
-First, new objects for the collection must be **selected**. One important way in which BDRC differs from other libraries is in **scope**. The potential acquisitions are thus generally **Buddhist** (or otherwise significant to a Buddhist culture) and **textual** in nature. In the past, this has meant Tibetan language texts specifically; that has expanded to include Pali, Sanskrit, and Chinese in addition to Tibetan. This expanded scope has prompted the change from TBRC (Tibetan Buddhist Resource Center) to BDRC (Buddhist Digital Resource Center). 
-
-Because most of the texts that fall within BDRC’s scope are non-digital texts that need to be scanned or otherwise imaged or inputted, BDRC outsources this digitization work to **Digital Acquisitions Freelancers**—DPEs in BDRC-speak—who are independent contractors who perform the digitization work. 
-
-These freelancers also assist in the selection process by making a list of those texts they have access to; the Digital Librarians then approve (or deny) those potential acquisitions by creating a scan request. The freelancers otherwise attempt to fill any of the Board of Advisors’ or Digital Librarians’ **standing orders** for important collections (what BDRC terms scan requests). 
-
-**2. Acquiring Digital Objects**
-
-As we already mentioned, digital collections require digital objects. For BDRC this means either: 1) finding digital images or texts that already exist, and meet quality control standards, or 2) finding analog sources and creating the digital version by scanning, taking pictures, or automated (OCR) or manual input. 
-
-In BDRC-speak, the** Digital ** **Acquisitions**** Manager** is called an FR—a "Field Representative." The** Digital Acquisitions Manager **is the person who manages digitization projects by coordinating staff and equipment resources and undertaking quality control to help ensure the acquisition process goes smoothly, and that the digital objects acquired are up to standard. 
-
-**3. Organizing Digital Objects**
-
-Once the digital objects have been acquired, they must be properly organized. This work includes naming, storing, cataloging, and classifying the objects, and is done by the **Digital Librarians**—simply "Librarians" in BDRC-speak—along with help from the information provided by what BDRC calls the “Bibliographical Information Sheet.” 
-
-**4. Circulating & Archiving Digital Objects**
-
-Digital objects, after having been organized, then branch into two streams—**circulation** and the **archives**. Archival Quality Objects are preserved in high-quality, while Web Quality Objects that are easier to access (by having quicker load speeds) are meant for circulation. With digital objects, this "circulation" of objects in the collection that are accessed by users is generally done non-locally (online rather than in-person). 
-
-**5. Maintaining & Providing Tech Support**
-
-The final step for digital objects in a digital collection is **maintaining** them, while providing customer service—user-end tech support—for people who access and use the collection. Maintaining a digital collection requires keeping the data safe, well-organized, and, occasionally, re-locating, re-organizing, or converting the digital objects into new formats (when an old format becomes outdated). Tech support includes website maintenance and design, along with direct contact with users to identify support issues or potential improvements. 
-
 ## **File Formats**
 
 Files on the computer come in many different **formats**. File formats are different ways of encoding bits to be read by software. Some file formats are "proprietary"—for use by specific, paid-for software. Others are “free,” and thus more widely accessible and more widely used. To keep data accessible and useful, it is best *not* to use proprietary file formats.
@@ -210,5 +184,29 @@ If we don’t follow these standards, we end up with digital images that are **u
 
 To learn more about *how* to make highly **usable** images that benefit the **community** the BDRC Digital Library serves, please continue to the next section:
 
+**1. Selecting ****Digital**** Objects**
 
+First, new objects for the collection must be **selected**. One important way in which BDRC differs from other libraries is in **scope**. The potential acquisitions are thus generally **Buddhist** (or otherwise significant to a Buddhist culture) and **textual** in nature. In the past, this has meant Tibetan language texts specifically; that has expanded to include Pali, Sanskrit, and Chinese in addition to Tibetan. This expanded scope has prompted the change from TBRC (Tibetan Buddhist Resource Center) to BDRC (Buddhist Digital Resource Center). 
+
+Because most of the texts that fall within BDRC’s scope are non-digital texts that need to be scanned or otherwise imaged or inputted, BDRC outsources this digitization work to **Digital Acquisitions Freelancers**—DPEs in BDRC-speak—who are independent contractors who perform the digitization work. 
+
+These freelancers also assist in the selection process by making a list of those texts they have access to; the Digital Librarians then approve (or deny) those potential acquisitions by creating a scan request. The freelancers otherwise attempt to fill any of the Board of Advisors’ or Digital Librarians’ **standing orders** for important collections (what BDRC terms scan requests). 
+
+**2. Acquiring Digital Objects**
+
+As we already mentioned, digital collections require digital objects. For BDRC this means either: 1) finding digital images or texts that already exist, and meet quality control standards, or 2) finding analog sources and creating the digital version by scanning, taking pictures, or automated (OCR) or manual input. 
+
+In BDRC-speak, the** Digital ****Acquisitions**** Manager** is called an FR—a "Field Representative." The** Digital Acquisitions Manager **is the person who manages digitization projects by coordinating staff and equipment resources and undertaking quality control to help ensure the acquisition process goes smoothly, and that the digital objects acquired are up to standard. 
+
+**3. Organizing Digital Objects**
+
+Once the digital objects have been acquired, they must be properly organized. This work includes naming, storing, cataloging, and classifying the objects, and is done by the **Digital Librarians**—simply "Librarians" in BDRC-speak—along with help from the information provided by what BDRC calls the “Bibliographical Information Sheet.” 
+
+**4. Circulating & Archiving Digital Objects**
+
+Digital objects, after having been organized, then branch into two streams—**circulation** and the **archives**. Archival Quality Objects are preserved in high-quality, while Web Quality Objects that are easier to access (by having quicker load speeds) are meant for circulation. With digital objects, this "circulation" of objects in the collection that are accessed by users is generally done non-locally (online rather than in-person). 
+
+**5. Maintaining & Providing Tech Support**
+
+The final step for digital objects in a digital collection is **maintaining** them, while providing customer service—user-end tech support—for people who access and use the collection. Maintaining a digital collection requires keeping the data safe, well-organized, and, occasionally, re-locating, re-organizing, or converting the digital objects into new formats (when an old format becomes outdated). Tech support includes website maintenance and design, along with direct contact with users to identify support issues or potential improvements. 
 

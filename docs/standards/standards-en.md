@@ -1,9 +1,9 @@
 
 ## Digitization Standards
 
-The BUDA project currently purchases Buddhist digital texts meeting the following requirements: 
+The **BUDA** project currently purchases Buddhist digital texts meeting the following requirements: 
 
-The images of a work are presented in two format: the archive images and the web images. The web images are derivated from the archive images and both sets of images are kept within a "work folder". Image names, cropping, and orientation should match in both image sets; whole file size, format, color depth, DPI and compression may be different. Check out the sample files here: [single volume](haha.jpg), [multiple volume](haha.jpg)).
+The images of a work are presented in two formats: 1) the archival images and 2) the web images. The web images are derived from the archival images, and both sets of images are kept within a "work folder". Image names, cropping, and orientation should match in both image sets; whole file size, format, color depth, DPI, and compression may be different. Check out the sample files here: [single volume](haha.jpg), [multiple volume](haha.jpg)).
 
 
 **Archive Image Requirements**
