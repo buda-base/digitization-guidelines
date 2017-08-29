@@ -86,8 +86,9 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 123
 1. The first is a technical inspection of the file assuring correct imaging parameters were used when imaging, and that the file is valid. The BDRC auditing tool should be used for this purpose.
 2. Image quality must then be visually inspected by a trained technician, using the following procedure:</p>
-<p>A visual review of thumbnails of all images should be done to assure completeness and consistency of the imaging. The initial review is followed by a detailed examination of a subset of the project. This visual evaluation of the images shall be conducted while viewing the images at a 1 to 1 pixel ratio or 100% magnification on the monitor.</p>
-<p>We recommend, at a minimum, 10 images or 10 % of each batch of digital images, whichever quantity is larger, should be inspected for compliance with the digital imaging specifications and for defects in the following areas:</p>
+<pre><code>A **visual review of thumbnails** of all images should be done to assure completeness and consistency of the imaging. The initial review is followed by a **detailed examination** of a subset of the project. This visual evaluation of the images shall be conducted while viewing the images at a 1-to-1 pixel ratio, or 100% magnification on the monitor.
+</code></pre>
+<p>We recommend, at a minimum, 10 images or 10% of each batch of digital images, whichever quantity is larger, should be inspected for compliance with the digital imaging specifications and for defects in the following areas:</p>
 <h2 id="originaldocument-related">Original/Document Related</h2>
 <ul>
 <li>Correct dimensions<ul>
@@ -98,12 +99,8 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 <li>Modern Book- portrait/vertical</li>
 </ul>
 </li>
-<li>
-<p>Pecha format- landscape/horizontal</p>
-</li>
-<li>
-<p>Proportions/Distortion</p>
-<ul>
+<li>Pecha format- landscape/horizontal</li>
+<li>Proportions/Distortion<ul>
 <li>Distortion of the aspect ratio</li>
 </ul>
 </li>
@@ -122,23 +119,23 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 </ul>
 <h2 id="file-related">File Related</h2>
 <ul>
-<li>Files open and display</li>
+<li>Files open and display properly</li>
 <li>Files are not combined in a PDF or a multiple pages TIF</li>
 <li>Proper format<ul>
-<li>archive images - JPEG 2000 (.j2k) </li>
+<li>archival images - JPEG 2000 (.j2k) </li>
+<li>web images - TIFF for text (.tif), JPEG for color images (.jpg)</li>
 </ul>
 </li>
-<li>web images - TIFF for text (.tif), JPEG for color images (.jpg)</li>
 <li>Compression<ul>
 <li>Wavelets for JPEG 2000</li>
 <li>G4 for TIF</li>
 </ul>
 </li>
 <li>Color mode<ul>
-<li>archive images - RGB</li>
+<li>archival images - RGB</li>
+<li>web images - Bitonal/B&amp;W for text, RGB for color images</li>
 </ul>
 </li>
-<li>web images - Bitonal/B&amp;W for text, RGB for color images</li>
 <li>Bit depth<ul>
 <li>24-bits for RGB</li>
 <li>1-bit for bitonal</li>
@@ -175,18 +172,14 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
     * Dust
     * Newton’s rings
 </em> Aimpoint variability
-<em> Detail
+* Detail
     * Loss of fine detail
-</em> Loss of texture</p>
-<ul>
-<li>Sharpness</li>
-<li>Flare</li>
-<li>Tone<ul>
-<li>Brightness</li>
-</ul>
-</li>
-<li>Contrast</li>
-</ul>
+    * Loss of texture
+    * Sharpness
+    * Flare
+    * Tone
+        * Brightness
+        * Contrast</p>
 
   <br>
     
