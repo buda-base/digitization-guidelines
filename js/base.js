@@ -29,13 +29,6 @@ function startsWith(str, prefix) { return str.lastIndexOf(prefix, 0) === 0; }
 function endsWith(str, suffix) { return str.indexOf(suffix, str.length - suffix.length) !== -1; }
 
 /**
- * Returns whether to use small-screen mode. Note that the same size is used in css @media block.
- */
-function isSmallScreen() {
-  return window.matchMedia("(max-width: 600px)").matches;
-}
-
-/**
  * Given a relative URL, returns the absolute one, relying on the browser to convert it.
  */
 function qualifyUrl(url) {
@@ -78,10 +71,10 @@ function updateIframe(enableForwardNav) {
     currentIframeUrl === targetIframeUrl ? "same" : "replacing");
 
   if (currentIframeUrl !== targetIframeUrl) {
+    $(window).scrollTop(0);
     loc.replace(targetIframeUrl);
     onIframeBeforeLoad(targetIframeUrl);
   }
-  document.body.scrollTop = 0;
 }
 
 /**
@@ -114,7 +107,7 @@ function getParam(key) {
  */
 function updateTocButtonState() {
   var shown;
-  if (isSmallScreen()) {
+  if (window.matchMedia("(max-width: 600px)").matches) {
     shown = $('.wm-toc-pane').hasClass('wm-toc-dropdown');
   } else {
     shown = !$('#main-content').hasClass('wm-toc-hidden');
@@ -127,12 +120,11 @@ function updateTocButtonState() {
  * contents, so that the page scrolls as a whole rather than inside the iframe.
  */
 function updateContentHeight() {
-  if (isSmallScreen()) {
+  console.log("updateContentHeight");
+  if (window.matchMedia("(max-width: 600px)").matches) {
     $('.wm-content-pane').height(iframeWindow.document.body.offsetHeight + 20);
-    $('.wm-article').attr('scrolling', 'no');
   } else {
     $('.wm-content-pane').height('');
-    $('.wm-article').attr('scrolling', 'auto');
   }
 }
 
@@ -192,7 +184,7 @@ function initMainWindow() {
   // wm-toc-button either opens the table of contents in the side-pane, or (on smaller screens)
   // shows the side-pane as a drop-down.
   $('#wm-toc-button').on('click', function(e) {
-    if (isSmallScreen()) {
+    if (window.matchMedia("(max-width: 600px)").matches) {
       $('.wm-toc-pane').toggleClass('wm-toc-dropdown');
       $('#wm-main-content').removeClass('wm-toc-hidden');
     } else {
@@ -252,8 +244,7 @@ function initMainWindow() {
 
   // Load the iframe now, and whenever we navigate the top frame.
   setTimeout(function() { updateIframe(false); }, 0);
-  // For our usage, 'popstate' or 'hashchange' would work, but only 'hashchange' work on IE.
-  $(window).on('hashchange', function() { updateIframe(true); });
+  $(window).on('popstate', function() { updateIframe(true); });
 }
 
 function onIframeBeforeLoad(url) {
@@ -356,9 +347,7 @@ if (is_top_frame) {
 
   // Other initialization of iframe contents.
   hljs.initHighlightingOnLoad();
-  $(document).ready(function() {
-    $('table').addClass('table table-striped table-hover table-bordered table-condensed');
-  });
+  $('table').addClass('table table-striped table-hover');
 }
 
 
@@ -455,7 +444,7 @@ function initSearch() {
   });
 
   $('#wm-search-show,#wm-search-go').on('click', function(e) {
-    if (isSmallScreen()) {
+    if (window.matchMedia("(max-width: 600px)").matches) {
       e.preventDefault();
       var el = $('#mkdocs-search-query').closest('.wm-top-tool')
       el.toggleClass('wm-top-tool-expanded');
