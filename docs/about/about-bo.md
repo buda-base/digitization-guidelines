@@ -1,9 +1,9 @@
 
 **བུདྡྷ། ཀུན་འདུས་ནང་བསྟན་དྲ་ཐོག་དཔེ་མཛོད།**
 
-[https://vimeo.com/198716884]([/img/xn/logo.jpg](../img/xn/logo.jpg))
-
-[/img/xn/100.PNG](../img/100.PNG)
+<a href="https://vimeo.com/198716884
+" target="_blank"><img src="https://github.com/arapatsa/acquisitions/blob/master/docs/images/play.png?raw=true" 
+alt="PW: BDRC108" /></a>
 
 **(BUDA)(Buddhist Universal Digital Archive)**
 
