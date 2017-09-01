@@ -206,7 +206,7 @@
 </table>
 
 
-འདིར་མདོར་བསྡུས་ནས་བཤད་ན་ "ppi"-ནི་[བཤེར་པར]((https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/glossary/#scanned-imagedigital-image)་འཆར་སྟོན་སྐབས་[ཨིན་ཅི](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/glossary/#inch)་རེ་རེའི་ནང་གི་པིག་ཟེལ་ག་ཚོད་ཡོད་མེད་དང་འབྲེལ་བ་ཡོད་ལ། “dpi”-ནི་བཤེར་འབེབས་བཏང་བའི་དཔེ་ཆའི་ངོས་ཀྱི་[ཨིན་ཅི](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/glossary/#inch)་རེ་རེའི་ནང་གི་ཀོར་ཐིག་དང་འབྲེལ་བ་ཡོད་པ་རེད། གང་ལྟར་བརྡ་ཆད་དེ་དག་ཕན་ཚུན་འགྱུར་རུང་བའི་རང་བཞིན་ཞིག་ཡིན་ཕྱིན། ppi དང་dpi གང་ཡིན་རུང་ནང་དོན་གཅིག་ཡིན་ཞེས་བརྗོད་ཆོག འདིར་ང་ཚོས་[པིག་ཟེལ](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/glossary/#pixel)་སྒྲིག་འགོད་མ་འདྲ་བ་སྣ་ཚོགས་ནང་བཤེར་འབེབས་བྱས་པའི་བཤེར་པར་འགའ་གཤིབ་བསྡུར་ཞིག་བྱེད། 
+འདིར་མདོར་བསྡུས་ནས་བཤད་ན་ "ppi"-ནི་[བཤེར་པར](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/glossary/#scanned-imagedigital-image)་འཆར་སྟོན་སྐབས་[ཨིན་ཅི](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/glossary/#inch)་རེ་རེའི་ནང་གི་པིག་ཟེལ་ག་ཚོད་ཡོད་མེད་དང་འབྲེལ་བ་ཡོད་ལ། “dpi”-ནི་བཤེར་འབེབས་བཏང་བའི་དཔེ་ཆའི་ངོས་ཀྱི་[ཨིན་ཅི](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/glossary/#inch)་རེ་རེའི་ནང་གི་ཀོར་ཐིག་དང་འབྲེལ་བ་ཡོད་པ་རེད། གང་ལྟར་བརྡ་ཆད་དེ་དག་ཕན་ཚུན་འགྱུར་རུང་བའི་རང་བཞིན་ཞིག་ཡིན་ཕྱིན། ppi དང་dpi གང་ཡིན་རུང་ནང་དོན་གཅིག་ཡིན་ཞེས་བརྗོད་ཆོག འདིར་ང་ཚོས་[པིག་ཟེལ](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/glossary/#pixel)་སྒྲིག་འགོད་མ་འདྲ་བ་སྣ་ཚོགས་ནང་བཤེར་འབེབས་བྱས་པའི་བཤེར་པར་འགའ་གཤིབ་བསྡུར་ཞིག་བྱེད། 
 
 | ཨིན་ཅི་རེ་རེའི་ནང་པིག་ཟེལ150 | ཨིན་ཅི་རེ་རེའི་ནང་པིག་ཟེལ།300 | ཨིན་ཅི་རེ་རེའི་ནང་པིག་ཟེལ། 600 |
 | --- | --- | --- | 
