@@ -1,0 +1,199 @@
+﻿
+## 1) Fujitsu Fi-7160
+
+As aforementioned, BDRC works together alongside Harvard University for storing and archiving digital works. 
+
+# **Downloading Scanning Software**
+
+There are many kinds of scanners; You can read more about scanners 
+
+[here](http://www.fujitsu.com/cn/services/)
+
+In this guide, we’ll talk about two kinds of scanners from Fujitsu (fi-71600 that we like for BDRC work. These are: 
+
+![image alt text](../img/image_0000.png)
+
+Digitizing with either of these scanners requires installing some specialized software on your computer
+
+There are two possibilities for installing this software: you can directly the softwares from the link bellow. Here you have to install three different drivers as the picture bellow.
+
+![image alt text](../img/xn/image_aa.PNG) 
+
+[TWAIN,ISIS,ScandALL PRO](https://github.com/BuddhistDigitalResourceCenter/digitization-guidelines/releases/tag/fi-7160)
+
+![image alt text](../img/image_22.png)
+
+**Creating New Folders**
+
+If you’re about to scan, you’ll first want to make folders to hold the new files. The process is as follows (in the example screenshots):  
+
+![image alt text](../img/image_23.png)
+
+First, navigate to the folder where you’d like to put your new folders. (In this example, we’re putting our new folders directly on the desktop). Right-click and select "New Folder" (F). A new folder will appear, with its new name highlighted, ready to be changed. Name the folder.  
+
+![image alt text](../img/image_24.png)
+
+Here, we’ve followed the process twice, creating two new folders on our desktop. We’ve named them "AA-150" and “AA-400.” Create a new folder for each work that you are planning on scanning. Name them according to BDRC convention.  
+
+# **3. Scanning (fi-7160)**
+
+First, make sure you’ve installed the 2 drivers (TWAIN and ISIS) and set up the scanning software (ScandALL PRO). After that, you should’ve also created the new folders where you’ll be organizing your scanned images. 
+
+![image alt text](../img/image_25.png)
+
+![image alt text](../img/image_26.png)
+
+Make sure your scanner is plugged in and turned on. Now you’re ready to begin scanning. Open ScandALL PRO by double-clicking the icon (there should be a shortcut on your desktop). Next, select the "Scanner Settings" icon (in red); or, find it under “Scan” in the menu options (also shortcut **ctrl+n**). 
+
+![image alt text](../img/image_27.png)
+
+The first option points to the output folder; select the folder you created in the previous step by clicking the top right button (red box "1"). Navigate to the folder you created for the work you’re scanning (red box “2”). Then, hit “okay” (red box “3”). 
+
+![image alt text](../img/image_28.png)
+
+The second option sets the starting page number of the work you’ll be scanning (here, we’ve set it to 0001). By clicking on the button (red box "2"), you’ll be able to set the progression of image numbering (see example screenshots). In the screenshot above, our red arrows point out where you can set the naming convention of scanned images, which can be given page numbers and/or dates. For BDRC use, we’ll only need page numbers. Set (H) to 1 (red “1”), (P) to 1 (red “2”), and select (Y) of the two options (red “3”). Then, hit “Okay.” 
+
+![image alt text](../img/image_29.png)
+
+The third option sets the image quality. To meet BDRC standards, this setting **must** be JPEG 2000 (.j2k). In the fourth option, select () that we’ve highlighted here (outlined in red). 
+
+![image alt text](../img/image_30.png)
+
+ Then, click on the button (G) in the lower left-hand corner. This will open the TWAIN Driver settings menu. 
+
+![image alt text](../img/image_31.png)
+
+From the drop-down menu, select () (outlined here in red). In the upper, right-hand corner, you’ll see a double-arrow icon (outlined here in red). Click on it. This will reveal detailed menu options for the TWAIN Driver Settings.
+
+![image alt text](../img/image_32.png)
+
+**TWAIN Driver Settings:** 
+
+1. () Basic Settings
+
+    1. Image Mode = **Color**
+
+    2. Paper Source = **Feeder (Both Sides) **
+
+    3. Resolution = **400 dpi** 
+
+    4. Paper Size = **Physical Measurement** 
+
+    5. *Default (off) *
+
+    6. *Default (off) *
+
+2. Image = **Default Settings ** 
+
+3. Page 
+
+    7. *Default (?)*
+
+    8. *Default (?) *
+
+    9. Rotation = **90 for ****_pechas_****, 180 for books** 
+
+    10. Edge Detection??? = **Disabled **(??)
+
+4. Paper Feeding = *default*
+
+5. Batch 
+
+    11.  = **Disabled **(??)
+
+6. Endorser 
+
+    12.  = **Disabled **(??)
+
+7. Output
+
+    13. **JPG Compression = 6**
+
+8. About 
+
+## **2sic Settings** 
+
+**1.a)** **Image Mode**
+
+Above is a screenshot of the Driver menu options. In the first menu (outlined in red), make sure you choose "Color" as the color setting (also outlined in red) in the first menu.  
+
+![image alt text](../img/image_33.png)
+
+**1.b) Paper Source**
+
+After color setting is the paper source settings; select (??) for double-sided works coming through the feeder. 
+
+![image alt text](../img/image_34.png)
+
+**1.c) Resolution**
+
+Following page settings are resolution settings; you **must** select 400 dpi (or higher) to meet BDRC standards. 
+
+**1.d) Paper Size**
+
+Next, you’ll need to set the page size. 
+
+![image alt text](../img/image_35.png)
+
+![image alt text](../img/image_36.png)
+
+Our example Tibetan text measures 98mm high x 353mm wide (see screenshot settings); you’ll need to measure the physical dimensions of the text you’re scanning, and set these dimensions manually here. Measuring the text is extremely important. You **must** do this for each text you scan, or the digital images may be cut off at the edges or contain extra blank space. Above is a screenshot of how to measure your text. 
+
+**#.#) **
+
+The setting for ??? should be "Automatic" (??); the rest can be set to “Disabled” (??). 
+
+![image alt text](../img/image_37.png)
+
+**3.c) Rotation?**** **
+
+If your Tibetan work is a traditional "*poti*"-style text, you’ll want to select a 90 degree rotation. If it’s a modern book, 180 degrees (and ?) is the better option. (See screenshot).  
+
+![image alt text](../img/image_38.png)
+
+![image alt text](../img/image_39.png)
+
+**3.d) Edge Detection? **
+
+Disable (??) edge detection?—otherwise you’ll get unwanted empty space in the margins.
+
+![image alt text](../img/image_40.png)
+
+**5.a-e)** **????**
+
+Disable (??) everything in ????. 
+
+![image alt text](../img/image_41.png)
+
+**6****.a)** **????**
+
+Disable (??) ????.  
+
+![image alt text](../img/image_42.png)
+
+**7.a) JPG Compression**
+
+Finally, set the JPG compression to "6". All the other settings you may leave on “Default;” make sure you use these settings any time you scan for BDRC. Remember to check them each time—be especially careful to update the “Measurement” section with each scan! 
+
+![image alt text](../img/image_43.png)
+
+![image alt text](../img/image_44.png)
+
+Above is a picture of the Fi-7160 scanner with a Tibetan text ready to scan; after you’ve carefully set the settings, you should be ready with a similar setup.  
+
+![image alt text](../img/image_45.png)
+
+You have now: 1) Created a new folder for the Work; 2) Set the software and driver settings for the Work; and 3) Physically put the Work in the scanner. You’re now prepared to scan. 
+
+Scan by clicking on the "Scan" icon (outlined in red)—or, select “Scan” from the “Scan” option in the main menu. Make sure your settings are selected and hit “Scan??? Okay???” () to begin scanning. 
+
+![image alt text](../img/image_46.png)
+
+ During the scanning process, you should see the scanning software begin populating with the digital images of the text. 
+
+After the scanner has finished scanning the text, the digital images can be found in the folder you created (in Step 1) and designated to hold the images (in Step 2). 
+
+![image alt text](../img/image_47.png)
+
+It’s best to open the images in a piece of software called [XnView](http://www.xnview.com/); we describe how to use XnView here (insert link).
+

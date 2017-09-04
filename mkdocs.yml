@@ -36,6 +36,11 @@ pages:
   - BDRC Lib བཀོལ་སྟངས།: bdrcapp/bdrcapp-bo.md
   - BDRC Lib Manual: bdrcapp/bdrcapp-en.md
 
+- Fujitsu fi-6130z:
+  - fi-6130z 用户手册: fi6130z/fi6130z-cn.md
+  - fi-6130z བཀོལ་སྟངས།: fi6130z/fi6130z-bo.md
+  - fi-6130z Manual: fi6130z/fi6130z-en.md
+  
 - Fujitsu fi-7160:
   - fi-7160 用户手册: fi7160/fi7160-cn.md
   - fi-7160 བཀོལ་སྟངས།: fi7160/fi7160-bo.md
@@ -66,8 +71,8 @@ pages:
   -  ངེད་ཀྱི་སྐོར།: about/about-bo.md
   - About us: about/about-en.md
 
-- 资源 ཉེར་མཁོ། Resources: resources.md
 - 词汇表 མིང་མཛོད། Glossary: glossary.md
+- 资源 ཉེར་མཁོ། Resources: resources.md
 
 
 extra_css:
@@ -76,7 +81,4 @@ extra_css:
     - css/tooltip.css
 
 extra:
-    history_buttons: true
     logo: 'img/bdrc-white.png'
-
-
