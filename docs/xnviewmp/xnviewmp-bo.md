@@ -1,8 +1,6 @@
 
 #XNView MP བཀོལ་སྟངས།
 
-![/img/xn/logo.jpg](../img/xn/logo.jpg)
-
 1. [སྔོན་འགྲོའི་སྙི་ཆས་ཕབ་ལེན།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/xnviewmp/xnviewmp-bo/#_1)
 2. [པར་སྣོད་དང་མཁོ་སྒྲུབ་ཨང་།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/xnviewmp/xnviewmp-bo/#_2)
 3. [བཤེར་པར་ངོ་བཤུས་བྱེད་ཚུལ།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/xnviewmp/xnviewmp-bo/#_3)
@@ -24,9 +22,9 @@
 
 བཤེར་པར་ཞིབ་འཇུག་གི་མགོ་གཞུག་ཀུན་ཏུ་XNView སྙི་ཆས་འདི་བཀོལ་དགོས་པས། དང་པོ་སྙི་ཆས་དེ་འདི་ནས་ཕབ་ལེན་བྱེད་དགོས། 
 
-| སྒེའུ་ཁུང་ཅན་གྱི་གློག་ཀླད་ནང་དང་པོ་གཉིས་ཀྱི་གང་རུང་ཕབ་ལེན་བྱོས། | ཀུ་ཤུ་རྟགས་ཅན་ནང་མཐའ་མ་དེ་ཕབ་ལེན་བྱེད་དགོས། |
+| དང་པོ་གཉིས་སྒེའུ་ཁུང་རྟགས་ཅན་གྱི་ཆེད་དང་ཐ་མ་དེ་ཀུ་ཤུ་རྟགས་ཅན། | མཚོན་རྟགས། |
 | --- | --- |
-| <a href="http://download.xnview.com/XnViewMP-win.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> Setup win 32bit </button></a> <a href="http://download.xnview.com/XnViewMP-win-x64.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> Setup win 64bit </button></a> | <a href="http://download.xnview.com/XnViewMP-mac.dmg"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> OSX DMG 64bit </button></a> | 
+| <a href="http://download.xnview.com/XnViewMP-win.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> Setup win 32bit </button></a> <a href="http://download.xnview.com/XnViewMP-win-x64.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> Setup win 64bit </button></a>    <a href="http://download.xnview.com/XnViewMP-mac.dmg"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i> OSX DMG 64bit </button></a> | ![/img/xn/logo.jpg](../img/xn/logo1.jpg) |
 
 
 ##༢ པར་སྣོད་དང་མཁོ་སྒྲུབ་ཨང་།
