@@ -6,7 +6,7 @@ The inspection of image files is done in the same way for QC1, QC2, and QA (Qual
 1. The first is a technical inspection of the file assuring correct imaging parameters were used when imaging, and that the file is valid. The BDRC auditing tool should be used for this purpose.
 2. Image quality must then be visually inspected by a trained technician, using the following procedure:
 
-    A **visual review of thumbnails** of all images should be done to assure completeness and consistency of the imaging. The initial review is followed by a **detailed examination** of a subset of the project. This visual evaluation of the images shall be conducted while viewing the images at a 1-to-1 pixel ratio, or 100% magnification on the monitor.
+**visual review of thumbnails** of all images should be done to assure completeness and consistency of the imaging. The initial review is followed by a **detailed examination** of a subset of the project. This visual evaluation of the images shall be conducted while viewing the images at a 1-to-1 pixel ratio, or 100% magnification on the monitor.
 
 We recommend, at a minimum, 10 images or 10% of each batch of digital images, whichever quantity is larger, should be inspected for compliance with the digital imaging specifications and for defects in the following areas:
 
