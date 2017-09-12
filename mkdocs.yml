@@ -1,5 +1,5 @@
-site_name: '数字化 · ཨང་བསྒྱུར། · Digitization'
-site_description: '数字化指南 ཨང་བསྒྱུར་ལམ་སྟོན། Digitization Guidelines'
+site_name: '数字化_ཨང་བསྒྱུར།_Digitization.'
+site_description: '数字化指南_ཨང་བསྒྱུར་ལམ་སྟོན།_Digitization Guidelines.'
 
 theme: windmill
 
@@ -42,9 +42,9 @@ pages:
   - fi-6130z Manual: fi6130z/fi6130z-en.md
   
 - Fujitsu fi-7160:
-  - fi-7160 用户手册: fi7160/fi7160-cn.md
-  - fi-7160 བཀོལ་སྟངས།: fi7160/fi7160-bo.md
-  - fi-7160 Manual: fi7160/fi7160-en.md
+  - fi_7160 用户手册: fi7160/fi7160-cn.md
+  - fi_7160 བཀོལ་སྟངས།: fi7160/fi7160-bo.md
+  - fi_7160 Manual: fi7160/fi7160-en.md
 
 - ScanSnap SV600:
   - ScanSnap SV600 手册: sv600/sv600-cn.md
@@ -53,7 +53,12 @@ pages:
 
 - XNView MP:
   - XNView MP 用户手册: xnviewmp/xnviewmp-cn.md
-  - XNView MP བཀོལ་སྟངས།: xnviewmp/xnviewmp-bo.md
+  - XNView MP བཀོལ་སྟངས།: 
+    - ལས་རིམ་དཀར་ཆག: xnviewmp/ལས་རིམ་དཀར་ཆག.md
+    - གྲ་སྒྲིག་བྱེད་དགོས་པ་ཁག: xnviewmp/གྲ་སྒྲིག་བྱེད་དགོས་པ་ཁག.md
+    - ཉར་ཚགས་པར་སྣོད་བཟོ་སྟངས།: xnviewmp/ཉར་ཚགས་པར་སྣོད་བཟོ་སྟངས།.md
+    - དྲ་སྤེལ་པར་སྣོད་སྒྲིག་ཚུལ།: xnviewmp/དྲ་སྤེལ་པར་སྣོད་སྒྲིག་ཚུལ།.md
+    - སྙི་ཆས་བསྐྱར་སྒྲིག་བྱེད་སྟངས།: xnviewmp/སྙི་ཆས་བསྐྱར་སྒྲིག་བྱེད་སྟངས།.md
   - XNView MP Manual: xnviewmp/xnviewmp-en.md
 
 - ScanTailor:
