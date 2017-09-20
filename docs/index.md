@@ -9,7 +9,7 @@
 
 ## དྲ་ཚིགས་ངོ་སྤྲོད་མདོར་བསྡུས།
 
-སྐུ་ཉིད་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས་དང་བུདྡྷ་དཔེ་མཛོད་གཉིས་ཀྱི་ལས་གཞིའི་ཨང་བསྒྱུར་ལག་ལེན་མཛུབ་སྟོན་དང་རྩ་འཛིན་ལམ་སྟོན་བཅས་བལྟ་ཀློག་བྱེད་པར་དགའ་བསུ་ཞུ།
+སྐུ་ཉིད་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས་དང་བུདྡྷ་དཔེ་མཛོད་གཉིས་ཀྱི་ལས་གཞིའི་ཨང་བསྒྱུར་ལག་ལེན་མཛུབ་སྟོན་དང་རྩ་འཛིན་ལམ་སྟོན་བཅས་བལྟ་ཀློག་བྱེད་པར་དགའ་བསུ་ཞུ། ངེས་དགོས་པ་ཞིག དྲ་རྒྱ་འདིའི་ནང་གི་དམིགས་བསལ་བརྡ་ཆད་ཁག་དེའི་འགྲེལ་བཤད་དང་ཐད་ཀར་སྦྲེལ་བཞག་ཡོད་སྟབས། སྔོ་རྟགས་ནང་ཡོད་པའི་ཐ་སྙད་རེ་རེའི་སྟེང་ནོན་དང་དེའི་ནང་དོན་གཟིགས་ཐུབ་པ་ཡིན།
 
 འདི་ནས་ཁྱེད་ཀྱིས་ང་ཚོའི་ལས་འཆར་མཚམས་སྦྱོར་མདོར་བསྡུ་ཞིག་ལ་གཟིགས་ཐུབ། [ཨང་ཅན་དཔེ་མཛོད་དང་ཨང་བསྒྱུར།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/digitization/digitization-bo/) [བཤེར་པར་གྱི་སྤུས་ཀའི་ཚད་གཞི། ](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/standards/standards-bo/)[ལས་བྱེད་ཚོའི་ཆེད་དུ་ལས་གཞི་དང་འབྲེལ་བའི་ལས་ཀའི་གོ་རིམ།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/workflow/workflow-bo/) [ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས་ཀྱི་དངོས་རིགས་འདེམ་གསེས་ཀྱི་ངོ་སྤྲོད།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/selection/selection-bo/) [བཤེར་པར་གྱི་སྤུས་ཀ་སྟངས་འཛིན་ཐད་ཀྱི་རྩ་འཛིན་ལམ་སྟོན།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/qc/qc-bo/) [མཉེན་ཆས་འགའ་དང་སྲ་ཆས་འགའི་ལག་ལེན་གྱི་འཛུབ་སྟོན། ](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/bdrcapp/bdrcapp-bo/)[གསར་ཞུགས་ལས་བྱེད་ཚོར་ཚོད་ལྟའི་གོ་རྟོགས་འདྲི་ཞིབ](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/assessment/assessment-bo/)་དང་དེ་འབྲེལ་གྱི་གནད་དོན་གལ་ཆེན་ཁག་བཅས་སོ།།
 
