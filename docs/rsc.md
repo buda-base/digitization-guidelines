@@ -3,6 +3,11 @@
 <a href="https://github.com/BuddhistDigitalResourceCenter/digitization-guidelines/releases/download/fi-7160/PSIPISIS-LX5-1_42_0c.exe"><button type="button" class="btn btn-success"><i class="fa fa-cloud-download"></i>  Fujitsu ISIS </button></a>
 
 
+This is for that pictures put on left side of screen
+<a href="https://explosion.ai"><img src="https://explosion.ai/assets/img/logo.svg" width="125" height="125" align="right" /></a>
+
+
+
 
 # Keyboard
 འདིའི་ཆེད་ཐེབས་གཞོང་སྟེང་ <kbd>Ctrl</kbd> + <kbd>Z</kbd> མཉམ་སྣུན་གྱིས་་་་
