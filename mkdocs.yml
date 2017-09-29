@@ -54,11 +54,10 @@ pages:
 - XNView MP:
   - XNView MP 用户手册: xnviewmp/xnviewmp-cn.md
   - XNView MP བཀོལ་སྟངས།: 
-    - ལས་རིམ་དཀར་ཆག: xnviewmp/ལས་རིམ་དཀར་ཆག.md
-    - གྲ་སྒྲིག་བྱེད་དགོས་པ་ཁག: xnviewmp/གྲ་སྒྲིག་བྱེད་དགོས་པ་ཁག.md
-    - ཉར་ཚགས་པར་སྣོད་བཟོ་སྟངས།: xnviewmp/ཉར་ཚགས་པར་སྣོད་བཟོ་སྟངས།.md
-    - དྲ་སྤེལ་པར་སྣོད་སྒྲིག་ཚུལ།: xnviewmp/དྲ་སྤེལ་པར་སྣོད་སྒྲིག་ཚུལ།.md
-    - སྙི་ཆས་བསྐྱར་སྒྲིག་བྱེད་སྟངས།: xnviewmp/སྙི་ཆས་བསྐྱར་སྒྲིག་བྱེད་སྟངས།.md
+    - གྲ་སྒྲིག་བྱེད་དགོས་པ་ཁག: xnviewmp/preparation.md
+    - ཉར་ཚགས་པར་སྣོད་བཟོ་སྟངས།: xnviewmp/archive.md
+    - དྲ་སྤེལ་པར་སྣོད་སྒྲིག་ཚུལ།: xnviewmp/image.md
+    - སྙི་ཆས་བསྐྱར་སྒྲིག་བྱེད་སྟངས།: xnviewmp/reset.md
   - XNView MP Manual: xnviewmp/xnviewmp-en.md
 
 - ScanTailor:

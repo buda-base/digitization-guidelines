@@ -1,13 +1,13 @@
 
 ##གྲ་སྒྲིག་བྱེད་དགོས་པ་ཁག
 
-༡ [སྔོན་འགྲོའི་སྙི་ཆས་ཕབ་ལེན།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/xnviewmp/xnviewmp-bo/#_༡)
+༡ [སྙི་ཆས་ཕབ་ལེན།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/xnviewmp/preparation/#_2)
 
-༢ [པར་སྣོད་དང་མཁོ་སྒྲུབ་ཨང་།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/xnviewmp/xnviewmp-bo/#_༢)
+༢ [པར་སྣོད་དང་མཁོ་སྒྲུབ་ཨང་།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/xnviewmp/preparation/#_3)
 
-༣ [བཤེར་པར་ངོ་བཤུས་བྱེད་ཚུལ།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/xnviewmp/xnviewmp-bo/#_༣)
+༣ [བཤེར་པར་ངོ་བཤུས་བྱེད་ཚུལ།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/xnviewmp/preparation/#_4)
 
-༤ [预览 ནང་གི་ཚོན་མདོག་བརྗེ་སྟངས།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/xnviewmp/xnviewmp-bo/#_༤) (批量转换-设置-预览背景色-pick a screen color-选颜色-ok)
+༤ [预览 ནང་གི་ཚོན་མདོག་བརྗེ་སྟངས།](https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/xnviewmp/preparation/#_5) (批量转换-设置-预览背景色-pick a screen color-选颜色-ok)
 
 <br>
 
@@ -49,8 +49,8 @@
 
 ##༤ 预览 ནང་གི་ཚོན་མདོག་བརྗེ་སྟངས།
 
-<span style="color:#2196f3">(批量转换-设置-预览背景色-pick a screen color-选颜色-ok)</span>
+<span style="color:green">(批量转换-设置-预览背景色-pick a screen color-选颜色-ok)</span>
 
-འདིའི་ནང་གི་ཚོན་མདོག་ནི་དཔེ་ཆའི་ཤོག་ངོས་དང་འཚམ་མིན་གྱི་ཁྱད་པར་ཡོད་སྟབས་ཚོན་མདོག་རན་པོ་ཞིག་འདེམ་རྒྱུ་གལ་ཆེན་ཡིན།
+འདིའི་ནང་གི་ཚོན་མདོག་ནི་དཔེ་ཆའི་ཤོག་ངོས་དང་འཚམ་མིན་གྱི་ཁྱད་པར་ཡོད་སྟབས་འདིའི་རྒྱབ་ལྗོངས་ཚོན་མདོག་རན་པོ་ཞིག་འདེམ་རྒྱུ་གལ་ཆེན་ཡིན།
 
 ![/img/fs/44.gif](../img/fs/44.gif)
