@@ -30,7 +30,7 @@ The images of a work are presented in two formats: 1) the archival images and 2)
 
 📂 **AB0001** *- work folder named with the current text's Accession Number*
 
-* 📄 **AB0001.xlsx** *- "Bibbliographic Info Sheet" in Excel format*
+* 📄 **AB0001.xlsx** *- ["Bibbliographic Info Sheet" ](https://github.com/BuddhistDigitalResourceCenter/digitization-guidelines/files/1620906/Biblio_en_2017.1.xlsx)in Excel format*
 * 📂 **archive** *- large size images for long term archival*
     * 📂 **01** *- volume 1 folder. One folder per volume*
         * 🖼 **0001.j2k** *- cover image in JPEG2000, RGB, wavelets compression*

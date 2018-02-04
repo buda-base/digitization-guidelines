@@ -28,7 +28,7 @@
 
 📂 **AB0001** *- 以当前文本的登录号命名的工作文件夹*
 
-* 📄 **AB0001.xlsx** *-  Excel格式的“书目信息表”*
+* 📄 **AB0001.xlsx** *-  Excel格式的“[书目信息表](https://github.com/BuddhistDigitalResourceCenter/digitization-guidelines/files/1620907/Biblio_zh_2017.1.xlsx)”*
 * 📂 **archive** *-为长期存档之大型图像*
     * 📂 **01** *- 第1卷文件夹。一卷一个文件夹*
         * 🖼 **0001.j2k** *- 封面图像用JPEG2000，RGB，小波压缩*
