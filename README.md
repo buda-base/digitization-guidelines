@@ -1,4 +1,4 @@
-# BDRC Digitization Guidelines
+# BDRC Digitization Guidelines 
 
 This repository contains the digitization guidelines for the BUDA project lead by BDRC. The docs are available on https://buddhistdigitalresourcecenter.github.io/digitization-guidelines/ .
 
