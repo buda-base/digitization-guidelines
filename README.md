@@ -1,14 +1,7 @@
 # BDRC Digitization Guidelines 
 
-This repository contains the digitization guidelines for the BUDA project lead by BDRC. The docs are available on https://buda-base.github.io/digitization-guidelines.
+This repository contains the digitization guidelines for the BUDA project lead by BDRC. The docs are available on https://github.com/buda-base/digitization-guidelines/wiki.
 
-## Building
-
-First [install mkdocs](http://www.mkdocs.org/#installation), then install the [windmill theme](https://github.com/gristlabs/mkdocs-windmill). Then you can run
-
-    mkdocs gh-deploy
-
-to deploy to the `gh-pages` branch and serve it.
 
 ## Copyright
 
