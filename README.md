@@ -1,6 +1,6 @@
 # BDRC Digitization Guidelines
 
-This repository contains the digitization guidelines for the BUDA project lead by BDRC. The docs are available on https://gitee.com/bdrc/digitization-guidelines
+This repository contains the digitization guidelines for the BUDA project lead by BDRC. The docs were moved to gitee and are now available on https://gitee.com/bdrc/digitization-guidelines
 
 ## Copyright
 
